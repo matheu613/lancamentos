@@ -298,6 +298,7 @@ def ip_da_rede():
 ARQUIVOS_DO_SITE = {
     "/manifest.json": "application/manifest+json",
     "/sw.js": "text/javascript; charset=utf-8",
+    "/avisos.js": "text/javascript; charset=utf-8",
     "/icon-192.png": "image/png",
     "/icon-512.png": "image/png",
     "/apple-touch-icon.png": "image/png",

@@ -69,6 +69,12 @@ summary { cursor: pointer; color: var(--muted); }
 .sessao { border: 1px solid var(--line); border-radius: 6px; padding: 3px 7px; font-size: 12px; color: inherit; text-decoration: none; font-variant-numeric: tabular-nums; }
 .sessao:hover { border-color: var(--accent); }
 .sessao span { color: var(--muted); }
+[hidden] { display: none !important; }
+.botoes { flex: none; display: flex; flex-direction: column; gap: 6px; }
+.desejo-btn { font-size: 12.5px; padding: 5px 10px; white-space: nowrap; }
+.desejo-btn[aria-pressed="true"] { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); font-weight: 600; }
+#permissao { flex-basis: 100%; order: 8; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 13px; color: var(--accent); }
+#permissao button { font-size: 13px; padding: 4px 10px; }
 .abas { display: none; }
 #celular, #backup { max-width: 1280px; margin: 0 auto; padding: 0 20px 28px; color: var(--muted); font-size: 13px; }
 #celular b { color: var(--ink); user-select: all; }
@@ -82,12 +88,12 @@ summary { cursor: pointer; color: var(--muted); }
   #atualizar { order: 1; padding: 9px 12px; }
   select { order: 2; flex-basis: 100%; padding: 9px 12px; }
   .seg { order: 3; display: flex; flex-basis: 100%; }
-  .seg button { flex: 1; padding: 9px 6px; }
+  .seg button { flex: 1; padding: 9px 4px; font-size: 13.5px; }
   .abas { order: 4; }
   main { padding: 14px; padding-bottom: calc(14px + env(safe-area-inset-bottom)); }
   section h2 { display: none; }
   body[data-aba="series"] #sec-filmes, body[data-aba="filmes"] #sec-series { display: none; }
-  .visto-btn { padding: 8px 10px; }
+  .visto-btn, .desejo-btn { padding: 8px 10px; }
   .sessao { padding: 6px 9px; }
   #celular { display: none; }
 }
@@ -103,6 +109,7 @@ summary { cursor: pointer; color: var(--muted); }
       <button data-filtro="todos" aria-pressed="true">Todos</button>
       <button data-filtro="pendentes" aria-pressed="false">Não assistidos</button>
       <button data-filtro="vistos" aria-pressed="false">Assistidos</button>
+      <button data-filtro="desejados" aria-pressed="false">Desejados</button>
     </div>
     <span class="spacer"></span>
     <span id="status"></span>
@@ -111,6 +118,7 @@ summary { cursor: pointer; color: var(--muted); }
       <button data-aba="series" aria-pressed="true">Séries</button>
       <button data-aba="filmes" aria-pressed="false">Filmes</button>
     </div>
+    <div id="permissao" hidden></div>
   </div>
 </header>
 <main>
@@ -122,10 +130,12 @@ summary { cursor: pointer; color: var(--muted); }
   <button id="exportar">Exportar backup</button><button id="importar">Importar backup</button>
   <input id="arquivo" type="file" accept="application/json,.json" hidden>
 </div>
+<script src="avisos.js"></script>
 <script>
 const MESES = ['janeiro','fevereiro','março','abril','maio','junho','julho','agosto','setembro','outubro','novembro','dezembro'];
 const DIAS = ['dom','seg','ter','qua','qui','sex','sáb'];
 let dados = null, periodo = 'proximos', filtro = 'todos', timer = null;
+let estado = { desejos: {}, avisados: {} };  // lista de desejos e avisos já mostrados (avisos.js)
 let estatico = false;  // true no GitHub Pages: sem servidor, assistidos guardados no aparelho
 
 const $ = id => document.getElementById(id);
@@ -141,7 +151,7 @@ function el(tag, props, ...filhos) {
 const dt = iso => new Date(iso + 'T12:00:00');
 const dataCurta = iso => { const d = dt(iso); return `${DIAS[d.getDay()]}, ${d.getDate()} de ${MESES[d.getMonth()]}`; };
 const somaDias = (iso, n) => { const d = dt(iso); d.setDate(d.getDate() + n); return d.toISOString().slice(0, 10); };
-const hojeLocal = () => { const d = new Date(); return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`; };
+const hojeLocal = () => dataLocal();
 function lerAssistidos() { try { return JSON.parse(localStorage.getItem('assistidos')) || {}; } catch (e) { return {}; } }
 function gravarAssistidos() { try { localStorage.setItem('assistidos', JSON.stringify(dados.assistidos)); } catch (e) {} }
 const reais = v => 'R$ ' + v.toFixed(2).replace('.', ',');
@@ -153,6 +163,7 @@ function noPeriodo(item) {
 }
 function noFiltro(item) {
   const visto = item.id in dados.assistidos;
+  if (filtro === 'desejados') return item.id in estado.desejos;
   return filtro === 'todos' || (filtro === 'vistos') === visto;
 }
 
@@ -168,12 +179,21 @@ function botaoVisto(item) {
     onclick: () => marcar(item.id, !visto),
   }, visto ? '✓ Assistido' : 'Marcar assistido');
 }
+function botaoDesejo(item) {
+  const quer = item.id in estado.desejos;
+  if (item.data < dados.hoje && !quer) return null;  // já estreou: não há o que avisar
+  return el('button', {
+    class: 'desejo-btn', 'aria-pressed': String(quer),
+    title: quer ? 'Você será avisado na véspera e no dia da estreia' : 'Receber aviso na véspera e no dia da estreia',
+    onclick: () => desejar(item.id, !quer),
+  }, quer ? '★ Desejo assistir' : '☆ Desejo assistir');
+}
 function cabecalho(item, sub) {
   const quando = (item.data < dados.hoje ? 'Estreou ' : 'Estreia ') + dataCurta(item.data);
   return [
     el('div', { class: 'topo' },
       el('div', { class: 'titulo' }, item.url ? el('a', { href: item.url, target: '_blank', rel: 'noopener' }, item.titulo) : item.titulo),
-      botaoVisto(item)),
+      el('div', { class: 'botoes' }, botaoVisto(item), botaoDesejo(item))),
     el('div', { class: 'quando' }, quando),
     sub && el('div', { class: 'meta' }, sub),
     el('div', { class: 'chips' }, (item.generos.length ? item.generos : ['Gênero não informado']).map(g => el('span', { class: 'chip' }, g))),
@@ -236,6 +256,7 @@ function render() {
     : dados.atualizadoEm ? `Atualizado em ${new Date(dados.atualizadoEm).toLocaleString('pt-BR', { dateStyle: 'short', timeStyle: 'short' })}` : '';
   $('atualizar').disabled = dados.atualizando;
   $('atualizar').textContent = estatico ? 'Recarregar' : 'Atualizar agora';
+  dicaPermissao();
   $('backup').hidden = !estatico;
   $('celular').hidden = estatico;
   if (!estatico) $('celular').replaceChildren('Para abrir no celular (mesmo Wi-Fi), acesse ', el('b', {}, dados.enderecoRede), ' e use "Adicionar à tela inicial".');
@@ -244,22 +265,71 @@ function render() {
 async function carregar() {
   clearTimeout(timer);
   try {
+    estado = await lerEstado();
     const r = await fetch('data/dados.json', { cache: 'no-store' }).catch(() => null);
     if (r && r.ok) {  // site publicado (GitHub Pages)
       const d = await r.json();
       estatico = true;
       dados = { ...d, series: Object.values(d.series), filmes: Object.values(d.filmes), hoje: hojeLocal(), atualizando: false, assistidos: lerAssistidos() };
-      if ('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('sw.js');
+      if ('serviceWorker' in navigator && isSecureContext) navigator.serviceWorker.register('sw.js');
     } else {          // programa rodando no PC
       dados = await (await fetch('api/dados')).json();
     }
     render();
+    verificarAvisos();
     if (dados.atualizando) timer = setTimeout(carregar, 2500);
   } catch (e) {
     $('status').className = 'erro';
     $('status').textContent = estatico ? 'Sem conexão — não foi possível carregar os lançamentos.' : 'Servidor fora do ar — abra o iniciar.bat novamente.';
   }
 }
+
+// ---- desejos e avisos de estreia
+async function desejar(id, quer) {
+  if (quer) estado.desejos[id] = hojeLocal(); else delete estado.desejos[id];
+  render();
+  const salvo = await lerEstado();  // preserva avisos registrados pelo service worker
+  salvo.desejos = estado.desejos;
+  estado = salvo;
+  await gravarEstado(estado);
+  if (quer) { await pedirPermissao(); verificarAvisos(); }
+}
+async function pedirPermissao() {
+  if (!('Notification' in window)) return;
+  if (Notification.permission === 'default') await Notification.requestPermission();
+  if (Notification.permission === 'granted' && 'serviceWorker' in navigator) {
+    const reg = await navigator.serviceWorker.getRegistration();
+    // Checagem com o app fechado: só existe em app instalado no Chrome/Android.
+    if (reg && 'periodicSync' in reg) reg.periodicSync.register('avisos', { minInterval: 12 * 60 * 60 * 1000 }).catch(() => {});
+  }
+  dicaPermissao();
+}
+function dicaPermissao() {
+  const caixa = $('permissao');
+  const temDesejo = Object.keys(estado.desejos).length > 0;
+  const perm = 'Notification' in window ? Notification.permission : 'sem-suporte';
+  caixa.hidden = !temDesejo || perm === 'granted';
+  if (caixa.hidden) return;
+  if (perm === 'default') caixa.replaceChildren('Ative as notificações para receber os avisos de estreia.', el('button', { onclick: pedirPermissao }, 'Ativar'));
+  else if (perm === 'denied') caixa.replaceChildren('Notificações bloqueadas: libere-as nas configurações do navegador para receber os avisos.');
+  else caixa.replaceChildren('Este navegador não mostra notificações. No iPhone, adicione o app à Tela de Início.');
+}
+let verificando = false;
+async function verificarAvisos() {
+  if (verificando || !dados || !('Notification' in window) || Notification.permission !== 'granted') return;
+  verificando = true;
+  try {
+    const reg = 'serviceWorker' in navigator ? await navigator.serviceWorker.getRegistration() : null;
+    const enviados = await dispararAvisos([...dados.series, ...dados.filmes], hojeLocal(), p => {
+      const opcoes = { body: p.corpo, tag: p.chave, icon: 'icon-192.png' };
+      return reg ? reg.showNotification(p.titulo, opcoes) : new Notification(p.titulo, opcoes);
+    });
+    if (enviados) estado.avisados = (await lerEstado()).avisados;
+  } finally { verificando = false; }
+}
+document.addEventListener('visibilitychange', () => { if (!document.hidden) { pedirPermissaoSilenciosa(); verificarAvisos(); } });
+function pedirPermissaoSilenciosa() { if ('Notification' in window && Notification.permission === 'granted') pedirPermissao(); }
+
 async function marcar(id, assistido) {
   if (estatico) {
     if (assistido) dados.assistidos[id] = hojeLocal(); else delete dados.assistidos[id];
