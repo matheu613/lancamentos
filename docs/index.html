@@ -1,0 +1,305 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lançamentos</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Lançamentos">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#f4f2ee" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#161513" media="(prefers-color-scheme: dark)">
+<style>
+:root {
+  --bg: #f4f2ee; --surface: #ffffff; --ink: #1d1b18; --muted: #6b665e; --line: #e2ded6;
+  --accent: #b4441f; --accent-soft: #f6e3da; --ok: #2f7d4f; --ok-soft: #dff1e5; --chip: #efece6;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #161513; --surface: #201e1b; --ink: #ece8e1; --muted: #a39d92; --line: #34312c;
+    --accent: #f08a5d; --accent-soft: #3a2419; --ok: #6fcf97; --ok-soft: #1c3326; --chip: #2b2925;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.45 "Segoe UI", system-ui, sans-serif; }
+header { position: sticky; top: 0; z-index: 5; background: var(--bg); border-bottom: 1px solid var(--line); }
+.bar { max-width: 1280px; margin: 0 auto; padding: 14px 20px; display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; }
+h1 { font-size: 20px; margin: 0; letter-spacing: -.01em; }
+.spacer { flex: 1; }
+select, button { font: inherit; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 7px 12px; cursor: pointer; }
+button:hover, select:hover { border-color: var(--muted); }
+button:disabled { opacity: .55; cursor: default; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+.seg button { border: 0; border-radius: 0; background: var(--surface); }
+.seg button[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
+#status { color: var(--muted); font-size: 13px; }
+#status.erro { color: var(--accent); }
+main { max-width: 1280px; margin: 0 auto; padding: 20px; display: grid; grid-template-columns: 1fr; gap: 28px; }
+@media (min-width: 1000px) { main { grid-template-columns: 1fr 1fr; } }
+section h2 { font-size: 16px; margin: 0 0 12px; display: flex; align-items: baseline; gap: 8px; }
+section h2 small { color: var(--muted); font-weight: 400; font-size: 13px; }
+.lista { display: flex; flex-direction: column; gap: 10px; }
+.card { display: flex; gap: 14px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 12px; }
+.card.visto { opacity: .72; }
+.thumb { flex: 0 0 84px; width: 84px; height: 124px; border-radius: 8px; object-fit: cover; background: var(--chip); }
+.thumb.vazio { display: flex; align-items: center; justify-content: center; color: var(--muted); font-size: 11px; text-align: center; }
+.info { flex: 1; min-width: 0; }
+.topo { display: flex; gap: 10px; align-items: flex-start; }
+.titulo { font-weight: 600; font-size: 16px; line-height: 1.25; flex: 1; overflow-wrap: anywhere; }
+.titulo a { color: inherit; text-decoration: none; }
+.titulo a:hover { text-decoration: underline; }
+.quando { color: var(--accent); font-weight: 600; font-size: 13px; margin-top: 2px; }
+.meta { color: var(--muted); font-size: 13px; margin-top: 2px; }
+.chips { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 7px; }
+.chip { background: var(--chip); border-radius: 999px; padding: 2px 9px; font-size: 12px; }
+.onde { margin-top: 8px; font-size: 13.5px; }
+.onde b { font-weight: 600; }
+.plataforma { display: inline-block; background: var(--accent-soft); color: var(--accent); font-weight: 600; border-radius: 6px; padding: 2px 8px; }
+.visto-btn { flex: none; font-size: 12.5px; padding: 5px 10px; white-space: nowrap; }
+.visto-btn[aria-pressed="true"] { background: var(--ok-soft); border-color: var(--ok); color: var(--ok); font-weight: 600; }
+details { margin-top: 6px; font-size: 13px; }
+summary { cursor: pointer; color: var(--muted); }
+.dia { margin-top: 8px; }
+.dia-nome { font-weight: 600; font-size: 12.5px; margin-bottom: 4px; }
+.sessoes { display: flex; flex-wrap: wrap; gap: 5px; }
+.sessao { border: 1px solid var(--line); border-radius: 6px; padding: 3px 7px; font-size: 12px; color: inherit; text-decoration: none; font-variant-numeric: tabular-nums; }
+.sessao:hover { border-color: var(--accent); }
+.sessao span { color: var(--muted); }
+.abas { display: none; }
+#celular, #backup { max-width: 1280px; margin: 0 auto; padding: 0 20px 28px; color: var(--muted); font-size: 13px; }
+#celular b { color: var(--ink); user-select: all; }
+#backup button { font-size: 13px; padding: 5px 10px; margin-left: 6px; }
+@media (max-width: 999px) {
+  header { padding-top: env(safe-area-inset-top); }
+  .bar { padding: 10px 14px; gap: 8px 10px; }
+  .spacer { display: none; }
+  h1 { flex: 1; }
+  #status { order: 9; flex-basis: 100%; }
+  #atualizar { order: 1; padding: 9px 12px; }
+  select { order: 2; flex-basis: 100%; padding: 9px 12px; }
+  .seg { order: 3; display: flex; flex-basis: 100%; }
+  .seg button { flex: 1; padding: 9px 6px; }
+  .abas { order: 4; }
+  main { padding: 14px; padding-bottom: calc(14px + env(safe-area-inset-bottom)); }
+  section h2 { display: none; }
+  body[data-aba="series"] #sec-filmes, body[data-aba="filmes"] #sec-series { display: none; }
+  .visto-btn { padding: 8px 10px; }
+  .sessao { padding: 6px 9px; }
+  #celular { display: none; }
+}
+.vazio-lista { color: var(--muted); padding: 24px; text-align: center; border: 1px dashed var(--line); border-radius: 12px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <h1>Lançamentos</h1>
+    <select id="periodo" aria-label="Período"></select>
+    <div class="seg" role="group" aria-label="Filtro">
+      <button data-filtro="todos" aria-pressed="true">Todos</button>
+      <button data-filtro="pendentes" aria-pressed="false">Não assistidos</button>
+      <button data-filtro="vistos" aria-pressed="false">Assistidos</button>
+    </div>
+    <span class="spacer"></span>
+    <span id="status"></span>
+    <button id="atualizar">Atualizar agora</button>
+    <div class="seg abas" role="group" aria-label="Lista">
+      <button data-aba="series" aria-pressed="true">Séries</button>
+      <button data-aba="filmes" aria-pressed="false">Filmes</button>
+    </div>
+  </div>
+</header>
+<main>
+  <section id="sec-series"><h2>Séries <small id="cont-series"></small></h2><div class="lista" id="series"></div></section>
+  <section id="sec-filmes"><h2>Filmes <small id="cont-filmes"></small></h2><div class="lista" id="filmes"></div></section>
+</main>
+<div id="celular"></div>
+<div id="backup" hidden>Seus assistidos ficam salvos só neste aparelho.
+  <button id="exportar">Exportar backup</button><button id="importar">Importar backup</button>
+  <input id="arquivo" type="file" accept="application/json,.json" hidden>
+</div>
+<script>
+const MESES = ['janeiro','fevereiro','março','abril','maio','junho','julho','agosto','setembro','outubro','novembro','dezembro'];
+const DIAS = ['dom','seg','ter','qua','qui','sex','sáb'];
+let dados = null, periodo = 'proximos', filtro = 'todos', timer = null;
+let estatico = false;  // true no GitHub Pages: sem servidor, assistidos guardados no aparelho
+
+const $ = id => document.getElementById(id);
+function el(tag, props, ...filhos) {
+  const n = document.createElement(tag);
+  for (const [k, v] of Object.entries(props || {})) {
+    if (k === 'class') n.className = v; else if (k.startsWith('on')) n.addEventListener(k.slice(2), v);
+    else if (v != null) n.setAttribute(k, v);
+  }
+  for (const f of filhos.flat()) if (f != null && f !== false) n.append(f);
+  return n;
+}
+const dt = iso => new Date(iso + 'T12:00:00');
+const dataCurta = iso => { const d = dt(iso); return `${DIAS[d.getDay()]}, ${d.getDate()} de ${MESES[d.getMonth()]}`; };
+const somaDias = (iso, n) => { const d = dt(iso); d.setDate(d.getDate() + n); return d.toISOString().slice(0, 10); };
+const hojeLocal = () => { const d = new Date(); return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`; };
+function lerAssistidos() { try { return JSON.parse(localStorage.getItem('assistidos')) || {}; } catch (e) { return {}; } }
+function gravarAssistidos() { try { localStorage.setItem('assistidos', JSON.stringify(dados.assistidos)); } catch (e) {} }
+const reais = v => 'R$ ' + v.toFixed(2).replace('.', ',');
+
+function noPeriodo(item) {
+  if (!item.data) return false;
+  if (periodo === 'proximos') return item.data >= dados.hoje && item.data <= somaDias(dados.hoje, dados.janelaDias);
+  return item.data.startsWith(periodo);
+}
+function noFiltro(item) {
+  const visto = item.id in dados.assistidos;
+  return filtro === 'todos' || (filtro === 'vistos') === visto;
+}
+
+function thumb(item) {
+  if (!item.imagem) return el('div', { class: 'thumb vazio' }, 'sem imagem');
+  return el('img', { class: 'thumb', src: item.imagem, alt: '', loading: 'lazy', referrerpolicy: 'no-referrer' });
+}
+function botaoVisto(item) {
+  const visto = dados.assistidos[item.id];
+  return el('button', {
+    class: 'visto-btn', 'aria-pressed': String(!!visto),
+    title: visto ? `Marcado em ${dt(visto).toLocaleDateString('pt-BR')}` : 'Marcar como assistido',
+    onclick: () => marcar(item.id, !visto),
+  }, visto ? '✓ Assistido' : 'Marcar assistido');
+}
+function cabecalho(item, sub) {
+  const quando = (item.data < dados.hoje ? 'Estreou ' : 'Estreia ') + dataCurta(item.data);
+  return [
+    el('div', { class: 'topo' },
+      el('div', { class: 'titulo' }, item.url ? el('a', { href: item.url, target: '_blank', rel: 'noopener' }, item.titulo) : item.titulo),
+      botaoVisto(item)),
+    el('div', { class: 'quando' }, quando),
+    sub && el('div', { class: 'meta' }, sub),
+    el('div', { class: 'chips' }, (item.generos.length ? item.generos : ['Gênero não informado']).map(g => el('span', { class: 'chip' }, g))),
+  ];
+}
+
+function cardSerie(s) {
+  const sub = s.temporada > 1 ? `Temporada ${s.temporada}` : 'Série nova';
+  return el('article', { class: 'card' + (s.id in dados.assistidos ? ' visto' : '') }, thumb(s),
+    el('div', { class: 'info' }, cabecalho(s, sub),
+      el('div', { class: 'onde' }, 'Disponível em ', el('span', { class: 'plataforma' }, s.plataforma))));
+}
+
+function blocoSessoes(f) {
+  const futuras = f.sessoes.filter(s => s.data >= dados.hoje);
+  if (!futuras.length) return el('div', { class: 'onde' }, el('b', {}, 'Shopping Palladium: '), 'ainda sem sessões disponíveis');
+  const precos = futuras.map(s => s.preco).filter(p => p > 0);
+  const min = Math.min(...precos), max = Math.max(...precos);
+  const faixa = !precos.length ? 'preço não informado' : min === max ? reais(min) : `${reais(min)} a ${reais(max)}`;
+  const porDia = new Map();
+  for (const s of futuras) { if (!porDia.has(s.data)) porDia.set(s.data, []); porDia.get(s.data).push(s); }
+  return [
+    el('div', { class: 'onde' }, el('b', {}, 'Shopping Palladium: '), `${futuras.length} ${futuras.length === 1 ? 'sessão' : 'sessões'} em ${porDia.size} ${porDia.size === 1 ? 'dia' : 'dias'}`),
+    el('div', { class: 'onde' }, el('b', {}, 'Ingresso (inteira): '), faixa),
+    el('details', {}, el('summary', {}, 'Ver sessões e horários'),
+      [...porDia].map(([dia, lista]) => el('div', { class: 'dia' },
+        el('div', { class: 'dia-nome' }, dataCurta(dia)),
+        el('div', { class: 'sessoes' }, lista.map(s => el('a', { class: 'sessao', href: s.url, target: '_blank', rel: 'noopener' },
+          s.hora + ' ', el('span', {}, [s.cinema.split(' ')[0], s.sala, ...s.tipos, s.preco > 0 ? reais(s.preco) : null].filter(Boolean).join(' · ')))))))),
+  ];
+}
+function cardFilme(f) {
+  const sub = [f.duracao && f.duracao !== '0' ? `${f.duracao} min` : null, f.classificacao].filter(Boolean).join(' · ');
+  return el('article', { class: 'card' + (f.id in dados.assistidos ? ' visto' : '') }, thumb(f),
+    el('div', { class: 'info' }, cabecalho(f, sub), blocoSessoes(f)));
+}
+
+function lista(alvo, itens, card, cont, vazio) {
+  const visiveis = itens.filter(noPeriodo).sort((a, b) => a.data.localeCompare(b.data) || a.titulo.localeCompare(b.titulo));
+  const filtrados = visiveis.filter(noFiltro);
+  const vistos = visiveis.filter(i => i.id in dados.assistidos).length;
+  $(cont).textContent = `${visiveis.length} lançamentos · ${vistos} assistidos`;
+  document.querySelector(`.abas [data-aba="${alvo}"]`).textContent = `${alvo === 'series' ? 'Séries' : 'Filmes'} (${visiveis.length})`;
+  $(alvo).replaceChildren(...(filtrados.length ? filtrados.map(card) : [el('div', { class: 'vazio-lista' }, dados.atualizando && !visiveis.length ? 'Buscando lançamentos…' : vazio)]));
+}
+
+function render() {
+  const meses = [...new Set([...dados.series, ...dados.filmes].map(i => (i.data || '').slice(0, 7)).filter(Boolean))].sort().reverse();
+  if (periodo !== 'proximos' && !meses.includes(periodo)) periodo = 'proximos';
+  $('periodo').replaceChildren(
+    el('option', { value: 'proximos' }, `Próximos ${dados.janelaDias} dias`),
+    ...meses.map(m => el('option', { value: m }, `${MESES[+m.slice(5) - 1][0].toUpperCase() + MESES[+m.slice(5) - 1].slice(1)} de ${m.slice(0, 4)}`)));
+  $('periodo').value = periodo;
+  lista('series', dados.series, cardSerie, 'cont-series', 'Nenhuma série neste período.');
+  lista('filmes', dados.filmes, cardFilme, 'cont-filmes', 'Nenhum filme neste período.');
+  const st = $('status');
+  st.className = dados.erro ? 'erro' : '';
+  st.textContent = dados.atualizando ? 'Atualizando…'
+    : dados.erro ? `Falha parcial na atualização (${dados.erro})`
+    : dados.atualizadoEm ? `Atualizado em ${new Date(dados.atualizadoEm).toLocaleString('pt-BR', { dateStyle: 'short', timeStyle: 'short' })}` : '';
+  $('atualizar').disabled = dados.atualizando;
+  $('atualizar').textContent = estatico ? 'Recarregar' : 'Atualizar agora';
+  $('backup').hidden = !estatico;
+  $('celular').hidden = estatico;
+  if (!estatico) $('celular').replaceChildren('Para abrir no celular (mesmo Wi-Fi), acesse ', el('b', {}, dados.enderecoRede), ' e use "Adicionar à tela inicial".');
+}
+
+async function carregar() {
+  clearTimeout(timer);
+  try {
+    const r = await fetch('data/dados.json', { cache: 'no-store' }).catch(() => null);
+    if (r && r.ok) {  // site publicado (GitHub Pages)
+      const d = await r.json();
+      estatico = true;
+      dados = { ...d, series: Object.values(d.series), filmes: Object.values(d.filmes), hoje: hojeLocal(), atualizando: false, assistidos: lerAssistidos() };
+      if ('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('sw.js');
+    } else {          // programa rodando no PC
+      dados = await (await fetch('api/dados')).json();
+    }
+    render();
+    if (dados.atualizando) timer = setTimeout(carregar, 2500);
+  } catch (e) {
+    $('status').className = 'erro';
+    $('status').textContent = estatico ? 'Sem conexão — não foi possível carregar os lançamentos.' : 'Servidor fora do ar — abra o iniciar.bat novamente.';
+  }
+}
+async function marcar(id, assistido) {
+  if (estatico) {
+    if (assistido) dados.assistidos[id] = hojeLocal(); else delete dados.assistidos[id];
+    gravarAssistidos();
+    return render();
+  }
+  const r = await fetch('api/assistido', { method: 'POST', body: JSON.stringify({ id, assistido }) });
+  if (r.ok) { dados.assistidos = (await r.json()).assistidos; render(); }
+}
+
+$('periodo').addEventListener('change', e => { periodo = e.target.value; render(); });
+document.querySelectorAll('[data-filtro]').forEach(b => b.addEventListener('click', () => {
+  filtro = b.dataset.filtro;
+  document.querySelectorAll('[data-filtro]').forEach(x => x.setAttribute('aria-pressed', String(x === b)));
+  render();
+}));
+document.body.dataset.aba = 'series';
+document.querySelectorAll('.abas [data-aba]').forEach(b => b.addEventListener('click', () => {
+  document.body.dataset.aba = b.dataset.aba;
+  document.querySelectorAll('.abas [data-aba]').forEach(x => x.setAttribute('aria-pressed', String(x === b)));
+  scrollTo(0, 0);
+}));
+$('atualizar').addEventListener('click', async () => {
+  if (estatico) return carregar();
+  await fetch('api/atualizar', { method: 'POST' }); setTimeout(carregar, 300);
+});
+$('exportar').addEventListener('click', () => {
+  const a = el('a', { href: URL.createObjectURL(new Blob([JSON.stringify(dados.assistidos, null, 1)], { type: 'application/json' })), download: 'lancamentos-assistidos.json' });
+  a.click(); URL.revokeObjectURL(a.href);
+});
+$('importar').addEventListener('click', () => $('arquivo').click());
+$('arquivo').addEventListener('change', async e => {
+  try {
+    const lido = JSON.parse(await e.target.files[0].text());
+    if (!lido || typeof lido !== 'object' || Array.isArray(lido)) throw new Error();
+    Object.assign(dados.assistidos, lido); gravarAssistidos(); render();
+  } catch (err) { alert('Esse arquivo não é um backup de assistidos válido.'); }
+  e.target.value = '';
+});
+carregar();
+</script>
+</body>
+</html>

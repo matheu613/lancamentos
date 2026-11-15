@@ -1,0 +1,48 @@
+name: Atualizar lançamentos
+
+on:
+  schedule:
+    - cron: "0 9,21 * * *"   # 6h e 18h no horário de Brasília
+  workflow_dispatch:          # botão "Run workflow" na aba Actions
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: atualizar
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.publicar.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Coletar lançamentos
+        run: python coletar.py
+
+      - name: Guardar histórico no repositório
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/dados.json
+          git diff --cached --quiet || git commit -m "Atualiza lançamentos"
+          git push
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: publicar
+        uses: actions/deploy-pages@v4
