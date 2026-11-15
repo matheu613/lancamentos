@@ -1,0 +1,15 @@
+{
+  "name": "lancamentos-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Casca Android (Capacitor) do monitor de lançamentos. O APK é gerado pelo GitHub Actions.",
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/core": "^6.2.0",
+    "@capacitor/local-notifications": "^6.1.0"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^6.2.0"
+  }
+}

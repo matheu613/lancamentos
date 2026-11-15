@@ -32,6 +32,17 @@ async function gravarEstado(estado) {
   } catch (e) {}
 }
 
+// Texto de um aviso: quando = 'vespera' ou 'dia'.
+function textoAviso(item, quando) {
+  return {
+    chave: `${item.id}-${quando}-${item.data}`,
+    titulo: `${quando === 'dia' ? 'Estreia hoje' : 'Estreia amanhã'}: ${item.titulo}`,
+    corpo: item.plataforma
+      ? `${item.temporada > 1 ? `Temporada ${item.temporada}` : 'Série nova'} · ${item.plataforma}`
+      : 'Filme nos cinemas',
+  };
+}
+
 // Avisos que ainda não foram mostrados: um na véspera e um no dia da estreia de cada desejo.
 function avisosPendentes(estado, itens, hoje) {
   const amanha = maisDias(hoje, 1);
@@ -40,15 +51,8 @@ function avisosPendentes(estado, itens, hoje) {
     if (!(item.id in estado.desejos)) continue;
     const quando = item.data === hoje ? 'dia' : item.data === amanha ? 'vespera' : null;
     if (!quando) continue;
-    const chave = `${item.id}-${quando}-${item.data}`;
-    if (estado.avisados[chave]) continue;
-    pendentes.push({
-      chave,
-      titulo: `${quando === 'dia' ? 'Estreia hoje' : 'Estreia amanhã'}: ${item.titulo}`,
-      corpo: item.plataforma
-        ? `${item.temporada > 1 ? `Temporada ${item.temporada}` : 'Série nova'} · ${item.plataforma}`
-        : 'Filme nos cinemas',
-    });
+    const aviso = textoAviso(item, quando);
+    if (!estado.avisados[aviso.chave]) pendentes.push(aviso);
   }
   return pendentes;
 }

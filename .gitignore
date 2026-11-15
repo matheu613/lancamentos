@@ -1,2 +1,4 @@
 __pycache__/
 /data/
+android-app/node_modules/
+android-app/android/

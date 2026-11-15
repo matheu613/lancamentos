@@ -1,0 +1,14 @@
+{
+  "appId": "io.github.matheu613.lancamentos",
+  "appName": "Lançamentos",
+  "webDir": "www",
+  "server": {
+    "url": "https://matheu613.github.io/lancamentos/",
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "iconColor": "#B4441F"
+    }
+  }
+}

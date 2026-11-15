@@ -78,6 +78,7 @@ summary { cursor: pointer; color: var(--muted); }
 .abas { display: none; }
 #celular, #backup { max-width: 1280px; margin: 0 auto; padding: 0 20px 28px; color: var(--muted); font-size: 13px; }
 #celular b { color: var(--ink); user-select: all; }
+#backup a { color: var(--accent); }
 #backup button { font-size: 13px; padding: 5px 10px; margin-left: 6px; }
 @media (max-width: 999px) {
   header { padding-top: env(safe-area-inset-top); }
@@ -129,6 +130,7 @@ summary { cursor: pointer; color: var(--muted); }
 <div id="backup" hidden>Seus assistidos ficam salvos só neste aparelho.
   <button id="exportar">Exportar backup</button><button id="importar">Importar backup</button>
   <input id="arquivo" type="file" accept="application/json,.json" hidden>
+  <p id="apk">Android: <a href="https://github.com/matheu613/lancamentos/releases/latest/download/lancamentos.apk">baixar o app (APK)</a>, com avisos de estreia às 9h mesmo com o app fechado.</p>
 </div>
 <script src="avisos.js"></script>
 <script>
@@ -136,6 +138,11 @@ const MESES = ['janeiro','fevereiro','março','abril','maio','junho','julho','ag
 const DIAS = ['dom','seg','ter','qua','qui','sex','sáb'];
 let dados = null, periodo = 'proximos', filtro = 'todos', timer = null;
 let estado = { desejos: {}, avisados: {} };  // lista de desejos e avisos já mostrados (avisos.js)
+// Dentro do app Android (APK) as notificações são agendadas no próprio aparelho.
+const nativo = !!(window.Capacitor && Capacitor.isNativePlatform && Capacitor.isNativePlatform());
+const LN = nativo ? Capacitor.Plugins.LocalNotifications : null;
+const HORA_DO_AVISO = 9;
+let permNativa = 'prompt';
 let estatico = false;  // true no GitHub Pages: sem servidor, assistidos guardados no aparelho
 
 const $ = id => document.getElementById(id);
@@ -258,6 +265,7 @@ function render() {
   $('atualizar').textContent = estatico ? 'Recarregar' : 'Atualizar agora';
   dicaPermissao();
   $('backup').hidden = !estatico;
+  $('apk').hidden = nativo;
   $('celular').hidden = estatico;
   if (!estatico) $('celular').replaceChildren('Para abrir no celular (mesmo Wi-Fi), acesse ', el('b', {}, dados.enderecoRede), ' e use "Adicionar à tela inicial".');
 }
@@ -292,9 +300,14 @@ async function desejar(id, quer) {
   salvo.desejos = estado.desejos;
   estado = salvo;
   await gravarEstado(estado);
-  if (quer) { await pedirPermissao(); verificarAvisos(); }
+  if (quer) await pedirPermissao();
+  if (quer || nativo) verificarAvisos();
 }
 async function pedirPermissao() {
+  if (nativo) {
+    try { permNativa = (await LN.requestPermissions()).display; } catch (e) {}
+    return dicaPermissao();
+  }
   if (!('Notification' in window)) return;
   if (Notification.permission === 'default') await Notification.requestPermission();
   if (Notification.permission === 'granted' && 'serviceWorker' in navigator) {
@@ -307,15 +320,53 @@ async function pedirPermissao() {
 function dicaPermissao() {
   const caixa = $('permissao');
   const temDesejo = Object.keys(estado.desejos).length > 0;
-  const perm = 'Notification' in window ? Notification.permission : 'sem-suporte';
+  const perm = nativo ? (permNativa === 'granted' || permNativa === 'denied' ? permNativa : 'default')
+    : 'Notification' in window ? Notification.permission : 'sem-suporte';
   caixa.hidden = !temDesejo || perm === 'granted';
   if (caixa.hidden) return;
   if (perm === 'default') caixa.replaceChildren('Ative as notificações para receber os avisos de estreia.', el('button', { onclick: pedirPermissao }, 'Ativar'));
-  else if (perm === 'denied') caixa.replaceChildren('Notificações bloqueadas: libere-as nas configurações do navegador para receber os avisos.');
+  else if (perm === 'denied') caixa.replaceChildren(`Notificações bloqueadas: libere-as nas configurações do ${nativo ? 'Android' : 'navegador'} para receber os avisos.`);
   else caixa.replaceChildren('Este navegador não mostra notificações. No iPhone, adicione o app à Tela de Início.');
+}
+// APK: agenda no Android um aviso às 9h da véspera e outro às 9h do dia, para cada desejo.
+function idNumerico(chave) {
+  let h = 0;
+  for (const c of chave) h = (h * 31 + c.charCodeAt(0)) | 0;
+  return Math.abs(h) % 2000000000 + 1;
+}
+async function agendarNativo() {
+  if (permNativa === 'prompt') { try { permNativa = (await LN.checkPermissions()).display; } catch (e) {} dicaPermissao(); }
+  if (permNativa !== 'granted') return;
+  const pendentes = (await LN.getPending()).notifications;
+  if (pendentes.length) await LN.cancel({ notifications: pendentes.map(n => ({ id: n.id })) });
+  const salvo = await lerEstado(), agora = new Date(), novos = [];
+  for (const item of [...dados.series, ...dados.filmes]) {
+    if (!(item.id in salvo.desejos)) continue;
+    for (const [quando, dia] of [['vespera', maisDias(item.data, -1)], ['dia', item.data]]) {
+      const aviso = textoAviso(item, quando);
+      let at = new Date(`${dia}T${String(HORA_DO_AVISO).padStart(2, '0')}:00:00`);
+      if (at <= agora) {  // horário já passou: avisa agora, se ainda for o dia certo e não tiver avisado
+        if (dia !== hojeLocal() || salvo.avisados[aviso.chave]) continue;
+        at = new Date(agora.getTime() + 3000);
+      }
+      salvo.avisados[aviso.chave] = dia;
+      novos.push({ id: idNumerico(aviso.chave), title: aviso.titulo, body: aviso.corpo, schedule: { at, allowWhileIdle: true } });
+    }
+  }
+  if (novos.length) await LN.schedule({ notifications: novos });
+  const limite = maisDias(hojeLocal(), -10);
+  for (const [chave, dia] of Object.entries(salvo.avisados)) if (dia < limite) delete salvo.avisados[chave];
+  await gravarEstado(salvo);
+  estado.avisados = salvo.avisados;
 }
 let verificando = false;
 async function verificarAvisos() {
+  if (nativo) {
+    if (verificando || !dados) return;
+    verificando = true;
+    try { await agendarNativo(); } catch (e) { console.error('agendamento', e); } finally { verificando = false; }
+    return;
+  }
   if (verificando || !dados || !('Notification' in window) || Notification.permission !== 'granted') return;
   verificando = true;
   try {
