@@ -565,6 +565,21 @@
    "idioma": "Korean",
    "sinopse": "",
    "url": "https://www.tvmaze.com/shows/89632/tantara"
+  },
+  "s90747-1": {
+   "id": "s90747-1",
+   "titulo": "Garfield",
+   "temporada": 1,
+   "data": "2026-12-11",
+   "generos": [
+    "Comédia",
+    "Infantil"
+   ],
+   "imagem": null,
+   "plataforma": "Paramount+",
+   "idioma": "English",
+   "sinopse": "Garfield, the series, is inspired by Jim Davis' original comic strip and features the chonky feline at his finest, most sarcastic and lackadaisical.",
+   "url": "https://www.tvmaze.com/shows/90747/garfield"
   }
  },
  "filmes": {
@@ -1479,7 +1494,7 @@
     "Drama",
     "Esporte"
    ],
-   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/eu-sou-o-rocky/f43711a0-b291-4cac-abba-7d68a0710746.webp",
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/eu-sou-o-rocky/95f4371b-f598-41f3-a856-37dcff07c18a.webp",
    "classificacao": "12 anos",
    "duracao": "128",
    "sinopse": "EU SOU O ROCKY conta a incrível história por trás da criação de um dos maiores clássicos do cinema. Antes do sucesso, \"Rocky\" era apenas uma ideia na cabeça de Sylvester Stallone, um ator desconhecido com o rosto parcialmente paralisado e um problema de fala. Quando seu roteiro desperta o interesse de um grande estúdio, Stallone toma uma decisão ousada e recusa a proposta milionária que mudaria su",
@@ -1994,8 +2009,8 @@
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/bts-world-tour-arirang-in-kaohsiung-live-viewing/dcc2a890-8e45-4b20-a2b0-1c502e568935.webp",
    "classificacao": "Verifique a Classificação",
-   "duracao": "0",
-   "sinopse": "",
+   "duracao": "195",
+   "sinopse": "A jornada que quebrou recordes continua: a histórica turnê do BTS pela Ásia chega às telonas. Sinta a vibração do público em Kaohsiung em novembro e curta as apresentações de tirar o fôlego e a energia eletrizante da turnê em estádios do BTS. Não perca a chance de vivenciar a BTS WORLD TOUR 'ARIRANG' em toda a sua glória nos cinemas do mundo todo.",
    "url": "https://www.ingresso.com/filme/bts-world-tour-arirang-in-kaohsiung-live-viewing?city=curitiba",
    "sessoes": [
     {
@@ -3222,18 +3237,6 @@
    "sessoes": [
     {
      "data": "2026-11-16",
-     "hora": "15:10",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658140&partnership=home"
-    },
-    {
-     "data": "2026-11-16",
      "hora": "20:00",
      "cinema": "UCI Palladium",
      "sala": "Sala 5",
@@ -3296,42 +3299,6 @@
    "sinopse": "Desta vez o grupo de amigos viaja ao Caribe, mais precisamente até a ilha de San Sábados — que fica entre as ilhas de San Viernes e San Domingos —, para o casamento de Anita, filha de Rocha.",
    "url": "https://www.ingresso.com/filme/os-farofeiros-3?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-15",
-     "hora": "21:45",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87658817&partnership=home"
-    },
-    {
-     "data": "2026-11-16",
-     "hora": "14:05",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "NAC"
-     ],
-     "preco": 32.62,
-     "url": "https://checkout.ingresso.com/?sessionId=87658217&partnership=home"
-    },
-    {
-     "data": "2026-11-16",
-     "hora": "16:20",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "NAC"
-     ],
-     "preco": 32.62,
-     "url": "https://checkout.ingresso.com/?sessionId=87658221&partnership=home"
-    },
     {
      "data": "2026-11-16",
      "hora": "17:00",
@@ -3560,18 +3527,6 @@
    "url": "https://www.ingresso.com/filme/lago-dos-ossos?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-15",
-     "hora": "21:55",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87658082&partnership=home"
-    },
-    {
      "data": "2026-11-16",
      "hora": "21:55",
      "cinema": "UCI Palladium",
@@ -3625,18 +3580,6 @@
    "url": "https://www.ingresso.com/filme/tres-horas-para-viver?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-15",
-     "hora": "22:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87658511&partnership=home"
-    },
-    {
      "data": "2026-11-16",
      "hora": "22:00",
      "cinema": "UCI Palladium",
@@ -3679,18 +3622,6 @@
    "url": "https://www.ingresso.com/filme/cara-de-barro?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-15",
-     "hora": "21:50",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87658492&partnership=home"
-    },
-    {
      "data": "2026-11-16",
      "hora": "21:50",
      "cinema": "UCI Palladium",
@@ -3730,18 +3661,6 @@
    "sinopse": "Uma nova adaptação de\"Um Conto de Natal\", de Charles Dickens. Na véspera de Natal, o avarento Ebenezer Scrooge recebe a visita do fantasma de seu antigo sócio, Jacob Marley, e dos espíritos do Natal Passado, Presente e Futuro. As aparições o obrigam a confrontar sua própria vida e oferecem uma chance de redenção.",
    "url": "https://www.ingresso.com/filme/ebenezer-e-os-fantasmas-do-natal?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-16",
-     "hora": "14:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658882&partnership=home"
-    },
     {
      "data": "2026-11-16",
      "hora": "19:15",
@@ -3820,18 +3739,6 @@
    "sessoes": [
     {
      "data": "2026-11-16",
-     "hora": "14:45",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658531&partnership=home"
-    },
-    {
-     "data": "2026-11-16",
      "hora": "19:30",
      "cinema": "UCI Palladium",
      "sala": "Sala 8",
@@ -3895,18 +3802,6 @@
    "url": "https://www.ingresso.com/filme/feito-pipa?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-16",
-     "hora": "16:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658884&partnership=home"
-    },
-    {
      "data": "2026-11-17",
      "hora": "16:00",
      "cinema": "UCI Palladium",
@@ -3947,30 +3842,6 @@
    "sinopse": "A Virada: Ignição da Alma é um remake brasileiro do filme dos Irmãos Kendrick, ambientado no Rio de Janeiro. A história acompanha Noah Silva, um vendedor de carros usados carismático, cuja vida começa a desmoronar após sua postura “a qualquer custo” cobrar um preço alto em casa e no trabalho. Confrontado por uma série de alertas, ele embarca em uma jornada de reconciliação e transformação pessoal,",
    "url": "https://www.ingresso.com/filme/a-virada-ignicao-da-alma?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-15",
-     "hora": "22:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87658609&partnership=home"
-    },
-    {
-     "data": "2026-11-16",
-     "hora": "14:15",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658666&partnership=home"
-    },
     {
      "data": "2026-11-16",
      "hora": "16:50",
@@ -4088,18 +3959,6 @@
    "sessoes": [
     {
      "data": "2026-11-16",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658289&partnership=home"
-    },
-    {
-     "data": "2026-11-16",
      "hora": "16:45",
      "cinema": "UCI Palladium",
      "sala": "Sala 2",
@@ -4177,18 +4036,6 @@
    "sinopse": "Um grupo de assaltantes extremamente habilidosos transforma seus roubos em espetáculo ao transmitir as ações pelas redes sociais. A fama viral da quadrilha chama a atenção de um veterano agente do FBI e de uma brilhante engenheira de software, que iniciam uma intensa caça digital aos criminosos. Enquanto a perseguição se aproxima, os ladrões planejam seu golpe mais ambicioso.",
    "url": "https://www.ingresso.com/filme/como-roubar-um-banco?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-16",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658603&partnership=home"
-    },
     {
      "data": "2026-11-16",
      "hora": "16:30",
@@ -4339,18 +4186,6 @@
    "sinopse": "A guerra reduziu o Japão a zero, e o Godzilla mergulhou-o no negativo. Passaram-se dois anos desde então, e o país tem enfrentado lutas agonizantes para alcançar a recuperação e, finalmente, voltar à vida normal.\nNo momento em que a humanidade conseguiu se agarrar a uma paz conquistada com dificuldade, surge uma nova ameaça, esmagando a esperança num instante. Não há uma terceira vez. Tudo acaba a",
    "url": "https://www.ingresso.com/filme/godzilla-minus-zero?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-16",
-     "hora": "14:55",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 38.44,
-     "url": "https://checkout.ingresso.com/?sessionId=87687401&partnership=home"
-    },
     {
      "data": "2026-11-16",
      "hora": "17:15",
@@ -4531,18 +4366,6 @@
    "sinopse": "Uma equipe de jovens médicos embarca em uma missão humanitária na Floresta Amazônica. A chegada do grupo desperta uma antiga força da região: a Boiúna, criatura inspirada na lenda amazônica da cobra-grande. Em meio à selva, eles precisam lutar pela sobrevivência contra um predador que domina tanto a terra quanto as águas.",
    "url": "https://www.ingresso.com/filme/boiuna-terror-no-amazonas?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-16",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658818&partnership=home"
-    },
     {
      "data": "2026-11-16",
      "hora": "18:00",
@@ -6323,7 +6146,7 @@
    ]
   }
  },
- "atualizadoEm": "2026-11-15T21:52:38-03:00",
+ "atualizadoEm": "2026-11-16T16:25:00-03:00",
  "janelaDias": 30,
  "erro": null
 }
