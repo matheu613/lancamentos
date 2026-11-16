@@ -3221,18 +3221,6 @@
    "url": "https://www.ingresso.com/filme/pinoquio-maldicao-de-madeira?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-15",
-     "hora": "20:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87658595&partnership=home"
-    },
-    {
      "data": "2026-11-16",
      "hora": "15:10",
      "cinema": "UCI Palladium",
@@ -3308,18 +3296,6 @@
    "sinopse": "Desta vez o grupo de amigos viaja ao Caribe, mais precisamente até a ilha de San Sábados — que fica entre as ilhas de San Viernes e San Domingos —, para o casamento de Anita, filha de Rocha.",
    "url": "https://www.ingresso.com/filme/os-farofeiros-3?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-15",
-     "hora": "20:45",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "NAC"
-     ],
-     "preco": 50.09,
-     "url": "https://checkout.ingresso.com/?sessionId=87658035&partnership=home"
-    },
     {
      "data": "2026-11-15",
      "hora": "21:45",
@@ -3843,18 +3819,6 @@
    "url": "https://www.ingresso.com/filme/as-dez-vantagens-de-morrer-depois-de-voce?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-15",
-     "hora": "19:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87658588&partnership=home"
-    },
-    {
      "data": "2026-11-16",
      "hora": "14:45",
      "cinema": "UCI Palladium",
@@ -3983,18 +3947,6 @@
    "sinopse": "A Virada: Ignição da Alma é um remake brasileiro do filme dos Irmãos Kendrick, ambientado no Rio de Janeiro. A história acompanha Noah Silva, um vendedor de carros usados carismático, cuja vida começa a desmoronar após sua postura “a qualquer custo” cobrar um preço alto em casa e no trabalho. Confrontado por uma série de alertas, ele embarca em uma jornada de reconciliação e transformação pessoal,",
    "url": "https://www.ingresso.com/filme/a-virada-ignicao-da-alma?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-15",
-     "hora": "19:25",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87658735&partnership=home"
-    },
     {
      "data": "2026-11-15",
      "hora": "22:00",
@@ -4226,18 +4178,6 @@
    "url": "https://www.ingresso.com/filme/como-roubar-um-banco?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-15",
-     "hora": "21:35",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87658639&partnership=home"
-    },
-    {
      "data": "2026-11-16",
      "hora": "14:00",
      "cinema": "UCI Palladium",
@@ -4400,30 +4340,6 @@
    "url": "https://www.ingresso.com/filme/godzilla-minus-zero?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-15",
-     "hora": "20:05",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87658235&partnership=home"
-    },
-    {
-     "data": "2026-11-15",
-     "hora": "20:10",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 47.76,
-     "url": "https://checkout.ingresso.com/?sessionId=87687400&partnership=home"
-    },
-    {
      "data": "2026-11-16",
      "hora": "14:55",
      "cinema": "IMAX Palladium",
@@ -4561,18 +4477,6 @@
    "sinopse": "Brian O'Conner, um policial de Los Angeles, deve decidir onde realmente reside sua lealdade quando ele se apaixona pelo mundo das corridas de rua que foi enviado disfarçado para acabar.",
    "url": "https://www.ingresso.com/filme/velozes-e-furiosos-25-aniversario?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-15",
-     "hora": "19:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87553860&partnership=home"
-    },
     {
      "data": "2026-11-16",
      "hora": "19:30",
@@ -6419,7 +6323,7 @@
    ]
   }
  },
- "atualizadoEm": "2026-11-15T19:39:52-03:00",
+ "atualizadoEm": "2026-11-15T21:52:38-03:00",
  "janelaDias": 30,
  "erro": null
 }
