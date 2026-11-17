@@ -41,8 +41,8 @@
    "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/646/1617078.jpg",
    "plataforma": "Disney+",
    "idioma": "German",
-   "sinopse": "Vienna Game is about the Congress of Vienna, following the downfall of Napoleon Bonaparte following his exile to the island of Elba. Kings and crown princes, ministers, spies, noble ladies, mistresses, inventors, artists, and concubines, party and discuss the situation in Vienna. The fate of Europe is then played on the dance floor and in the boudoir.We see how the delegations of England, Russia, ",
-   "url": "https://www.tvmaze.com/shows/75517/vienna-game"
+   "sinopse": "1814. The Congress of Vienna. Europe is at stake. Love, intrigues, and power plays shuffle the deck.",
+   "url": "https://www.disneyplus.com/browse/entity-5bd39bd1-01a0-4c7a-bb7a-c0eb4f2c7088"
   },
   "s90831-1": {
    "id": "s90831-1",
@@ -52,7 +52,7 @@
    "generos": [
     "Reality"
    ],
-   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/650/1626521.jpg",
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/652/1630034.jpg",
    "plataforma": "Netflix",
    "idioma": "English",
    "sinopse": "Do you think shopping should be considered an Olympic sport? Bargain hunt like it's a full-time job? Is retail therapy your form of … actual therapy?Then get ready for the shopping spree of a lifetime, because the new series Win the Mall is the ultimate fantasy retail experience. This high-stakes competition transforms a classic American shopping mall into a thrilling game of strategy and unexpect",
@@ -66,11 +66,11 @@
    "generos": [
     "Drama"
    ],
-   "imagem": null,
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/652/1630033.jpg",
    "plataforma": "Netflix",
    "idioma": "Polish",
-   "sinopse": "When the case of a child serial killer resurfaces after 25 years as an unresolved legal and social problem, two former friends are forced to confront the choices that broke their friendship and shaped their lives.",
-   "url": "https://www.tvmaze.com/shows/94993/prawo-bestii"
+   "sinopse": "Panic returns to Poland as a convicted child murderer nears release, reigniting moral conflict between the case's lead investigator and its psychiatrist.",
+   "url": "https://www.netflix.com/title/81769097"
   },
   "s95296-1": {
    "id": "s95296-1",
@@ -111,11 +111,11 @@
     "Drama",
     "Crime"
    ],
-   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/651/1629723.jpg",
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/652/1630040.jpg",
    "plataforma": "Netflix",
    "idioma": "English",
-   "sinopse": "The Altruists tells the story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye – and then seduced, coaxed and teased each other into stealing $8 billion.",
-   "url": "https://www.tvmaze.com/shows/85058/the-altruists"
+   "sinopse": "Young, idealistic and suddenly worth billions, they tried to do good—but unleashed the worst in each other. A toxic love story inspired by a real fraud.",
+   "url": "https://www.netflix.com/title/81681910"
   },
   "s36672-4": {
    "id": "s36672-4",
@@ -589,7 +589,7 @@
    "generos": [
     "Série"
    ],
-   "imagem": null,
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/652/1630281.jpg",
    "plataforma": "Disney+ (original Hulu)",
    "idioma": "Spanish",
    "sinopse": "",
@@ -624,6 +624,34 @@
    "idioma": "Japanese",
    "sinopse": "In an alternate Japan, a charismatic host runs a deadly quiz where winners get any wish and losers pay dearly. His world unravels when rebels target him.",
    "url": "https://www.netflix.com/title/81679525"
+  },
+  "s95731-1": {
+   "id": "s95731-1",
+   "titulo": "He Said, She Said: Till Death Do Us Part",
+   "temporada": 1,
+   "data": "2026-11-17",
+   "generos": [
+    "Crime"
+   ],
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/652/1630020.jpg",
+   "plataforma": "Paramount+",
+   "idioma": "English",
+   "sinopse": "A toxic custody battle spirals into tragedy and a viral war over truth, blame and perception.",
+   "url": "https://www.paramountplus.com/shows/he-said-she-said-till-death-do-us-part/"
+  },
+  "s75430-3": {
+   "id": "s75430-3",
+   "titulo": "Beast Games",
+   "temporada": 3,
+   "data": "2026-12-16",
+   "generos": [
+    "Reality"
+   ],
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/607/1517768.jpg",
+   "plataforma": "Prime Video",
+   "idioma": "English",
+   "sinopse": "From the groundbreaking mind of MrBeast comes a new, record-breaking competition series. A staggering 1,000 players compete in nail-biting, physical, mental, and social challenges, for a chance to win a whopping $5 million dollar cash prize. Week by week, players will use their strength and wit to stay in the game, with the hope of being the multi-million-dollar winner.",
+   "url": "https://www.amazon.com/Beast-Games-Season-1/dp/B0CZ7S3N9Y"
   }
  },
  "filmes": {
@@ -740,6 +768,18 @@
     },
     {
      "data": "2026-11-19",
+     "hora": "14:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713064&partnership=home"
+    },
+    {
+     "data": "2026-11-19",
      "hora": "14:30",
      "cinema": "UCI Palladium",
      "sala": "Sala 3",
@@ -749,6 +789,18 @@
      ],
      "preco": 50.09,
      "url": "https://checkout.ingresso.com/?sessionId=87408632&partnership=home"
+    },
+    {
+     "data": "2026-11-19",
+     "hora": "15:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713345&partnership=home"
     },
     {
      "data": "2026-11-19",
@@ -776,6 +828,18 @@
     },
     {
      "data": "2026-11-19",
+     "hora": "17:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713355&partnership=home"
+    },
+    {
+     "data": "2026-11-19",
      "hora": "17:40",
      "cinema": "UCI Palladium",
      "sala": "Sala 3",
@@ -785,6 +849,18 @@
      ],
      "preco": 50.09,
      "url": "https://checkout.ingresso.com/?sessionId=87408595&partnership=home"
+    },
+    {
+     "data": "2026-11-19",
+     "hora": "18:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713093&partnership=home"
     },
     {
      "data": "2026-11-19",
@@ -812,6 +888,18 @@
     },
     {
      "data": "2026-11-19",
+     "hora": "20:20",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713084&partnership=home"
+    },
+    {
+     "data": "2026-11-19",
      "hora": "20:50",
      "cinema": "UCI Palladium",
      "sala": "Sala 3",
@@ -821,6 +909,18 @@
      ],
      "preco": 50.09,
      "url": "https://checkout.ingresso.com/?sessionId=87408613&partnership=home"
+    },
+    {
+     "data": "2026-11-19",
+     "hora": "21:20",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713059&partnership=home"
     },
     {
      "data": "2026-11-19",
@@ -848,6 +948,18 @@
     },
     {
      "data": "2026-11-20",
+     "hora": "14:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713258&partnership=home"
+    },
+    {
+     "data": "2026-11-20",
      "hora": "14:30",
      "cinema": "UCI Palladium",
      "sala": "Sala 3",
@@ -872,6 +984,18 @@
     },
     {
      "data": "2026-11-20",
+     "hora": "15:50",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713266&partnership=home"
+    },
+    {
+     "data": "2026-11-20",
      "hora": "16:00",
      "cinema": "IMAX Palladium",
      "sala": "Sala 1",
@@ -881,6 +1005,18 @@
      ],
      "preco": 47.76,
      "url": "https://checkout.ingresso.com/?sessionId=87631712&partnership=home"
+    },
+    {
+     "data": "2026-11-20",
+     "hora": "17:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713281&partnership=home"
     },
     {
      "data": "2026-11-20",
@@ -920,6 +1056,18 @@
     },
     {
      "data": "2026-11-20",
+     "hora": "20:20",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713287&partnership=home"
+    },
+    {
+     "data": "2026-11-20",
      "hora": "20:50",
      "cinema": "UCI Palladium",
      "sala": "Sala 3",
@@ -944,6 +1092,18 @@
     },
     {
      "data": "2026-11-20",
+     "hora": "22:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713225&partnership=home"
+    },
+    {
+     "data": "2026-11-20",
      "hora": "22:20",
      "cinema": "IMAX Palladium",
      "sala": "Sala 1",
@@ -953,6 +1113,18 @@
      ],
      "preco": 47.76,
      "url": "https://checkout.ingresso.com/?sessionId=87409152&partnership=home"
+    },
+    {
+     "data": "2026-11-21",
+     "hora": "14:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713089&partnership=home"
     },
     {
      "data": "2026-11-21",
@@ -992,6 +1164,30 @@
     },
     {
      "data": "2026-11-21",
+     "hora": "15:50",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713280&partnership=home"
+    },
+    {
+     "data": "2026-11-21",
+     "hora": "17:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713357&partnership=home"
+    },
+    {
+     "data": "2026-11-21",
      "hora": "17:20",
      "cinema": "IMAX Palladium",
      "sala": "Sala 1",
@@ -1028,6 +1224,18 @@
     },
     {
      "data": "2026-11-21",
+     "hora": "20:20",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713278&partnership=home"
+    },
+    {
+     "data": "2026-11-21",
      "hora": "20:30",
      "cinema": "IMAX Palladium",
      "sala": "Sala 1",
@@ -1061,6 +1269,30 @@
      ],
      "preco": 54.75,
      "url": "https://checkout.ingresso.com/?sessionId=87408617&partnership=home"
+    },
+    {
+     "data": "2026-11-21",
+     "hora": "22:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713116&partnership=home"
+    },
+    {
+     "data": "2026-11-22",
+     "hora": "14:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713091&partnership=home"
     },
     {
      "data": "2026-11-22",
@@ -1100,6 +1332,30 @@
     },
     {
      "data": "2026-11-22",
+     "hora": "15:50",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713251&partnership=home"
+    },
+    {
+     "data": "2026-11-22",
+     "hora": "17:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713341&partnership=home"
+    },
+    {
+     "data": "2026-11-22",
      "hora": "17:20",
      "cinema": "IMAX Palladium",
      "sala": "Sala 1",
@@ -1133,6 +1389,18 @@
      ],
      "preco": 54.75,
      "url": "https://checkout.ingresso.com/?sessionId=87408666&partnership=home"
+    },
+    {
+     "data": "2026-11-22",
+     "hora": "20:20",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713115&partnership=home"
     },
     {
      "data": "2026-11-22",
@@ -1171,6 +1439,30 @@
      "url": "https://checkout.ingresso.com/?sessionId=87408667&partnership=home"
     },
     {
+     "data": "2026-11-22",
+     "hora": "22:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713334&partnership=home"
+    },
+    {
+     "data": "2026-11-23",
+     "hora": "14:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 33.78,
+     "url": "https://checkout.ingresso.com/?sessionId=87713362&partnership=home"
+    },
+    {
      "data": "2026-11-23",
      "hora": "14:30",
      "cinema": "UCI Palladium",
@@ -1181,6 +1473,18 @@
      ],
      "preco": 32.62,
      "url": "https://checkout.ingresso.com/?sessionId=87408614&partnership=home"
+    },
+    {
+     "data": "2026-11-23",
+     "hora": "15:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 33.78,
+     "url": "https://checkout.ingresso.com/?sessionId=87713098&partnership=home"
     },
     {
      "data": "2026-11-23",
@@ -1208,6 +1512,18 @@
     },
     {
      "data": "2026-11-23",
+     "hora": "17:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 33.78,
+     "url": "https://checkout.ingresso.com/?sessionId=87713356&partnership=home"
+    },
+    {
+     "data": "2026-11-23",
      "hora": "17:40",
      "cinema": "UCI Palladium",
      "sala": "Sala 3",
@@ -1217,6 +1533,18 @@
      ],
      "preco": 32.62,
      "url": "https://checkout.ingresso.com/?sessionId=87408612&partnership=home"
+    },
+    {
+     "data": "2026-11-23",
+     "hora": "18:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 33.78,
+     "url": "https://checkout.ingresso.com/?sessionId=87713414&partnership=home"
     },
     {
      "data": "2026-11-23",
@@ -1244,6 +1572,18 @@
     },
     {
      "data": "2026-11-23",
+     "hora": "20:20",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 33.78,
+     "url": "https://checkout.ingresso.com/?sessionId=87713252&partnership=home"
+    },
+    {
+     "data": "2026-11-23",
      "hora": "20:50",
      "cinema": "UCI Palladium",
      "sala": "Sala 3",
@@ -1253,6 +1593,18 @@
      ],
      "preco": 32.62,
      "url": "https://checkout.ingresso.com/?sessionId=87408583&partnership=home"
+    },
+    {
+     "data": "2026-11-23",
+     "hora": "21:20",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 33.78,
+     "url": "https://checkout.ingresso.com/?sessionId=87713085&partnership=home"
     },
     {
      "data": "2026-11-23",
@@ -1280,6 +1632,18 @@
     },
     {
      "data": "2026-11-24",
+     "hora": "14:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713111&partnership=home"
+    },
+    {
+     "data": "2026-11-24",
      "hora": "14:30",
      "cinema": "UCI Palladium",
      "sala": "Sala 3",
@@ -1289,6 +1653,18 @@
      ],
      "preco": 40.77,
      "url": "https://checkout.ingresso.com/?sessionId=87408628&partnership=home"
+    },
+    {
+     "data": "2026-11-24",
+     "hora": "15:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713406&partnership=home"
     },
     {
      "data": "2026-11-24",
@@ -1316,6 +1692,18 @@
     },
     {
      "data": "2026-11-24",
+     "hora": "17:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713110&partnership=home"
+    },
+    {
+     "data": "2026-11-24",
      "hora": "17:40",
      "cinema": "UCI Palladium",
      "sala": "Sala 3",
@@ -1325,6 +1713,18 @@
      ],
      "preco": 40.77,
      "url": "https://checkout.ingresso.com/?sessionId=87408608&partnership=home"
+    },
+    {
+     "data": "2026-11-24",
+     "hora": "18:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713112&partnership=home"
     },
     {
      "data": "2026-11-24",
@@ -1352,6 +1752,18 @@
     },
     {
      "data": "2026-11-24",
+     "hora": "20:20",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713316&partnership=home"
+    },
+    {
+     "data": "2026-11-24",
      "hora": "20:50",
      "cinema": "UCI Palladium",
      "sala": "Sala 3",
@@ -1361,6 +1773,18 @@
      ],
      "preco": 40.77,
      "url": "https://checkout.ingresso.com/?sessionId=87408615&partnership=home"
+    },
+    {
+     "data": "2026-11-24",
+     "hora": "21:20",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713425&partnership=home"
     },
     {
      "data": "2026-11-24",
@@ -1388,6 +1812,18 @@
     },
     {
      "data": "2026-11-25",
+     "hora": "14:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713397&partnership=home"
+    },
+    {
+     "data": "2026-11-25",
      "hora": "14:30",
      "cinema": "UCI Palladium",
      "sala": "Sala 3",
@@ -1397,6 +1833,18 @@
      ],
      "preco": 40.77,
      "url": "https://checkout.ingresso.com/?sessionId=87408634&partnership=home"
+    },
+    {
+     "data": "2026-11-25",
+     "hora": "15:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713318&partnership=home"
     },
     {
      "data": "2026-11-25",
@@ -1424,6 +1872,18 @@
     },
     {
      "data": "2026-11-25",
+     "hora": "17:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713117&partnership=home"
+    },
+    {
+     "data": "2026-11-25",
      "hora": "17:40",
      "cinema": "UCI Palladium",
      "sala": "Sala 3",
@@ -1433,6 +1893,18 @@
      ],
      "preco": 40.77,
      "url": "https://checkout.ingresso.com/?sessionId=87408661&partnership=home"
+    },
+    {
+     "data": "2026-11-25",
+     "hora": "18:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713402&partnership=home"
     },
     {
      "data": "2026-11-25",
@@ -1460,6 +1932,18 @@
     },
     {
      "data": "2026-11-25",
+     "hora": "20:20",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713416&partnership=home"
+    },
+    {
+     "data": "2026-11-25",
      "hora": "20:50",
      "cinema": "UCI Palladium",
      "sala": "Sala 3",
@@ -1469,6 +1953,18 @@
      ],
      "preco": 40.77,
      "url": "https://checkout.ingresso.com/?sessionId=87408664&partnership=home"
+    },
+    {
+     "data": "2026-11-25",
+     "hora": "21:20",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713426&partnership=home"
     },
     {
      "data": "2026-11-25",
@@ -1558,6 +2054,18 @@
     },
     {
      "data": "2026-11-19",
+     "hora": "16:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713255&partnership=home"
+    },
+    {
+     "data": "2026-11-19",
      "hora": "16:40",
      "cinema": "UCI Palladium",
      "sala": "Sala 4",
@@ -1570,6 +2078,18 @@
     },
     {
      "data": "2026-11-19",
+     "hora": "18:35",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713253&partnership=home"
+    },
+    {
+     "data": "2026-11-19",
      "hora": "19:20",
      "cinema": "UCI Palladium",
      "sala": "Sala 4",
@@ -1579,6 +2099,18 @@
      ],
      "preco": 54.75,
      "url": "https://checkout.ingresso.com/?sessionId=87627691&partnership=home"
+    },
+    {
+     "data": "2026-11-19",
+     "hora": "21:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713336&partnership=home"
     },
     {
      "data": "2026-11-19",
@@ -1606,6 +2138,18 @@
     },
     {
      "data": "2026-11-20",
+     "hora": "16:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713347&partnership=home"
+    },
+    {
+     "data": "2026-11-20",
      "hora": "16:40",
      "cinema": "UCI Palladium",
      "sala": "Sala 4",
@@ -1618,6 +2162,18 @@
     },
     {
      "data": "2026-11-20",
+     "hora": "18:35",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713102&partnership=home"
+    },
+    {
+     "data": "2026-11-20",
      "hora": "19:20",
      "cinema": "UCI Palladium",
      "sala": "Sala 4",
@@ -1627,6 +2183,18 @@
      ],
      "preco": 54.75,
      "url": "https://checkout.ingresso.com/?sessionId=87627714&partnership=home"
+    },
+    {
+     "data": "2026-11-20",
+     "hora": "21:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713163&partnership=home"
     },
     {
      "data": "2026-11-20",
@@ -1654,6 +2222,18 @@
     },
     {
      "data": "2026-11-21",
+     "hora": "16:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713257&partnership=home"
+    },
+    {
+     "data": "2026-11-21",
      "hora": "16:40",
      "cinema": "UCI Palladium",
      "sala": "Sala 4",
@@ -1666,6 +2246,18 @@
     },
     {
      "data": "2026-11-21",
+     "hora": "18:35",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713289&partnership=home"
+    },
+    {
+     "data": "2026-11-21",
      "hora": "19:20",
      "cinema": "UCI Palladium",
      "sala": "Sala 4",
@@ -1675,6 +2267,18 @@
      ],
      "preco": 54.75,
      "url": "https://checkout.ingresso.com/?sessionId=87627690&partnership=home"
+    },
+    {
+     "data": "2026-11-21",
+     "hora": "21:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713268&partnership=home"
     },
     {
      "data": "2026-11-21",
@@ -1702,6 +2306,18 @@
     },
     {
      "data": "2026-11-22",
+     "hora": "16:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713358&partnership=home"
+    },
+    {
+     "data": "2026-11-22",
      "hora": "16:40",
      "cinema": "UCI Palladium",
      "sala": "Sala 4",
@@ -1714,6 +2330,18 @@
     },
     {
      "data": "2026-11-22",
+     "hora": "18:35",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713293&partnership=home"
+    },
+    {
+     "data": "2026-11-22",
      "hora": "19:20",
      "cinema": "UCI Palladium",
      "sala": "Sala 4",
@@ -1723,6 +2351,18 @@
      ],
      "preco": 54.75,
      "url": "https://checkout.ingresso.com/?sessionId=87627678&partnership=home"
+    },
+    {
+     "data": "2026-11-22",
+     "hora": "21:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713226&partnership=home"
     },
     {
      "data": "2026-11-22",
@@ -1750,6 +2390,18 @@
     },
     {
      "data": "2026-11-23",
+     "hora": "16:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 33.78,
+     "url": "https://checkout.ingresso.com/?sessionId=87713224&partnership=home"
+    },
+    {
+     "data": "2026-11-23",
      "hora": "16:40",
      "cinema": "UCI Palladium",
      "sala": "Sala 4",
@@ -1762,6 +2414,18 @@
     },
     {
      "data": "2026-11-23",
+     "hora": "18:35",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 33.78,
+     "url": "https://checkout.ingresso.com/?sessionId=87713131&partnership=home"
+    },
+    {
+     "data": "2026-11-23",
      "hora": "19:20",
      "cinema": "UCI Palladium",
      "sala": "Sala 4",
@@ -1771,6 +2435,18 @@
      ],
      "preco": 33.78,
      "url": "https://checkout.ingresso.com/?sessionId=87627701&partnership=home"
+    },
+    {
+     "data": "2026-11-23",
+     "hora": "21:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 33.78,
+     "url": "https://checkout.ingresso.com/?sessionId=87713267&partnership=home"
     },
     {
      "data": "2026-11-23",
@@ -1798,6 +2474,18 @@
     },
     {
      "data": "2026-11-24",
+     "hora": "16:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713300&partnership=home"
+    },
+    {
+     "data": "2026-11-24",
      "hora": "16:40",
      "cinema": "UCI Palladium",
      "sala": "Sala 4",
@@ -1810,6 +2498,18 @@
     },
     {
      "data": "2026-11-24",
+     "hora": "18:35",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713292&partnership=home"
+    },
+    {
+     "data": "2026-11-24",
      "hora": "19:20",
      "cinema": "UCI Palladium",
      "sala": "Sala 4",
@@ -1819,6 +2519,18 @@
      ],
      "preco": 43.1,
      "url": "https://checkout.ingresso.com/?sessionId=87627674&partnership=home"
+    },
+    {
+     "data": "2026-11-24",
+     "hora": "21:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713113&partnership=home"
     },
     {
      "data": "2026-11-24",
@@ -1846,6 +2558,18 @@
     },
     {
      "data": "2026-11-25",
+     "hora": "16:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713417&partnership=home"
+    },
+    {
+     "data": "2026-11-25",
      "hora": "16:40",
      "cinema": "UCI Palladium",
      "sala": "Sala 4",
@@ -1858,6 +2582,18 @@
     },
     {
      "data": "2026-11-25",
+     "hora": "18:35",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713319&partnership=home"
+    },
+    {
+     "data": "2026-11-25",
      "hora": "19:20",
      "cinema": "UCI Palladium",
      "sala": "Sala 4",
@@ -1867,6 +2603,18 @@
      ],
      "preco": 43.1,
      "url": "https://checkout.ingresso.com/?sessionId=87627702&partnership=home"
+    },
+    {
+     "data": "2026-11-25",
+     "hora": "21:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713418&partnership=home"
     },
     {
      "data": "2026-11-25",
@@ -1913,7 +2661,92 @@
    "duracao": "114",
    "sinopse": "Corvette, uma aspirante a estilista interpretada por Keke Palmer, lidera um grupo de ladras especializadas em furtos de lojas. Quando a poderosa magnata da moda Christie Smith, vivida por Demi Moore, se apropria de uma de suas criações, o grupo organiza uma ação para roubar as roupas da empresária e revendê-las a preços acessíveis, desencadeando um movimento de rebeldia social e crítica ao sistema",
    "url": "https://www.ingresso.com/filme/i-love-boosters?city=curitiba",
-   "sessoes": []
+   "sessoes": [
+    {
+     "data": "2026-11-19",
+     "hora": "13:45",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713065&partnership=home"
+    },
+    {
+     "data": "2026-11-20",
+     "hora": "13:45",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713277&partnership=home"
+    },
+    {
+     "data": "2026-11-21",
+     "hora": "13:45",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713086&partnership=home"
+    },
+    {
+     "data": "2026-11-22",
+     "hora": "13:45",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713088&partnership=home"
+    },
+    {
+     "data": "2026-11-23",
+     "hora": "13:45",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 33.78,
+     "url": "https://checkout.ingresso.com/?sessionId=87713333&partnership=home"
+    },
+    {
+     "data": "2026-11-24",
+     "hora": "13:45",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713415&partnership=home"
+    },
+    {
+     "data": "2026-11-25",
+     "hora": "13:45",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 2",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713424&partnership=home"
+    }
+   ]
   },
   "f33519": {
    "id": "f33519",
@@ -1962,7 +2795,128 @@
    "duracao": "119",
    "sinopse": "Após testemunhar acidentalmente um crime violento, Josephine, uma menina de 8 anos, passa a buscar maneiras de recuperar sua sensação de segurança. Enquanto lida com o trauma, os adultos ao seu redor mostram-se incapazes de confortá-la adequadamente.",
    "url": "https://www.ingresso.com/filme/josephine-fragmentos-de-um-crime?city=curitiba",
-   "sessoes": []
+   "sessoes": [
+    {
+     "data": "2026-11-19",
+     "hora": "21:40",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713304&partnership=home"
+    },
+    {
+     "data": "2026-11-20",
+     "hora": "21:40",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713030&partnership=home"
+    },
+    {
+     "data": "2026-11-21",
+     "hora": "21:40",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713159&partnership=home"
+    },
+    {
+     "data": "2026-11-22",
+     "hora": "21:40",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713288&partnership=home"
+    },
+    {
+     "data": "2026-11-23",
+     "hora": "17:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 33.78,
+     "url": "https://checkout.ingresso.com/?sessionId=87713104&partnership=home"
+    },
+    {
+     "data": "2026-11-23",
+     "hora": "21:40",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 33.78,
+     "url": "https://checkout.ingresso.com/?sessionId=87713328&partnership=home"
+    },
+    {
+     "data": "2026-11-24",
+     "hora": "17:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713231&partnership=home"
+    },
+    {
+     "data": "2026-11-24",
+     "hora": "21:40",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713122&partnership=home"
+    },
+    {
+     "data": "2026-11-25",
+     "hora": "17:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713411&partnership=home"
+    },
+    {
+     "data": "2026-11-25",
+     "hora": "21:40",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "LEG"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713398&partnership=home"
+    }
+   ]
   },
   "f34268": {
    "id": "f34268",
@@ -2129,7 +3083,20 @@
    "duracao": "105",
    "sinopse": "Henry, filho de Greg e Pam, se apaixona por Olivia Jones, uma mulher que parece não combinar nada com ele e desperta a desconfiança do futuro sogro.",
    "url": "https://www.ingresso.com/filme/entrando-numa-grande-fria?city=curitiba",
-   "sessoes": []
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "19:25",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713422&partnership=home"
+    }
+   ]
   },
   "f30986": {
    "id": "f30986",
@@ -2516,7 +3483,56 @@
    "duracao": "85",
    "sinopse": "Dirigido por Santiago Dellape, Verão da Lata acompanha o caso que chocou o Rio de Janeiro em 1987. Os policiais Brasa (Babu Santana) e Sandra (Samantha Schmütz) possuem personalidades extremamente opostas, mas terão que se unir no maior caso de suas vidas: uma ameaça vinda do mar. Na história, milhares de latas cheias de maconhas surgem nas margens das praias brasileiras, prestes a transformar o p",
    "url": "https://www.ingresso.com/filme/verao-da-lata?city=curitiba",
-   "sessoes": []
+   "sessoes": [
+    {
+     "data": "2026-11-19",
+     "hora": "17:25",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713055&partnership=home"
+    },
+    {
+     "data": "2026-11-20",
+     "hora": "17:25",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713211&partnership=home"
+    },
+    {
+     "data": "2026-11-21",
+     "hora": "17:25",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713400&partnership=home"
+    },
+    {
+     "data": "2026-11-22",
+     "hora": "17:25",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713359&partnership=home"
+    }
+   ]
   },
   "f34468": {
    "id": "f34468",
@@ -3333,18 +4349,6 @@
    "sessoes": [
     {
      "data": "2026-11-17",
-     "hora": "14:05",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "NAC"
-     ],
-     "preco": 40.77,
-     "url": "https://checkout.ingresso.com/?sessionId=87658268&partnership=home"
-    },
-    {
-     "data": "2026-11-17",
      "hora": "16:20",
      "cinema": "UCI Palladium",
      "sala": "Sala 3",
@@ -3450,6 +4454,162 @@
      ],
      "preco": 43.1,
      "url": "https://checkout.ingresso.com/?sessionId=87658659&partnership=home"
+    },
+    {
+     "data": "2026-11-19",
+     "hora": "15:05",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 34.95,
+     "url": "https://checkout.ingresso.com/?sessionId=87713339&partnership=home"
+    },
+    {
+     "data": "2026-11-19",
+     "hora": "19:25",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 34.95,
+     "url": "https://checkout.ingresso.com/?sessionId=87713097&partnership=home"
+    },
+    {
+     "data": "2026-11-20",
+     "hora": "15:05",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 34.95,
+     "url": "https://checkout.ingresso.com/?sessionId=87713276&partnership=home"
+    },
+    {
+     "data": "2026-11-20",
+     "hora": "19:25",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 34.95,
+     "url": "https://checkout.ingresso.com/?sessionId=87713294&partnership=home"
+    },
+    {
+     "data": "2026-11-21",
+     "hora": "15:05",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 34.95,
+     "url": "https://checkout.ingresso.com/?sessionId=87713335&partnership=home"
+    },
+    {
+     "data": "2026-11-21",
+     "hora": "19:25",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 34.95,
+     "url": "https://checkout.ingresso.com/?sessionId=87713235&partnership=home"
+    },
+    {
+     "data": "2026-11-22",
+     "hora": "15:05",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 34.95,
+     "url": "https://checkout.ingresso.com/?sessionId=87713099&partnership=home"
+    },
+    {
+     "data": "2026-11-22",
+     "hora": "19:25",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 34.95,
+     "url": "https://checkout.ingresso.com/?sessionId=87713367&partnership=home"
+    },
+    {
+     "data": "2026-11-23",
+     "hora": "14:45",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 31.45,
+     "url": "https://checkout.ingresso.com/?sessionId=87713106&partnership=home"
+    },
+    {
+     "data": "2026-11-23",
+     "hora": "19:25",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 31.45,
+     "url": "https://checkout.ingresso.com/?sessionId=87713360&partnership=home"
+    },
+    {
+     "data": "2026-11-24",
+     "hora": "14:45",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 31.45,
+     "url": "https://checkout.ingresso.com/?sessionId=87713114&partnership=home"
+    },
+    {
+     "data": "2026-11-24",
+     "hora": "19:25",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 31.45,
+     "url": "https://checkout.ingresso.com/?sessionId=87713118&partnership=home"
+    },
+    {
+     "data": "2026-11-25",
+     "hora": "14:45",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 31.45,
+     "url": "https://checkout.ingresso.com/?sessionId=87713317&partnership=home"
     }
    ]
   },
@@ -3480,6 +4640,42 @@
      ],
      "preco": 43.1,
      "url": "https://checkout.ingresso.com/?sessionId=87658554&partnership=home"
+    },
+    {
+     "data": "2026-11-20",
+     "hora": "13:30",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713164&partnership=home"
+    },
+    {
+     "data": "2026-11-21",
+     "hora": "13:30",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713282&partnership=home"
+    },
+    {
+     "data": "2026-11-22",
+     "hora": "13:30",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713297&partnership=home"
     }
    ]
   },
@@ -3599,18 +4795,6 @@
    "sessoes": [
     {
      "data": "2026-11-17",
-     "hora": "14:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658889&partnership=home"
-    },
-    {
-     "data": "2026-11-17",
      "hora": "19:15",
      "cinema": "UCI Palladium",
      "sala": "Sala 6",
@@ -3644,6 +4828,78 @@
      ],
      "preco": 43.1,
      "url": "https://checkout.ingresso.com/?sessionId=87658529&partnership=home"
+    },
+    {
+     "data": "2026-11-19",
+     "hora": "19:30",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713080&partnership=home"
+    },
+    {
+     "data": "2026-11-20",
+     "hora": "19:30",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713350&partnership=home"
+    },
+    {
+     "data": "2026-11-22",
+     "hora": "19:30",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713342&partnership=home"
+    },
+    {
+     "data": "2026-11-23",
+     "hora": "19:30",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 33.78,
+     "url": "https://checkout.ingresso.com/?sessionId=87713338&partnership=home"
+    },
+    {
+     "data": "2026-11-24",
+     "hora": "19:30",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713119&partnership=home"
+    },
+    {
+     "data": "2026-11-25",
+     "hora": "19:30",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713173&partnership=home"
     }
    ]
   },
@@ -3661,18 +4917,6 @@
    "sinopse": "Arrasada após a morte trágica de sua melhor amiga, Gabriela descobre que ela deixou um presente de despedida inesperado: dez cartas com desafios para ajudá-la a superar o luto.",
    "url": "https://www.ingresso.com/filme/as-dez-vantagens-de-morrer-depois-de-voce?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-17",
-     "hora": "14:45",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658615&partnership=home"
-    },
     {
      "data": "2026-11-17",
      "hora": "19:30",
@@ -3756,18 +5000,6 @@
    "sessoes": [
     {
      "data": "2026-11-17",
-     "hora": "14:15",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658600&partnership=home"
-    },
-    {
-     "data": "2026-11-17",
      "hora": "16:50",
      "cinema": "UCI Palladium",
      "sala": "Sala 7",
@@ -3813,6 +5045,78 @@
      ],
      "preco": 43.1,
      "url": "https://checkout.ingresso.com/?sessionId=87658592&partnership=home"
+    },
+    {
+     "data": "2026-11-19",
+     "hora": "17:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713346&partnership=home"
+    },
+    {
+     "data": "2026-11-20",
+     "hora": "17:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713230&partnership=home"
+    },
+    {
+     "data": "2026-11-22",
+     "hora": "17:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713354&partnership=home"
+    },
+    {
+     "data": "2026-11-23",
+     "hora": "17:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 33.78,
+     "url": "https://checkout.ingresso.com/?sessionId=87713361&partnership=home"
+    },
+    {
+     "data": "2026-11-24",
+     "hora": "17:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713263&partnership=home"
+    },
+    {
+     "data": "2026-11-25",
+     "hora": "17:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "NAC"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713340&partnership=home"
     }
    ]
   },
@@ -3833,18 +5137,6 @@
    "sinopse": "Existe um bosque escondido logo depois da cidade, um lugar que não aparece em nenhum mapa e de onde dizem que ninguém volta. É para lá que uma revoada de corvos leva o irmão de Prue (Giulia Benite), enviados por uma feiticeira que precisa dele para seus planos sombrios. Sem pensar duas vezes, Prue parte para o Bosque Selvagem para salvá-lo, ao lado do amigo Curtis. Lá dentro, os dois encontram um ",
    "url": "https://www.ingresso.com/filme/o-bosque-selvagem?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-17",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658236&partnership=home"
-    },
     {
      "data": "2026-11-17",
      "hora": "16:45",
@@ -3880,6 +5172,78 @@
      ],
      "preco": 43.1,
      "url": "https://checkout.ingresso.com/?sessionId=87658137&partnership=home"
+    },
+    {
+     "data": "2026-11-19",
+     "hora": "14:15",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713241&partnership=home"
+    },
+    {
+     "data": "2026-11-20",
+     "hora": "14:15",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713222&partnership=home"
+    },
+    {
+     "data": "2026-11-22",
+     "hora": "14:15",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713095&partnership=home"
+    },
+    {
+     "data": "2026-11-23",
+     "hora": "14:15",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 33.78,
+     "url": "https://checkout.ingresso.com/?sessionId=87713405&partnership=home"
+    },
+    {
+     "data": "2026-11-24",
+     "hora": "14:15",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713103&partnership=home"
+    },
+    {
+     "data": "2026-11-25",
+     "hora": "14:15",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713421&partnership=home"
     }
    ]
   },
@@ -3900,18 +5264,6 @@
    "sinopse": "Um grupo de assaltantes extremamente habilidosos transforma seus roubos em espetáculo ao transmitir as ações pelas redes sociais. A fama viral da quadrilha chama a atenção de um veterano agente do FBI e de uma brilhante engenheira de software, que iniciam uma intensa caça digital aos criminosos. Enquanto a perseguição se aproxima, os ladrões planejam seu golpe mais ambicioso.",
    "url": "https://www.ingresso.com/filme/como-roubar-um-banco?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-17",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658515&partnership=home"
-    },
     {
      "data": "2026-11-17",
      "hora": "16:30",
@@ -4073,6 +5425,78 @@
      ],
      "preco": 43.1,
      "url": "https://checkout.ingresso.com/?sessionId=87658120&partnership=home"
+    },
+    {
+     "data": "2026-11-19",
+     "hora": "21:55",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713348&partnership=home"
+    },
+    {
+     "data": "2026-11-20",
+     "hora": "21:55",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713176&partnership=home"
+    },
+    {
+     "data": "2026-11-22",
+     "hora": "21:55",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713079&partnership=home"
+    },
+    {
+     "data": "2026-11-23",
+     "hora": "21:55",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 33.78,
+     "url": "https://checkout.ingresso.com/?sessionId=87713301&partnership=home"
+    },
+    {
+     "data": "2026-11-24",
+     "hora": "21:55",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713120&partnership=home"
+    },
+    {
+     "data": "2026-11-25",
+     "hora": "21:55",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 6",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 43.1,
+     "url": "https://checkout.ingresso.com/?sessionId=87713096&partnership=home"
     }
    ]
   },
@@ -4134,18 +5558,6 @@
    "sinopse": "Uma equipe de jovens médicos embarca em uma missão humanitária na Floresta Amazônica. A chegada do grupo desperta uma antiga força da região: a Boiúna, criatura inspirada na lenda amazônica da cobra-grande. Em meio à selva, eles precisam lutar pela sobrevivência contra um predador que domina tanto a terra quanto as águas.",
    "url": "https://www.ingresso.com/filme/boiuna-terror-no-amazonas?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-17",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658667&partnership=home"
-    },
     {
      "data": "2026-11-17",
      "hora": "18:00",
@@ -5915,9 +7327,62 @@
    "sinopse": "Malu, uma jovem tatu-mulita, desafia regras para salvar sua comunidade da seca. Determinada a provar seu valor como construtora, ela enfrenta seu chefe e um perigoso caçador humano. Em sua jornada pelo mundo exterior, faz alianças improváveis e lidera um plano ousado de resgate e reconstrução da toca dos tatus.",
    "url": "https://www.ingresso.com/filme/malu-tatu?city=curitiba",
    "sessoes": []
+  },
+  "f33513": {
+   "id": "f33513",
+   "titulo": "Jogos Vorazes - Em chamas (Relançamento)",
+   "tituloOriginal": "The Hunger Games - Catching Fire",
+   "data": "2026-10-15",
+   "generos": [
+    "Ação",
+    "Aventura"
+   ],
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/jogos-vorazes-em-chamas-relancamento/035e73e3-3ec4-4ff4-a65b-40f97a6103bd.webp",
+   "classificacao": "14 anos",
+   "duracao": "146",
+   "sinopse": "A trama dará continuidade a história de Katniss Everdeen, depois que os tributos do Distrito 12 vencem os jogos. Em Jogos Vorazes - Em Chamas, enquanto uma rebelião contra a opressiva Capital é iniciada, Katniss e Peeta são obrigados a participar de uma edição especial dos Jogos Vorazes, o Massacre Quaternário, que acontece a cada 25 anos.",
+   "url": "https://www.ingresso.com/filme/jogos-vorazes-em-chamas-relancamento?city=curitiba",
+   "sessoes": [
+    {
+     "data": "2026-11-20",
+     "hora": "19:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713090&partnership=home"
+    },
+    {
+     "data": "2026-11-21",
+     "hora": "19:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713239&partnership=home"
+    },
+    {
+     "data": "2026-11-22",
+     "hora": "19:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87713121&partnership=home"
+    }
+   ]
   }
  },
- "atualizadoEm": "2026-11-17T00:32:13-03:00",
+ "atualizadoEm": "2026-11-17T15:19:11-03:00",
  "janelaDias": 30,
  "erro": null
 }
