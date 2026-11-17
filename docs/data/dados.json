@@ -111,7 +111,7 @@
     "Drama",
     "Crime"
    ],
-   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/646/1616137.jpg",
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/651/1629723.jpg",
    "plataforma": "Netflix",
    "idioma": "English",
    "sinopse": "The Altruists tells the story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye – and then seduced, coaxed and teased each other into stealing $8 billion.",
@@ -580,6 +580,50 @@
    "idioma": "English",
    "sinopse": "Garfield, the series, is inspired by Jim Davis' original comic strip and features the chonky feline at his finest, most sarcastic and lackadaisical.",
    "url": "https://www.tvmaze.com/shows/90747/garfield"
+  },
+  "s95638-1": {
+   "id": "s95638-1",
+   "titulo": "Somos Así",
+   "temporada": 1,
+   "data": "2026-11-18",
+   "generos": [
+    "Série"
+   ],
+   "imagem": null,
+   "plataforma": "Disney+ (original Hulu)",
+   "idioma": "Spanish",
+   "sinopse": "",
+   "url": "https://www.tvmaze.com/shows/95638/somos-asi"
+  },
+  "s84274-1": {
+   "id": "s84274-1",
+   "titulo": "Unaccustomed Earth",
+   "temporada": 1,
+   "data": "2026-12-17",
+   "generos": [
+    "Drama",
+    "Romance"
+   ],
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/650/1625106.jpg",
+   "plataforma": "Netflix",
+   "idioma": "English",
+   "sinopse": "Inspired by the internationally beloved bestseller of the same name, Unaccustomed Earth is an epic, soapy drama about a tight-knit immigrant community navigating love, desire, and belonging. When a star-crossed romance between a devoted wife and her long-lost love comes to light, a scandalous affair is born and new battle lines are drawn in the elite, insular Indian American community of Cambridge",
+   "url": "https://www.netflix.com/title/81594947"
+  },
+  "s94618-1": {
+   "id": "s94618-1",
+   "titulo": "Quiztopia",
+   "temporada": 1,
+   "data": "2026-12-17",
+   "generos": [
+    "Drama",
+    "Suspense"
+   ],
+   "imagem": null,
+   "plataforma": "Netflix",
+   "idioma": "Japanese",
+   "sinopse": "In an alternate Japan, a charismatic host runs a deadly quiz where winners get any wish and losers pay dearly. His world unravels when rebels target him.",
+   "url": "https://www.netflix.com/title/81679525"
   }
  },
  "filmes": {
@@ -3236,18 +3280,6 @@
    "url": "https://www.ingresso.com/filme/pinoquio-maldicao-de-madeira?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-16",
-     "hora": "20:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658452&partnership=home"
-    },
-    {
      "data": "2026-11-17",
      "hora": "15:10",
      "cinema": "UCI Palladium",
@@ -3299,54 +3331,6 @@
    "sinopse": "Desta vez o grupo de amigos viaja ao Caribe, mais precisamente até a ilha de San Sábados — que fica entre as ilhas de San Viernes e San Domingos —, para o casamento de Anita, filha de Rocha.",
    "url": "https://www.ingresso.com/filme/os-farofeiros-3?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-16",
-     "hora": "17:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658496&partnership=home"
-    },
-    {
-     "data": "2026-11-16",
-     "hora": "18:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "NAC"
-     ],
-     "preco": 32.62,
-     "url": "https://checkout.ingresso.com/?sessionId=87658273&partnership=home"
-    },
-    {
-     "data": "2026-11-16",
-     "hora": "20:45",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "NAC"
-     ],
-     "preco": 32.62,
-     "url": "https://checkout.ingresso.com/?sessionId=87658109&partnership=home"
-    },
-    {
-     "data": "2026-11-16",
-     "hora": "21:45",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658841&partnership=home"
-    },
     {
      "data": "2026-11-17",
      "hora": "14:05",
@@ -3486,18 +3470,6 @@
    "url": "https://www.ingresso.com/filme/o-gatola-da-cartola?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-16",
-     "hora": "17:05",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658510&partnership=home"
-    },
-    {
      "data": "2026-11-17",
      "hora": "17:05",
      "cinema": "UCI Palladium",
@@ -3526,18 +3498,6 @@
    "sinopse": "Um casal de férias tem sua viagem romântica interrompida quando outro casal— atraente e misterioso — aparece dizendo que alugaram acidentalmente a mesma casa de veraneio isolada à beira do Lago dos Ossos. Eles entram num acordo e decidem compartilhar a mansão, mas tensões inesperadas surgem rapidamente, transformando o retiro íntimo de Sage e Diego numa teia de mentiras e segredos, angústias e pes",
    "url": "https://www.ingresso.com/filme/lago-dos-ossos?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-16",
-     "hora": "21:55",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658078&partnership=home"
-    },
     {
      "data": "2026-11-17",
      "hora": "21:55",
@@ -3580,18 +3540,6 @@
    "url": "https://www.ingresso.com/filme/tres-horas-para-viver?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-16",
-     "hora": "22:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658607&partnership=home"
-    },
-    {
      "data": "2026-11-17",
      "hora": "22:00",
      "cinema": "UCI Palladium",
@@ -3622,18 +3570,6 @@
    "url": "https://www.ingresso.com/filme/cara-de-barro?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-16",
-     "hora": "21:50",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658890&partnership=home"
-    },
-    {
      "data": "2026-11-17",
      "hora": "21:50",
      "cinema": "UCI Palladium",
@@ -3661,18 +3597,6 @@
    "sinopse": "Uma nova adaptação de\"Um Conto de Natal\", de Charles Dickens. Na véspera de Natal, o avarento Ebenezer Scrooge recebe a visita do fantasma de seu antigo sócio, Jacob Marley, e dos espíritos do Natal Passado, Presente e Futuro. As aparições o obrigam a confrontar sua própria vida e oferecem uma chance de redenção.",
    "url": "https://www.ingresso.com/filme/ebenezer-e-os-fantasmas-do-natal?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-16",
-     "hora": "19:15",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658633&partnership=home"
-    },
     {
      "data": "2026-11-17",
      "hora": "14:30",
@@ -3737,18 +3661,6 @@
    "sinopse": "Arrasada após a morte trágica de sua melhor amiga, Gabriela descobre que ela deixou um presente de despedida inesperado: dez cartas com desafios para ajudá-la a superar o luto.",
    "url": "https://www.ingresso.com/filme/as-dez-vantagens-de-morrer-depois-de-voce?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-16",
-     "hora": "19:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658451&partnership=home"
-    },
     {
      "data": "2026-11-17",
      "hora": "14:45",
@@ -3843,42 +3755,6 @@
    "url": "https://www.ingresso.com/filme/a-virada-ignicao-da-alma?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-16",
-     "hora": "16:50",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658540&partnership=home"
-    },
-    {
-     "data": "2026-11-16",
-     "hora": "19:25",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658505&partnership=home"
-    },
-    {
-     "data": "2026-11-16",
-     "hora": "22:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87659133&partnership=home"
-    },
-    {
      "data": "2026-11-17",
      "hora": "14:15",
      "cinema": "UCI Palladium",
@@ -3958,18 +3834,6 @@
    "url": "https://www.ingresso.com/filme/o-bosque-selvagem?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-16",
-     "hora": "16:45",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658104&partnership=home"
-    },
-    {
      "data": "2026-11-17",
      "hora": "14:00",
      "cinema": "UCI Palladium",
@@ -4036,42 +3900,6 @@
    "sinopse": "Um grupo de assaltantes extremamente habilidosos transforma seus roubos em espetáculo ao transmitir as ações pelas redes sociais. A fama viral da quadrilha chama a atenção de um veterano agente do FBI e de uma brilhante engenheira de software, que iniciam uma intensa caça digital aos criminosos. Enquanto a perseguição se aproxima, os ladrões planejam seu golpe mais ambicioso.",
    "url": "https://www.ingresso.com/filme/como-roubar-um-banco?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-16",
-     "hora": "16:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658373&partnership=home"
-    },
-    {
-     "data": "2026-11-16",
-     "hora": "19:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658455&partnership=home"
-    },
-    {
-     "data": "2026-11-16",
-     "hora": "21:35",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658630&partnership=home"
-    },
     {
      "data": "2026-11-17",
      "hora": "14:00",
@@ -4187,54 +4015,6 @@
    "url": "https://www.ingresso.com/filme/godzilla-minus-zero?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-16",
-     "hora": "17:15",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658168&partnership=home"
-    },
-    {
-     "data": "2026-11-16",
-     "hora": "17:40",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 38.44,
-     "url": "https://checkout.ingresso.com/?sessionId=87687443&partnership=home"
-    },
-    {
-     "data": "2026-11-16",
-     "hora": "20:05",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658288&partnership=home"
-    },
-    {
-     "data": "2026-11-16",
-     "hora": "20:10",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 38.44,
-     "url": "https://checkout.ingresso.com/?sessionId=87687427&partnership=home"
-    },
-    {
      "data": "2026-11-17",
      "hora": "17:15",
      "cinema": "UCI Palladium",
@@ -4313,18 +4093,6 @@
    "url": "https://www.ingresso.com/filme/velozes-e-furiosos-25-aniversario?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-16",
-     "hora": "19:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87553864&partnership=home"
-    },
-    {
      "data": "2026-11-17",
      "hora": "19:30",
      "cinema": "UCI Palladium",
@@ -4366,18 +4134,6 @@
    "sinopse": "Uma equipe de jovens médicos embarca em uma missão humanitária na Floresta Amazônica. A chegada do grupo desperta uma antiga força da região: a Boiúna, criatura inspirada na lenda amazônica da cobra-grande. Em meio à selva, eles precisam lutar pela sobrevivência contra um predador que domina tanto a terra quanto as águas.",
    "url": "https://www.ingresso.com/filme/boiuna-terror-no-amazonas?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-16",
-     "hora": "18:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87658574&partnership=home"
-    },
     {
      "data": "2026-11-17",
      "hora": "14:00",
@@ -6144,9 +5900,24 @@
      "url": "https://checkout.ingresso.com/?sessionId=87603009&partnership=home"
     }
    ]
+  },
+  "f34411": {
+   "id": "f34411",
+   "titulo": "Malu Tatu",
+   "tituloOriginal": "Malu Tatu",
+   "data": "2026-12-17",
+   "generos": [
+    "Animação"
+   ],
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/malu-tatu/d814a771-55cc-4e29-9c1a-c0cc8251cb93.webp",
+   "classificacao": "Verifique a Classificação",
+   "duracao": "76",
+   "sinopse": "Malu, uma jovem tatu-mulita, desafia regras para salvar sua comunidade da seca. Determinada a provar seu valor como construtora, ela enfrenta seu chefe e um perigoso caçador humano. Em sua jornada pelo mundo exterior, faz alianças improváveis e lidera um plano ousado de resgate e reconstrução da toca dos tatus.",
+   "url": "https://www.ingresso.com/filme/malu-tatu?city=curitiba",
+   "sessoes": []
   }
  },
- "atualizadoEm": "2026-11-16T16:25:00-03:00",
+ "atualizadoEm": "2026-11-17T00:32:13-03:00",
  "janelaDias": 30,
  "erro": null
 }
