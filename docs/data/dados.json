@@ -525,17 +525,17 @@
   },
   "s94675-1": {
    "id": "s94675-1",
-   "titulo": "Gabby's Dollhouse: Makers and Bakers",
+   "titulo": "Gabby's Dollhouse: Makers and Bakers Holiday",
    "temporada": 1,
    "data": "2026-12-09",
    "generos": [
     "Game show"
    ],
-   "imagem": null,
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/652/1630612.jpg",
    "plataforma": "Netflix",
    "idioma": "English",
    "sinopse": "Hosted by Gabby, talented young baker-and-maker duos take on whimsical crafting and baking challenges.",
-   "url": "https://www.tvmaze.com/shows/94675/gabbys-dollhouse-makers-and-bakers"
+   "url": "https://www.tvmaze.com/shows/94675/gabbys-dollhouse-makers-and-bakers-holiday"
   },
   "s79407-1": {
    "id": "s79407-1",
@@ -666,6 +666,50 @@
    "idioma": "English",
    "sinopse": "TV legend David Letterman teams up with fascinating global figures for in-depth interviews and curiosity-fueled excursions.",
    "url": "https://www.netflix.com/title/80209096"
+  },
+  "s85216-1": {
+   "id": "s85216-1",
+   "titulo": "Frisco King",
+   "temporada": 1,
+   "data": "2026-12-18",
+   "generos": [
+    "Drama",
+    "Comédia",
+    "Crime"
+   ],
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/646/1616200.jpg",
+   "plataforma": "Paramount+",
+   "idioma": "English",
+   "sinopse": "Frisco King follows seasoned New Orleans gangster Lee Washington as he lands in Frisco, Texas, and discovers a hustler's playground hidden beneath the polished surface of American suburbia. Recruiting an ambitious protégé, a loyal driver, and a growing network of eccentric partners, Lee transforms small hustles into big business. But, every new score raises the stakes, and as his influence grows, ",
+   "url": "https://www.tvmaze.com/shows/85216/frisco-king"
+  },
+  "s93005-1": {
+   "id": "s93005-1",
+   "titulo": "Más allá de la sociedad",
+   "temporada": 1,
+   "data": "2026-12-18",
+   "generos": [
+    "Documentário"
+   ],
+   "imagem": null,
+   "plataforma": "Netflix",
+   "idioma": "Spanish",
+   "sinopse": "The story of Flight 571 did not end on the day the survivors were rescued from the Andes. For them, and for the families of those who did not return, the hardest part was about to begin. Whilst silence reigned amongst those directly involved, the rest of the world continued to try to understand what had happened through books, films and documentaries. But how does one rebuild a life after such a t",
+   "url": "https://www.tvmaze.com/shows/93005/mas-alla-de-la-sociedad"
+  },
+  "s95753-1": {
+   "id": "s95753-1",
+   "titulo": "Raising The Cannons",
+   "temporada": 1,
+   "data": "2026-12-18",
+   "generos": [
+    "Drama"
+   ],
+   "imagem": null,
+   "plataforma": "Netflix",
+   "idioma": "English",
+   "sinopse": "Nick Cannon is pulling back the curtain like never before. This series dives deep past the headlines and inside his intricate world: twelve kids, six different moms, a booming career and ongoing health battles. See how he navigates his wild, blended family with humor, vulnerability and a genuine commitment to the Cannon family name, with all the heartfelt drama along the way. It's glamorous, messy",
+   "url": "https://www.tvmaze.com/shows/95753/raising-the-cannons"
   }
  },
  "filmes": {
@@ -2707,7 +2751,7 @@
     "Drama"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/i-love-boosters/36637f5e-3b15-4aec-bc62-4ef07cd0ed12.webp",
-   "classificacao": "Verifique a Classificação",
+   "classificacao": "16 anos",
    "duracao": "114",
    "sinopse": "Corvette, uma aspirante a estilista interpretada por Keke Palmer, lidera um grupo de ladras especializadas em furtos de lojas. Quando a poderosa magnata da moda Christie Smith, vivida por Demi Moore, se apropria de uma de suas criações, o grupo organiza uma ação para roubar as roupas da empresária e revendê-las a preços acessíveis, desencadeando um movimento de rebeldia social e crítica ao sistema",
    "url": "https://www.ingresso.com/filme/i-love-boosters?city=curitiba",
@@ -2995,7 +3039,7 @@
     "Fantasia"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/ramayana-o-nascimento-de-uma-lenda/deecb679-90ef-40f2-b721-1b19511d1beb.webp",
-   "classificacao": "Verifique a Classificação",
+   "classificacao": "14 anos",
    "duracao": "166",
    "sinopse": "Rama é um príncipe cujo destino é marcado pelo sacrifício. Ravana é um rei imortal movido pela vingança. Uma profecia une os destinos dos dois.",
    "url": "https://www.ingresso.com/filme/ramayana-o-nascimento-de-uma-lenda?city=curitiba",
@@ -3025,7 +3069,7 @@
     "Drama"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/sem-pai-nem-mae/cc24857b-67ea-41d8-87a7-b9771ce55131.webp",
-   "classificacao": "Verifique a Classificação",
+   "classificacao": "16 anos",
    "duracao": "97",
    "sinopse": "Artur é um comediante de stand-up com uma vida desregrada, um relacionamento em conflito e uma casa que vive de portas escancaradas. Ele está totalmente absorto com a produção de um livro sobre uma jovem guerrilheira que, durante a ditadura, participa de ações armadas. Quando a única versão do texto é levada por ladrões que roubam sua casa e seu laptop, Artur fica obcecado em recuperar o computado",
    "url": "https://www.ingresso.com/filme/sem-pai-nem-mae?city=curitiba",
@@ -3040,8 +3084,8 @@
     "Drama",
     "Romance"
    ],
-   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/eu-vou-ter-saudades-de-voce/eedb9dcc-7a06-42a8-bdda-4a7d5b0d7581.webp",
-   "classificacao": "Verifique a Classificação",
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/eu-vou-ter-saudades-de-voce/a99d5181-8747-412c-ae16-c7a77b0598ee.webp",
+   "classificacao": "16 anos",
    "duracao": "87",
    "sinopse": "Amanda e Caio são um casal trans que compartilha sete anos de amor e sonhos. Quando decidem morar juntos, porém, as diferenças entre os dois começam a pesar. Ele imagina um futuro ao lado dela; Amanda deseja algo mais. Em meio às dificuldades para conciliar expectativas e rotina, a chegada de João coloca o relacionamento à prova.",
    "url": "https://www.ingresso.com/filme/eu-vou-ter-saudades-de-voce?city=curitiba",
@@ -3129,7 +3173,7 @@
     "Comédia"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/entrando-numa-grande-fria/764e2042-6cd1-4915-986f-14101c9828a5.webp",
-   "classificacao": "Verifique a Classificação",
+   "classificacao": "12 anos",
    "duracao": "105",
    "sinopse": "Henry, filho de Greg e Pam, se apaixona por Olivia Jones, uma mulher que parece não combinar nada com ele e desperta a desconfiança do futuro sogro.",
    "url": "https://www.ingresso.com/filme/entrando-numa-grande-fria?city=curitiba",
@@ -3280,7 +3324,7 @@
     "Documentário"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/tudo-pode-ser-visto/82b70eb3-082e-4f6e-9bca-2a845a83865c.webp",
-   "classificacao": "Verifique a Classificação",
+   "classificacao": "A18",
    "duracao": "174",
    "sinopse": "Trinta e quatro dias antes de ser presa, a famosa fundadora do Vale do Silício, Elizabeth Holmes, convida uma equipe de filmagem cética para documentar cada um de seus passos. O que começa como um retrato íntimo de uma criminosa enigmática transforma-se em uma jornada alucinante de três anos rumo ao abismo. Dos ousados diretores Nathan Fielder e Lance Oppenheim, chega Tudo Pode Ser Visto. ",
    "url": "https://www.ingresso.com/filme/tudo-pode-ser-visto?city=curitiba",
@@ -3476,7 +3520,7 @@
    "id": "f33218",
    "titulo": "Behemoth! Uma Vida Composta Em Peças",
    "tituloOriginal": "Behemoth!",
-   "data": "2026-12-03",
+   "data": "2026-12-10",
    "generos": [
     "Drama"
    ],
@@ -3529,7 +3573,7 @@
     "Policial"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/verao-da-lata/f3c2ed83-c3b9-4828-bbef-efd0d13bc769.webp",
-   "classificacao": "A18",
+   "classificacao": "18 anos",
    "duracao": "85",
    "sinopse": "Dirigido por Santiago Dellape, Verão da Lata acompanha o caso que chocou o Rio de Janeiro em 1987. Os policiais Brasa (Babu Santana) e Sandra (Samantha Schmütz) possuem personalidades extremamente opostas, mas terão que se unir no maior caso de suas vidas: uma ameaça vinda do mar. Na história, milhares de latas cheias de maconhas surgem nas margens das praias brasileiras, prestes a transformar o p",
    "url": "https://www.ingresso.com/filme/verao-da-lata?city=curitiba",
@@ -4375,18 +4419,6 @@
    "sessoes": [
     {
      "data": "2026-11-18",
-     "hora": "14:05",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "NAC"
-     ],
-     "preco": 40.77,
-     "url": "https://checkout.ingresso.com/?sessionId=87658234&partnership=home"
-    },
-    {
-     "data": "2026-11-18",
      "hora": "16:20",
      "cinema": "UCI Palladium",
      "sala": "Sala 3",
@@ -4711,18 +4743,6 @@
    "sessoes": [
     {
      "data": "2026-11-18",
-     "hora": "14:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658641&partnership=home"
-    },
-    {
-     "data": "2026-11-18",
      "hora": "19:15",
      "cinema": "UCI Palladium",
      "sala": "Sala 6",
@@ -4879,18 +4899,6 @@
    "url": "https://www.ingresso.com/filme/a-virada-ignicao-da-alma?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-18",
-     "hora": "14:15",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658592&partnership=home"
-    },
-    {
      "data": "2026-11-19",
      "hora": "17:00",
      "cinema": "UCI Palladium",
@@ -4981,18 +4989,6 @@
    "sinopse": "Existe um bosque escondido logo depois da cidade, um lugar que não aparece em nenhum mapa e de onde dizem que ninguém volta. É para lá que uma revoada de corvos leva o irmão de Prue (Giulia Benite), enviados por uma feiticeira que precisa dele para seus planos sombrios. Sem pensar duas vezes, Prue parte para o Bosque Selvagem para salvá-lo, ao lado do amigo Curtis. Lá dentro, os dois encontram um ",
    "url": "https://www.ingresso.com/filme/o-bosque-selvagem?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-18",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658096&partnership=home"
-    },
     {
      "data": "2026-11-18",
      "hora": "16:45",
@@ -5096,18 +5092,6 @@
    "sinopse": "Um grupo de assaltantes extremamente habilidosos transforma seus roubos em espetáculo ao transmitir as ações pelas redes sociais. A fama viral da quadrilha chama a atenção de um veterano agente do FBI e de uma brilhante engenheira de software, que iniciam uma intensa caça digital aos criminosos. Enquanto a perseguição se aproxima, os ladrões planejam seu golpe mais ambicioso.",
    "url": "https://www.ingresso.com/filme/como-roubar-um-banco?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-18",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658508&partnership=home"
-    },
     {
      "data": "2026-11-18",
      "hora": "16:30",
@@ -5317,20 +5301,7 @@
    "duracao": "103",
    "sinopse": "Uma equipe de jovens médicos embarca em uma missão humanitária na Floresta Amazônica. A chegada do grupo desperta uma antiga força da região: a Boiúna, criatura inspirada na lenda amazônica da cobra-grande. Em meio à selva, eles precisam lutar pela sobrevivência contra um predador que domina tanto a terra quanto as águas.",
    "url": "https://www.ingresso.com/filme/boiuna-terror-no-amazonas?city=curitiba",
-   "sessoes": [
-    {
-     "data": "2026-11-18",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658619&partnership=home"
-    }
-   ]
+   "sessoes": []
   },
   "f25347": {
    "id": "f25347",
@@ -7106,9 +7077,24 @@
    "sinopse": "“O Sertão das Nossas Memórias” é um road movie que vai do Rio de Janeiro ao sertão da Bahia, num trajeto de dois mil quilômetros, revisitar com a ajuda de três sobreviventes um massacre ocorrido durante a ditadura militar. A repressão estava à procura do Capitão Carlos Lamarca, considerado inimigo público número um da ditadura. Junto com Lamarca e outros também foi assassinado José Campos Barreto ",
    "url": "https://www.ingresso.com/filme/o-sertao-das-nossas-memorias?city=curitiba",
    "sessoes": []
+  },
+  "f34511": {
+   "id": "f34511",
+   "titulo": "THIS SYMPHONY MAY CONTAIN HOPE.",
+   "tituloOriginal": "THIS SYMPHONY MAY CONTAIN HOPE.",
+   "data": "2026-12-13",
+   "generos": [
+    "Show"
+   ],
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/this-symphony-may-contain-hope/966b71d4-ee31-45ad-a0e9-ac53c75047cf.webp",
+   "classificacao": "Verifique a Classificação",
+   "duracao": "135",
+   "sinopse": "RAYE é compositora, contadora de histórias e, às vezes, alguém que pensa demais nas coisas. Ela escreve sobre amor, perda, fé, alegria e o estranho teatro de ser humano — muitas vezes, tudo ao mesmo tempo. Uma das artistas mais aclamadas do mundo, a cantora e compositora nascida no sul de Londres fez história em 2024 ao conquistar seis prêmios BRIT em uma única noite — o maior número já alcançado ",
+   "url": "https://www.ingresso.com/filme/this-symphony-may-contain-hope?city=curitiba",
+   "sessoes": []
   }
  },
- "atualizadoEm": "2026-11-17T23:48:14-03:00",
+ "atualizadoEm": "2026-11-18T14:53:44-03:00",
  "janelaDias": 30,
  "erro": null
 }
