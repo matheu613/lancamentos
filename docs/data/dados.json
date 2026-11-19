@@ -350,7 +350,7 @@
    "generos": [
     "Suspense"
    ],
-   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/649/1624491.jpg",
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/652/1630958.jpg",
    "plataforma": "Netflix",
    "idioma": "English",
    "sinopse": "A heroic female naval officer becomes involved with the outwardly charismatic secretary of defense, only to discover he may be at the heart of a dangerous conspiracy.",
@@ -364,11 +364,11 @@
    "generos": [
     "Comédia"
    ],
-   "imagem": null,
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/652/1630940.jpg",
    "plataforma": "Netflix",
    "idioma": "English",
    "sinopse": "",
-   "url": "https://www.tvmaze.com/shows/95345/collect-praise"
+   "url": "https://www.netflix.com/title/83243041"
   },
   "s56778-2": {
    "id": "s56778-2",
@@ -486,7 +486,7 @@
     "Crime",
     "Mistério"
    ],
-   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/586/1466415.jpg",
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/652/1630933.jpg",
    "plataforma": "Disney+ (original Hulu)",
    "idioma": "English",
    "sinopse": "Only Murders in the Building follows three New Yorkers who find they have a mutual interest in solving true crime – but limit their amateur sleuthing to only murders in their building.",
@@ -502,7 +502,7 @@
     "Romance",
     "Suspense"
    ],
-   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/641/1602804.jpg",
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/652/1630934.jpg",
    "plataforma": "Prime Video",
    "idioma": "German",
    "sinopse": "When Ruby unwillingly witnesses an explosive secret at Maxton Hall Private School, arrogant millionaire heir James Beaufort is forced to confront the quick-witted scholarship student, much to his chagrin: He is determined to silence Ruby. Their passionate exchange of blows surprisingly ignites a spark ...",
@@ -647,7 +647,7 @@
    "generos": [
     "Reality"
    ],
-   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/607/1517768.jpg",
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/652/1630931.jpg",
    "plataforma": "Prime Video",
    "idioma": "English",
    "sinopse": "From the groundbreaking mind of MrBeast comes a new, record-breaking competition series. A staggering 1,000 players compete in nail-biting, physical, mental, and social challenges, for a chance to win a whopping $5 million dollar cash prize. Week by week, players will use their strength and wit to stay in the game, with the hope of being the multi-million-dollar winner.",
@@ -724,6 +724,20 @@
    "idioma": "English",
    "sinopse": "The elite real estate brokers at The Oppenheim Group sell the luxe life to affluent buyers in LA. The drama ramps up when a new agent joins the team.",
    "url": "https://www.netflix.com/title/80223108"
+  },
+  "s67172-9": {
+   "id": "s67172-9",
+   "titulo": "FBI True",
+   "temporada": 9,
+   "data": "2026-12-01",
+   "generos": [
+    "Crime"
+   ],
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/501/1253255.jpg",
+   "plataforma": "Paramount+",
+   "idioma": "English",
+   "sinopse": "Each edition of FBI True focuses on dynamic insider conversations between agents when they meet at the FBI's favorite bar, the Arts &amp; Crafts Beer Parlor, just down the block from their New York headquarters. It's a hallowed place where law enforcement colleagues talk frankly about the triumphs, tragedies and real truths of their jobs. In this relaxed setting, they share hair-raising stories of",
+   "url": "https://www.paramountplus.com/shows/fbi-true/"
   }
  },
  "filmes": {
@@ -742,42 +756,6 @@
    "sinopse": "\"Jogos Vorazes: Amanhecer Na Colheita\" revisitará o mundo de Panem 24 anos antes dos eventos de Jogos Vorazes, começando na manhã da colheita dos 50º Jogos Vorazes, também conhecida como o Segundo Massacre Quaternário.",
    "url": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-19",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713064&partnership=home"
-    },
-    {
-     "data": "2026-11-19",
-     "hora": "14:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "DUB"
-     ],
-     "preco": 50.09,
-     "url": "https://checkout.ingresso.com/?sessionId=87408632&partnership=home"
-    },
-    {
-     "data": "2026-11-19",
-     "hora": "15:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713345&partnership=home"
-    },
     {
      "data": "2026-11-19",
      "hora": "15:30",
@@ -1269,18 +1247,6 @@
      ],
      "preco": 54.75,
      "url": "https://checkout.ingresso.com/?sessionId=87408617&partnership=home"
-    },
-    {
-     "data": "2026-11-21",
-     "hora": "22:10",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713116&partnership=home"
     },
     {
      "data": "2026-11-22",
@@ -2018,18 +1984,6 @@
    "sessoes": [
     {
      "data": "2026-11-19",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87627682&partnership=home"
-    },
-    {
-     "data": "2026-11-19",
      "hora": "16:00",
      "cinema": "UCI Palladium",
      "sala": "Sala 2",
@@ -2639,18 +2593,6 @@
    "url": "https://www.ingresso.com/filme/i-love-boosters?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-19",
-     "hora": "13:45",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713065&partnership=home"
-    },
-    {
      "data": "2026-11-20",
      "hora": "13:45",
      "cinema": "UCI Palladium",
@@ -3029,7 +2971,272 @@
    "duracao": "141",
    "sinopse": "A trama acompanha Cliff Booth após os acontecimentos de Era Uma Vez em... Hollywood, explorando uma nova fase de sua vida como um \"resolvedor de problemas\" nos bastidores da indústria cinematográfica de Hollywood.",
    "url": "https://www.ingresso.com/filme/as-novas-desventuras-de-cliff-booth?city=curitiba",
-   "sessoes": []
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "19:10",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 38.44,
+     "url": "https://checkout.ingresso.com/?sessionId=87741325&partnership=home"
+    },
+    {
+     "data": "2026-11-25",
+     "hora": "22:00",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 38.44,
+     "url": "https://checkout.ingresso.com/?sessionId=87741317&partnership=home"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "16:20",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "DUB"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87741326&partnership=home"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "19:10",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87741332&partnership=home"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "22:00",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87741324&partnership=home"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "16:20",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "DUB"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87741333&partnership=home"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "19:10",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87741334&partnership=home"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "22:00",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87741320&partnership=home"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "16:20",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "DUB"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87741321&partnership=home"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "19:10",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87741323&partnership=home"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "22:00",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87741322&partnership=home"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "16:20",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "DUB"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87741327&partnership=home"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:10",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87741313&partnership=home"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "16:20",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "DUB"
+     ],
+     "preco": 38.44,
+     "url": "https://checkout.ingresso.com/?sessionId=87741318&partnership=home"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "19:10",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 38.44,
+     "url": "https://checkout.ingresso.com/?sessionId=87741316&partnership=home"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "22:00",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 38.44,
+     "url": "https://checkout.ingresso.com/?sessionId=87741315&partnership=home"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "16:20",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "DUB"
+     ],
+     "preco": 38.44,
+     "url": "https://checkout.ingresso.com/?sessionId=87741312&partnership=home"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "19:10",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 38.44,
+     "url": "https://checkout.ingresso.com/?sessionId=87741331&partnership=home"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "22:00",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 38.44,
+     "url": "https://checkout.ingresso.com/?sessionId=87741328&partnership=home"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "16:20",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "DUB"
+     ],
+     "preco": 38.44,
+     "url": "https://checkout.ingresso.com/?sessionId=87741314&partnership=home"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "19:10",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 38.44,
+     "url": "https://checkout.ingresso.com/?sessionId=87741329&partnership=home"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "22:00",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 38.44,
+     "url": "https://checkout.ingresso.com/?sessionId=87741330&partnership=home"
+    }
+   ]
   },
   "f28797": {
    "id": "f28797",
@@ -4586,6 +4793,18 @@
      "url": "https://checkout.ingresso.com/?sessionId=87713350&partnership=home"
     },
     {
+     "data": "2026-11-21",
+     "hora": "22:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 5",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87742022&partnership=home"
+    },
+    {
      "data": "2026-11-22",
      "hora": "19:30",
      "cinema": "UCI Palladium",
@@ -4771,18 +4990,6 @@
    "sinopse": "Existe um bosque escondido logo depois da cidade, um lugar que não aparece em nenhum mapa e de onde dizem que ninguém volta. É para lá que uma revoada de corvos leva o irmão de Prue (Giulia Benite), enviados por uma feiticeira que precisa dele para seus planos sombrios. Sem pensar duas vezes, Prue parte para o Bosque Selvagem para salvá-lo, ao lado do amigo Curtis. Lá dentro, os dois encontram um ",
    "url": "https://www.ingresso.com/filme/o-bosque-selvagem?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-19",
-     "hora": "14:15",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713241&partnership=home"
-    },
     {
      "data": "2026-11-20",
      "hora": "14:15",
@@ -6778,7 +6985,7 @@
    "sessoes": []
   }
  },
- "atualizadoEm": "2026-11-18T23:24:09-03:00",
+ "atualizadoEm": "2026-11-19T15:04:36-03:00",
  "janelaDias": 30,
  "erro": null
 }
