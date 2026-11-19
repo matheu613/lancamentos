@@ -703,13 +703,27 @@
    "temporada": 1,
    "data": "2026-12-18",
    "generos": [
-    "Drama"
+    "Reality"
    ],
    "imagem": null,
    "plataforma": "Netflix",
    "idioma": "English",
    "sinopse": "Nick Cannon is pulling back the curtain like never before. This series dives deep past the headlines and inside his intricate world: twelve kids, six different moms, a booming career and ongoing health battles. See how he navigates his wild, blended family with humor, vulnerability and a genuine commitment to the Cannon family name, with all the heartfelt drama along the way. It's glamorous, messy",
    "url": "https://www.tvmaze.com/shows/95753/raising-the-cannons"
+  },
+  "s41476-10": {
+   "id": "s41476-10",
+   "titulo": "Selling Sunset",
+   "temporada": 10,
+   "data": "2026-12-04",
+   "generos": [
+    "Reality"
+   ],
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/595/1487928.jpg",
+   "plataforma": "Netflix",
+   "idioma": "English",
+   "sinopse": "The elite real estate brokers at The Oppenheim Group sell the luxe life to affluent buyers in LA. The drama ramps up when a new agent joins the team.",
+   "url": "https://www.netflix.com/title/80223108"
   }
  },
  "filmes": {
@@ -728,102 +742,6 @@
    "sinopse": "\"Jogos Vorazes: Amanhecer Na Colheita\" revisitará o mundo de Panem 24 anos antes dos eventos de Jogos Vorazes, começando na manhã da colheita dos 50º Jogos Vorazes, também conhecida como o Segundo Massacre Quaternário.",
    "url": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-18",
-     "hora": "18:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87408641&partnership=home"
-    },
-    {
-     "data": "2026-11-18",
-     "hora": "18:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "LEG"
-     ],
-     "preco": 40.77,
-     "url": "https://checkout.ingresso.com/?sessionId=87408610&partnership=home"
-    },
-    {
-     "data": "2026-11-18",
-     "hora": "19:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658514&partnership=home"
-    },
-    {
-     "data": "2026-11-18",
-     "hora": "19:10",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 38.44,
-     "url": "https://checkout.ingresso.com/?sessionId=87409178&partnership=home"
-    },
-    {
-     "data": "2026-11-18",
-     "hora": "20:50",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658967&partnership=home"
-    },
-    {
-     "data": "2026-11-18",
-     "hora": "21:10",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87408645&partnership=home"
-    },
-    {
-     "data": "2026-11-18",
-     "hora": "21:50",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "LEG"
-     ],
-     "preco": 40.77,
-     "url": "https://checkout.ingresso.com/?sessionId=87408633&partnership=home"
-    },
-    {
-     "data": "2026-11-18",
-     "hora": "22:10",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658881&partnership=home"
-    },
     {
      "data": "2026-11-19",
      "hora": "14:00",
@@ -1954,18 +1872,6 @@
     },
     {
      "data": "2026-11-25",
-     "hora": "16:00",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 38.44,
-     "url": "https://checkout.ingresso.com/?sessionId=87631715&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "17:10",
      "cinema": "UCI Palladium",
      "sala": "Sala 1",
@@ -2014,18 +1920,6 @@
     },
     {
      "data": "2026-11-25",
-     "hora": "19:10",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 38.44,
-     "url": "https://checkout.ingresso.com/?sessionId=87409153&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "20:20",
      "cinema": "UCI Palladium",
      "sala": "Sala 1",
@@ -2071,18 +1965,6 @@
      ],
      "preco": 43.1,
      "url": "https://checkout.ingresso.com/?sessionId=87408621&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "22:20",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 38.44,
-     "url": "https://checkout.ingresso.com/?sessionId=87409169&partnership=home"
     }
    ]
   },
@@ -3100,7 +2982,7 @@
     "Show"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/bts-world-tour-arirang-in-kaohsiung-live-viewing/dcc2a890-8e45-4b20-a2b0-1c502e568935.webp",
-   "classificacao": "Verifique a Classificação",
+   "classificacao": "A12",
    "duracao": "195",
    "sinopse": "A jornada que quebrou recordes continua: a histórica turnê do BTS pela Ásia chega às telonas. Sinta a vibração do público em Kaohsiung em novembro e curta as apresentações de tirar o fôlego e a energia eletrizante da turnê em estádios do BTS. Não perca a chance de vivenciar a BTS WORLD TOUR 'ARIRANG' em toda a sua glória nos cinemas do mundo todo.",
    "url": "https://www.ingresso.com/filme/bts-world-tour-arirang-in-kaohsiung-live-viewing?city=curitiba",
@@ -4388,20 +4270,7 @@
    "duracao": "90",
    "sinopse": "Nesta assustadora releitura do clássico conto infantil, o boneco de madeira Pinóquio é trazido à vida por forças macabras. Distante da inocência original, sua jornada para se tornar um menino de verdade é marcada por violência e vingança. À medida que Pinóquio persegue brutalmente aqueles que cruzam seu caminho, antigos laços familiares são distorcidos em horrores impensáveis.",
    "url": "https://www.ingresso.com/filme/pinoquio-maldicao-de-madeira?city=curitiba",
-   "sessoes": [
-    {
-     "data": "2026-11-18",
-     "hora": "15:10",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658063&partnership=home"
-    }
-   ]
+   "sessoes": []
   },
   "f30202": {
    "id": "f30202",
@@ -4417,42 +4286,6 @@
    "sinopse": "Desta vez o grupo de amigos viaja ao Caribe, mais precisamente até a ilha de San Sábados — que fica entre as ilhas de San Viernes e San Domingos —, para o casamento de Anita, filha de Rocha.",
    "url": "https://www.ingresso.com/filme/os-farofeiros-3?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-18",
-     "hora": "16:20",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "NAC"
-     ],
-     "preco": 40.77,
-     "url": "https://checkout.ingresso.com/?sessionId=87658154&partnership=home"
-    },
-    {
-     "data": "2026-11-18",
-     "hora": "17:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658509&partnership=home"
-    },
-    {
-     "data": "2026-11-18",
-     "hora": "21:45",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658659&partnership=home"
-    },
     {
      "data": "2026-11-19",
      "hora": "15:05",
@@ -4679,20 +4512,7 @@
    "duracao": "94",
    "sinopse": "Um casal de férias tem sua viagem romântica interrompida quando outro casal— atraente e misterioso — aparece dizendo que alugaram acidentalmente a mesma casa de veraneio isolada à beira do Lago dos Ossos. Eles entram num acordo e decidem compartilhar a mansão, mas tensões inesperadas surgem rapidamente, transformando o retiro íntimo de Sage e Diego numa teia de mentiras e segredos, angústias e pes",
    "url": "https://www.ingresso.com/filme/lago-dos-ossos?city=curitiba",
-   "sessoes": [
-    {
-     "data": "2026-11-18",
-     "hora": "21:55",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658103&partnership=home"
-    }
-   ]
+   "sessoes": []
   },
   "f31308": {
    "id": "f31308",
@@ -4741,18 +4561,6 @@
    "sinopse": "Uma nova adaptação de\"Um Conto de Natal\", de Charles Dickens. Na véspera de Natal, o avarento Ebenezer Scrooge recebe a visita do fantasma de seu antigo sócio, Jacob Marley, e dos espíritos do Natal Passado, Presente e Futuro. As aparições o obrigam a confrontar sua própria vida e oferecem uma chance de redenção.",
    "url": "https://www.ingresso.com/filme/ebenezer-e-os-fantasmas-do-natal?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-18",
-     "hora": "19:15",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658529&partnership=home"
-    },
     {
      "data": "2026-11-19",
      "hora": "19:30",
@@ -4840,20 +4648,7 @@
    "duracao": "106",
    "sinopse": "Arrasada após a morte trágica de sua melhor amiga, Gabriela descobre que ela deixou um presente de despedida inesperado: dez cartas com desafios para ajudá-la a superar o luto.",
    "url": "https://www.ingresso.com/filme/as-dez-vantagens-de-morrer-depois-de-voce?city=curitiba",
-   "sessoes": [
-    {
-     "data": "2026-11-18",
-     "hora": "14:45",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658887&partnership=home"
-    }
-   ]
+   "sessoes": []
   },
   "f32251": {
    "id": "f32251",
@@ -4868,20 +4663,7 @@
    "duracao": "93",
    "sinopse": "Gugu é um menino de 12 anos apaixonado por futebol, que vive com a avó Dilma, uma professora aposentada que o criou de forma livre e afetuosa, em uma vida com segurança e criatividade. Menos em sua relação com o pai Batista, feita de ausências, expectativas e afetos não ditos. Agora Gugu vive seu primeiro desafio quando precisa encarar a possibilidade de morar com ele. ",
    "url": "https://www.ingresso.com/filme/feito-pipa?city=curitiba",
-   "sessoes": [
-    {
-     "data": "2026-11-18",
-     "hora": "16:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658811&partnership=home"
-    }
-   ]
+   "sessoes": []
   },
   "f32656": {
    "id": "f32656",
@@ -4990,18 +4772,6 @@
    "url": "https://www.ingresso.com/filme/o-bosque-selvagem?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-18",
-     "hora": "16:45",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658137&partnership=home"
-    },
-    {
      "data": "2026-11-19",
      "hora": "14:15",
      "cinema": "UCI Palladium",
@@ -5091,44 +4861,7 @@
    "duracao": "90",
    "sinopse": "Um grupo de assaltantes extremamente habilidosos transforma seus roubos em espetáculo ao transmitir as ações pelas redes sociais. A fama viral da quadrilha chama a atenção de um veterano agente do FBI e de uma brilhante engenheira de software, que iniciam uma intensa caça digital aos criminosos. Enquanto a perseguição se aproxima, os ladrões planejam seu golpe mais ambicioso.",
    "url": "https://www.ingresso.com/filme/como-roubar-um-banco?city=curitiba",
-   "sessoes": [
-    {
-     "data": "2026-11-18",
-     "hora": "16:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658578&partnership=home"
-    },
-    {
-     "data": "2026-11-18",
-     "hora": "19:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658972&partnership=home"
-    },
-    {
-     "data": "2026-11-18",
-     "hora": "21:35",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658581&partnership=home"
-    }
-   ]
+   "sessoes": []
   },
   "f33172": {
    "id": "f33172",
@@ -5146,42 +4879,6 @@
    "sinopse": "A guerra reduziu o Japão a zero, e o Godzilla mergulhou-o no negativo. Passaram-se dois anos desde então, e o país tem enfrentado lutas agonizantes para alcançar a recuperação e, finalmente, voltar à vida normal.\nNo momento em que a humanidade conseguiu se agarrar a uma paz conquistada com dificuldade, surge uma nova ameaça, esmagando a esperança num instante. Não há uma terceira vez. Tudo acaba a",
    "url": "https://www.ingresso.com/filme/godzilla-minus-zero?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-18",
-     "hora": "16:40",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 38.44,
-     "url": "https://checkout.ingresso.com/?sessionId=87687439&partnership=home"
-    },
-    {
-     "data": "2026-11-18",
-     "hora": "17:15",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658066&partnership=home"
-    },
-    {
-     "data": "2026-11-18",
-     "hora": "20:05",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87658120&partnership=home"
-    },
     {
      "data": "2026-11-19",
      "hora": "21:55",
@@ -5271,20 +4968,7 @@
    "duracao": "106",
    "sinopse": "Brian O'Conner, um policial de Los Angeles, deve decidir onde realmente reside sua lealdade quando ele se apaixona pelo mundo das corridas de rua que foi enviado disfarçado para acabar.",
    "url": "https://www.ingresso.com/filme/velozes-e-furiosos-25-aniversario?city=curitiba",
-   "sessoes": [
-    {
-     "data": "2026-11-18",
-     "hora": "19:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87553867&partnership=home"
-    }
-   ]
+   "sessoes": []
   },
   "f33624": {
    "id": "f33624",
@@ -7094,7 +6778,7 @@
    "sessoes": []
   }
  },
- "atualizadoEm": "2026-11-18T14:53:44-03:00",
+ "atualizadoEm": "2026-11-18T23:24:09-03:00",
  "janelaDias": 30,
  "erro": null
 }
