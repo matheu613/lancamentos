@@ -350,7 +350,7 @@
    "generos": [
     "Suspense"
    ],
-   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/652/1630958.jpg",
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/652/1631194.jpg",
    "plataforma": "Netflix",
    "idioma": "English",
    "sinopse": "A heroic female naval officer becomes involved with the outwardly charismatic secretary of defense, only to discover he may be at the heart of a dangerous conspiracy.",
@@ -756,150 +756,6 @@
    "sinopse": "\"Jogos Vorazes: Amanhecer Na Colheita\" revisitará o mundo de Panem 24 anos antes dos eventos de Jogos Vorazes, começando na manhã da colheita dos 50º Jogos Vorazes, também conhecida como o Segundo Massacre Quaternário.",
    "url": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-19",
-     "hora": "15:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87408644&partnership=home"
-    },
-    {
-     "data": "2026-11-19",
-     "hora": "16:00",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 47.76,
-     "url": "https://checkout.ingresso.com/?sessionId=87631707&partnership=home"
-    },
-    {
-     "data": "2026-11-19",
-     "hora": "17:10",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713355&partnership=home"
-    },
-    {
-     "data": "2026-11-19",
-     "hora": "17:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "LEG"
-     ],
-     "preco": 50.09,
-     "url": "https://checkout.ingresso.com/?sessionId=87408595&partnership=home"
-    },
-    {
-     "data": "2026-11-19",
-     "hora": "18:10",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713093&partnership=home"
-    },
-    {
-     "data": "2026-11-19",
-     "hora": "18:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87408646&partnership=home"
-    },
-    {
-     "data": "2026-11-19",
-     "hora": "19:10",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 47.76,
-     "url": "https://checkout.ingresso.com/?sessionId=87409172&partnership=home"
-    },
-    {
-     "data": "2026-11-19",
-     "hora": "20:20",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713084&partnership=home"
-    },
-    {
-     "data": "2026-11-19",
-     "hora": "20:50",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "DUB"
-     ],
-     "preco": 50.09,
-     "url": "https://checkout.ingresso.com/?sessionId=87408613&partnership=home"
-    },
-    {
-     "data": "2026-11-19",
-     "hora": "21:20",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713059&partnership=home"
-    },
-    {
-     "data": "2026-11-19",
-     "hora": "21:50",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87408619&partnership=home"
-    },
-    {
-     "data": "2026-11-19",
-     "hora": "22:20",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 47.76,
-     "url": "https://checkout.ingresso.com/?sessionId=87409180&partnership=home"
-    },
     {
      "data": "2026-11-20",
      "hora": "14:00",
@@ -1983,78 +1839,6 @@
    "url": "https://www.ingresso.com/filme/eu-sou-o-rocky?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-19",
-     "hora": "16:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713255&partnership=home"
-    },
-    {
-     "data": "2026-11-19",
-     "hora": "16:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87627647&partnership=home"
-    },
-    {
-     "data": "2026-11-19",
-     "hora": "18:35",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713253&partnership=home"
-    },
-    {
-     "data": "2026-11-19",
-     "hora": "19:20",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87627691&partnership=home"
-    },
-    {
-     "data": "2026-11-19",
-     "hora": "21:10",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713336&partnership=home"
-    },
-    {
-     "data": "2026-11-19",
-     "hora": "22:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87627677&partnership=home"
-    },
-    {
      "data": "2026-11-20",
      "hora": "14:00",
      "cinema": "UCI Palladium",
@@ -2714,18 +2498,6 @@
    "sinopse": "Após testemunhar acidentalmente um crime violento, Josephine, uma menina de 8 anos, passa a buscar maneiras de recuperar sua sensação de segurança. Enquanto lida com o trauma, os adultos ao seu redor mostram-se incapazes de confortá-la adequadamente.",
    "url": "https://www.ingresso.com/filme/josephine-fragmentos-de-um-crime?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-19",
-     "hora": "21:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713304&partnership=home"
-    },
     {
      "data": "2026-11-20",
      "hora": "21:40",
@@ -3668,18 +3440,6 @@
    "url": "https://www.ingresso.com/filme/verao-da-lata?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-19",
-     "hora": "17:25",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713055&partnership=home"
-    },
-    {
      "data": "2026-11-20",
      "hora": "17:25",
      "cinema": "UCI Palladium",
@@ -3732,7 +3492,92 @@
    "duracao": "176",
    "sinopse": "Paul Atreides se une a Chani e aos Fremen em uma guerra de vingança contra os conspiradores que destruíram sua família. Diante de uma escolha entre o amor de sua vida e o destino do universo conhecido, ele se esforça para evitar um futuro terrível que só ele pode prever.\n",
    "url": "https://www.ingresso.com/filme/duna-parte-2-relancamento?city=curitiba",
-   "sessoes": []
+   "sessoes": [
+    {
+     "data": "2026-12-10",
+     "hora": "17:05",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87742564&partnership=home"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "17:05",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "DUB"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87742565&partnership=home"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "17:05",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87742579&partnership=home"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "17:05",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "DUB"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87742567&partnership=home"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "20:30",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "DUB"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87742574&partnership=home"
+    },
+    {
+     "data": "2026-12-14",
+     "hora": "17:05",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 38.44,
+     "url": "https://checkout.ingresso.com/?sessionId=87742580&partnership=home"
+    },
+    {
+     "data": "2026-12-14",
+     "hora": "20:30",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 38.44,
+     "url": "https://checkout.ingresso.com/?sessionId=87742563&partnership=home"
+    }
+   ]
   },
   "f34467": {
    "id": "f34467",
@@ -3748,7 +3593,92 @@
    "duracao": "166",
    "sinopse": "Em um futuro distante, planetas são comandados por casas nobres que fazem parte de um império feudal intergalático. Paul Atreides é um jovem homem cuja família toma controle do planeta deserto Arrakis, também conhecido como Duna. Sendo a única fonte da especiaria melange, a substância mais importante do cosmos, Arrakis se prova ser um planeta nem um pouco fácil de governar.",
    "url": "https://www.ingresso.com/filme/duna-relancamento?city=curitiba",
-   "sessoes": []
+   "sessoes": [
+    {
+     "data": "2026-12-10",
+     "hora": "13:40",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87742666&partnership=home"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "13:40",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "DUB"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87742668&partnership=home"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "20:30",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "DUB"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87742669&partnership=home"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "13:40",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87742671&partnership=home"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "20:30",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87742672&partnership=home"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "13:40",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "DUB"
+     ],
+     "preco": 47.76,
+     "url": "https://checkout.ingresso.com/?sessionId=87742670&partnership=home"
+    },
+    {
+     "data": "2026-12-14",
+     "hora": "13:40",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 38.44,
+     "url": "https://checkout.ingresso.com/?sessionId=87742667&partnership=home"
+    }
+   ]
   },
   "f33422": {
    "id": "f33422",
@@ -4494,30 +4424,6 @@
    "url": "https://www.ingresso.com/filme/os-farofeiros-3?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-19",
-     "hora": "15:05",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 34.95,
-     "url": "https://checkout.ingresso.com/?sessionId=87713339&partnership=home"
-    },
-    {
-     "data": "2026-11-19",
-     "hora": "19:25",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 34.95,
-     "url": "https://checkout.ingresso.com/?sessionId=87713097&partnership=home"
-    },
-    {
      "data": "2026-11-20",
      "hora": "15:05",
      "cinema": "UCI Palladium",
@@ -4769,18 +4675,6 @@
    "url": "https://www.ingresso.com/filme/ebenezer-e-os-fantasmas-do-natal?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-19",
-     "hora": "19:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713080&partnership=home"
-    },
-    {
      "data": "2026-11-20",
      "hora": "19:30",
      "cinema": "UCI Palladium",
@@ -4899,18 +4793,6 @@
    "sinopse": "A Virada: Ignição da Alma é um remake brasileiro do filme dos Irmãos Kendrick, ambientado no Rio de Janeiro. A história acompanha Noah Silva, um vendedor de carros usados carismático, cuja vida começa a desmoronar após sua postura “a qualquer custo” cobrar um preço alto em casa e no trabalho. Confrontado por uma série de alertas, ele embarca em uma jornada de reconciliação e transformação pessoal,",
    "url": "https://www.ingresso.com/filme/a-virada-ignicao-da-alma?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-19",
-     "hora": "17:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713346&partnership=home"
-    },
     {
      "data": "2026-11-20",
      "hora": "17:00",
@@ -5086,18 +4968,6 @@
    "sinopse": "A guerra reduziu o Japão a zero, e o Godzilla mergulhou-o no negativo. Passaram-se dois anos desde então, e o país tem enfrentado lutas agonizantes para alcançar a recuperação e, finalmente, voltar à vida normal.\nNo momento em que a humanidade conseguiu se agarrar a uma paz conquistada com dificuldade, surge uma nova ameaça, esmagando a esperança num instante. Não há uma terceira vez. Tudo acaba a",
    "url": "https://www.ingresso.com/filme/godzilla-minus-zero?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-19",
-     "hora": "21:55",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713348&partnership=home"
-    },
     {
      "data": "2026-11-20",
      "hora": "21:55",
@@ -6985,7 +6855,7 @@
    "sessoes": []
   }
  },
- "atualizadoEm": "2026-11-19T15:04:36-03:00",
+ "atualizadoEm": "2026-11-19T23:08:09-03:00",
  "janelaDias": 30,
  "erro": null
 }
