@@ -151,7 +151,7 @@
   },
   "s89972-1": {
    "id": "s89972-1",
-   "titulo": "Road",
+   "titulo": "The Blue Road",
    "temporada": 1,
    "data": "2026-11-20",
    "generos": [
@@ -162,8 +162,8 @@
    "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/644/1610048.jpg",
    "plataforma": "Netflix",
    "idioma": "Korean",
-   "sinopse": "The original work is the Korean-Japanese co-produced comic \"Blue Road.\" The original story follows Korean detective Kang Cheong-do and Japanese detective Ino Se as they investigate bizarre murders that occurred in both Korea and Japan.",
-   "url": "https://www.tvmaze.com/shows/89972/road"
+   "sinopse": "Bizarre murders discovered in two countries unite police as the brutal truth emerges.",
+   "url": "https://www.netflix.com/title/81941626"
   },
   "s94538-1": {
    "id": "s94538-1",
@@ -575,7 +575,7 @@
     "Comédia",
     "Infantil"
    ],
-   "imagem": null,
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/652/1631311.jpg",
    "plataforma": "Paramount+",
    "idioma": "English",
    "sinopse": "Garfield, the series, is inspired by Jim Davis' original comic strip and features the chonky feline at his finest, most sarcastic and lackadaisical.",
@@ -738,6 +738,20 @@
    "idioma": "English",
    "sinopse": "Each edition of FBI True focuses on dynamic insider conversations between agents when they meet at the FBI's favorite bar, the Arts &amp; Crafts Beer Parlor, just down the block from their New York headquarters. It's a hallowed place where law enforcement colleagues talk frankly about the triumphs, tragedies and real truths of their jobs. In this relaxed setting, they share hair-raising stories of",
    "url": "https://www.paramountplus.com/shows/fbi-true/"
+  },
+  "s95766-1": {
+   "id": "s95766-1",
+   "titulo": "Living the Dream",
+   "temporada": 1,
+   "data": "2026-12-18",
+   "generos": [
+    "Animação"
+   ],
+   "imagem": null,
+   "plataforma": "Netflix",
+   "idioma": "English",
+   "sinopse": "Following best friends Des and Ray, a pair of guys who think they should have made it by now, but are stuck working at a save-the-planet company called Ecofood. They must navigate awkward workplace romance, HR blunders, directives from the L.A. office and Ray's dad's disapproval.",
+   "url": "https://www.tvmaze.com/shows/95766/living-the-dream"
   }
  },
  "filmes": {
@@ -756,18 +770,6 @@
    "sinopse": "\"Jogos Vorazes: Amanhecer Na Colheita\" revisitará o mundo de Panem 24 anos antes dos eventos de Jogos Vorazes, começando na manhã da colheita dos 50º Jogos Vorazes, também conhecida como o Segundo Massacre Quaternário.",
    "url": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-20",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713258&partnership=home"
-    },
     {
      "data": "2026-11-20",
      "hora": "14:30",
@@ -1840,18 +1842,6 @@
    "sessoes": [
     {
      "data": "2026-11-20",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87627681&partnership=home"
-    },
-    {
-     "data": "2026-11-20",
      "hora": "16:00",
      "cinema": "UCI Palladium",
      "sala": "Sala 2",
@@ -2376,18 +2366,6 @@
    "sinopse": "Corvette, uma aspirante a estilista interpretada por Keke Palmer, lidera um grupo de ladras especializadas em furtos de lojas. Quando a poderosa magnata da moda Christie Smith, vivida por Demi Moore, se apropria de uma de suas criações, o grupo organiza uma ação para roubar as roupas da empresária e revendê-las a preços acessíveis, desencadeando um movimento de rebeldia social e crítica ao sistema",
    "url": "https://www.ingresso.com/filme/i-love-boosters?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-20",
-     "hora": "13:45",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713277&partnership=home"
-    },
     {
      "data": "2026-11-21",
      "hora": "13:45",
@@ -4574,18 +4552,6 @@
    "url": "https://www.ingresso.com/filme/o-gatola-da-cartola?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-20",
-     "hora": "13:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713164&partnership=home"
-    },
-    {
      "data": "2026-11-21",
      "hora": "13:30",
      "cinema": "UCI Palladium",
@@ -4872,18 +4838,6 @@
    "sinopse": "Existe um bosque escondido logo depois da cidade, um lugar que não aparece em nenhum mapa e de onde dizem que ninguém volta. É para lá que uma revoada de corvos leva o irmão de Prue (Giulia Benite), enviados por uma feiticeira que precisa dele para seus planos sombrios. Sem pensar duas vezes, Prue parte para o Bosque Selvagem para salvá-lo, ao lado do amigo Curtis. Lá dentro, os dois encontram um ",
    "url": "https://www.ingresso.com/filme/o-bosque-selvagem?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-20",
-     "hora": "14:15",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713222&partnership=home"
-    },
     {
      "data": "2026-11-22",
      "hora": "14:15",
@@ -6855,7 +6809,7 @@
    "sessoes": []
   }
  },
- "atualizadoEm": "2026-11-19T23:08:09-03:00",
+ "atualizadoEm": "2026-11-20T14:39:19-03:00",
  "janelaDias": 30,
  "erro": null
 }
