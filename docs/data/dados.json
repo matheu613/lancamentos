@@ -752,6 +752,20 @@
    "idioma": "English",
    "sinopse": "Following best friends Des and Ray, a pair of guys who think they should have made it by now, but are stuck working at a save-the-planet company called Ecofood. They must navigate awkward workplace romance, HR blunders, directives from the L.A. office and Ray's dad's disapproval.",
    "url": "https://www.netflix.com/title/81682772"
+  },
+  "s56741-8": {
+   "id": "s56741-8",
+   "titulo": "Untold",
+   "temporada": 8,
+   "data": "2026-12-21",
+   "generos": [
+    "Esportes"
+   ],
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/598/1495720.jpg",
+   "plataforma": "Netflix",
+   "idioma": "English",
+   "sinopse": "Untold is a sports docuseries that brings fresh eyes to some of the greatest stories in sports. From tennis to boxing to basketball, these stories aren't the ones you've heard before, even if you think you have.",
+   "url": "https://www.netflix.com/untoldcollection"
   }
  },
  "filmes": {
@@ -6485,7 +6499,7 @@
    "sessoes": []
   }
  },
- "atualizadoEm": "2026-11-20T23:01:59-03:00",
+ "atualizadoEm": "2026-11-21T13:40:10-03:00",
  "janelaDias": 30,
  "erro": null
 }
