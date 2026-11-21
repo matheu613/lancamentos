@@ -745,13 +745,13 @@
    "temporada": 1,
    "data": "2026-12-18",
    "generos": [
-    "Animação"
+    "Comédia"
    ],
    "imagem": null,
    "plataforma": "Netflix",
    "idioma": "English",
    "sinopse": "Following best friends Des and Ray, a pair of guys who think they should have made it by now, but are stuck working at a save-the-planet company called Ecofood. They must navigate awkward workplace romance, HR blunders, directives from the L.A. office and Ray's dad's disapproval.",
-   "url": "https://www.tvmaze.com/shows/95766/living-the-dream"
+   "url": "https://www.netflix.com/title/81682772"
   }
  },
  "filmes": {
@@ -770,174 +770,6 @@
    "sinopse": "\"Jogos Vorazes: Amanhecer Na Colheita\" revisitará o mundo de Panem 24 anos antes dos eventos de Jogos Vorazes, começando na manhã da colheita dos 50º Jogos Vorazes, também conhecida como o Segundo Massacre Quaternário.",
    "url": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-20",
-     "hora": "14:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "DUB"
-     ],
-     "preco": 50.09,
-     "url": "https://checkout.ingresso.com/?sessionId=87408629&partnership=home"
-    },
-    {
-     "data": "2026-11-20",
-     "hora": "15:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87408620&partnership=home"
-    },
-    {
-     "data": "2026-11-20",
-     "hora": "15:50",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713266&partnership=home"
-    },
-    {
-     "data": "2026-11-20",
-     "hora": "16:00",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 47.76,
-     "url": "https://checkout.ingresso.com/?sessionId=87631712&partnership=home"
-    },
-    {
-     "data": "2026-11-20",
-     "hora": "17:10",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713281&partnership=home"
-    },
-    {
-     "data": "2026-11-20",
-     "hora": "17:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "LEG"
-     ],
-     "preco": 50.09,
-     "url": "https://checkout.ingresso.com/?sessionId=87408631&partnership=home"
-    },
-    {
-     "data": "2026-11-20",
-     "hora": "18:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87408590&partnership=home"
-    },
-    {
-     "data": "2026-11-20",
-     "hora": "19:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87727727&partnership=home"
-    },
-    {
-     "data": "2026-11-20",
-     "hora": "19:10",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 47.76,
-     "url": "https://checkout.ingresso.com/?sessionId=87409161&partnership=home"
-    },
-    {
-     "data": "2026-11-20",
-     "hora": "20:20",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713287&partnership=home"
-    },
-    {
-     "data": "2026-11-20",
-     "hora": "20:50",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "DUB"
-     ],
-     "preco": 50.09,
-     "url": "https://checkout.ingresso.com/?sessionId=87408593&partnership=home"
-    },
-    {
-     "data": "2026-11-20",
-     "hora": "21:50",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87408663&partnership=home"
-    },
-    {
-     "data": "2026-11-20",
-     "hora": "22:10",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713225&partnership=home"
-    },
-    {
-     "data": "2026-11-20",
-     "hora": "22:20",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 47.76,
-     "url": "https://checkout.ingresso.com/?sessionId=87409152&partnership=home"
-    },
     {
      "data": "2026-11-21",
      "hora": "14:00",
@@ -1841,78 +1673,6 @@
    "url": "https://www.ingresso.com/filme/eu-sou-o-rocky?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-20",
-     "hora": "16:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713347&partnership=home"
-    },
-    {
-     "data": "2026-11-20",
-     "hora": "16:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87627685&partnership=home"
-    },
-    {
-     "data": "2026-11-20",
-     "hora": "18:35",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713102&partnership=home"
-    },
-    {
-     "data": "2026-11-20",
-     "hora": "19:20",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87627714&partnership=home"
-    },
-    {
-     "data": "2026-11-20",
-     "hora": "21:10",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713163&partnership=home"
-    },
-    {
-     "data": "2026-11-20",
-     "hora": "22:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87627712&partnership=home"
-    },
-    {
      "data": "2026-11-21",
      "hora": "14:00",
      "cinema": "UCI Palladium",
@@ -2476,18 +2236,6 @@
    "sinopse": "Após testemunhar acidentalmente um crime violento, Josephine, uma menina de 8 anos, passa a buscar maneiras de recuperar sua sensação de segurança. Enquanto lida com o trauma, os adultos ao seu redor mostram-se incapazes de confortá-la adequadamente.",
    "url": "https://www.ingresso.com/filme/josephine-fragmentos-de-um-crime?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-20",
-     "hora": "21:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713030&partnership=home"
-    },
     {
      "data": "2026-11-21",
      "hora": "21:40",
@@ -3417,18 +3165,6 @@
    "sinopse": "Dirigido por Santiago Dellape, Verão da Lata acompanha o caso que chocou o Rio de Janeiro em 1987. Os policiais Brasa (Babu Santana) e Sandra (Samantha Schmütz) possuem personalidades extremamente opostas, mas terão que se unir no maior caso de suas vidas: uma ameaça vinda do mar. Na história, milhares de latas cheias de maconhas surgem nas margens das praias brasileiras, prestes a transformar o p",
    "url": "https://www.ingresso.com/filme/verao-da-lata?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-20",
-     "hora": "17:25",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713211&partnership=home"
-    },
     {
      "data": "2026-11-21",
      "hora": "17:25",
@@ -4402,30 +4138,6 @@
    "url": "https://www.ingresso.com/filme/os-farofeiros-3?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-20",
-     "hora": "15:05",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 34.95,
-     "url": "https://checkout.ingresso.com/?sessionId=87713276&partnership=home"
-    },
-    {
-     "data": "2026-11-20",
-     "hora": "19:25",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 34.95,
-     "url": "https://checkout.ingresso.com/?sessionId=87713294&partnership=home"
-    },
-    {
      "data": "2026-11-21",
      "hora": "15:05",
      "cinema": "UCI Palladium",
@@ -4641,18 +4353,6 @@
    "url": "https://www.ingresso.com/filme/ebenezer-e-os-fantasmas-do-natal?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-20",
-     "hora": "19:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713350&partnership=home"
-    },
-    {
      "data": "2026-11-21",
      "hora": "22:10",
      "cinema": "UCI Palladium",
@@ -4759,18 +4459,6 @@
    "sinopse": "A Virada: Ignição da Alma é um remake brasileiro do filme dos Irmãos Kendrick, ambientado no Rio de Janeiro. A história acompanha Noah Silva, um vendedor de carros usados carismático, cuja vida começa a desmoronar após sua postura “a qualquer custo” cobrar um preço alto em casa e no trabalho. Confrontado por uma série de alertas, ele embarca em uma jornada de reconciliação e transformação pessoal,",
    "url": "https://www.ingresso.com/filme/a-virada-ignicao-da-alma?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-20",
-     "hora": "17:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713230&partnership=home"
-    },
     {
      "data": "2026-11-22",
      "hora": "17:00",
@@ -4922,18 +4610,6 @@
    "sinopse": "A guerra reduziu o Japão a zero, e o Godzilla mergulhou-o no negativo. Passaram-se dois anos desde então, e o país tem enfrentado lutas agonizantes para alcançar a recuperação e, finalmente, voltar à vida normal.\nNo momento em que a humanidade conseguiu se agarrar a uma paz conquistada com dificuldade, surge uma nova ameaça, esmagando a esperança num instante. Não há uma terceira vez. Tudo acaba a",
    "url": "https://www.ingresso.com/filme/godzilla-minus-zero?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-20",
-     "hora": "21:55",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713176&partnership=home"
-    },
     {
      "data": "2026-11-22",
      "hora": "21:55",
@@ -6809,7 +6485,7 @@
    "sessoes": []
   }
  },
- "atualizadoEm": "2026-11-20T14:39:19-03:00",
+ "atualizadoEm": "2026-11-20T23:01:59-03:00",
  "janelaDias": 30,
  "erro": null
 }
