@@ -203,10 +203,10 @@
    "generos": [
     "Série"
    ],
-   "imagem": null,
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/652/1632030.jpg",
    "plataforma": "HBO Max",
    "idioma": "Norwegian",
-   "sinopse": "Christmas is approaching in Brårud, and Jon wants to highlight the authentic, traditional rural Christmas. But since Jon is no expert on the subject, he invites some of his good neighbors and friends to join him in creating a unique Christmas special from Brårud. Together, they host a pre-Christmas celebration at Villa Breen, and we get to follow along with the preparations. Safety boots and tract",
+   "sinopse": "Jon Almaas invites viewers to a traditional and unpretentious rural Christmas at Nes.",
    "url": "https://www.tvmaze.com/shows/95407/jul-pa-brarud"
   },
   "s6544-57": {
@@ -322,7 +322,7 @@
    "generos": [
     "Reality"
    ],
-   "imagem": null,
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/652/1631996.jpg",
    "plataforma": "Netflix",
    "idioma": "English",
    "sinopse": "In this epic competition, Salish Matter and her friends compete for a mountain of presents while trying to keep an imposter from stealing all the gifts.",
@@ -3939,20 +3939,7 @@
    "duracao": "91",
    "sinopse": "O Gatola da Cartola, o felino mais animado e engraçado da literatura agora embarca numa aventura épica e hilária. Na trama, Gatola enfrenta seu maior desafio até agora no I.I.I.I. (Instituto da Instituição da Imaginação e a Inspiração limitada). Conhecido por seu jeito atrapalhado, Gatola precisa alegrar dois irmãos com dificuldade de se adaptar à nova cidade para onde acabaram de se mudar. Gabby ",
    "url": "https://www.ingresso.com/filme/o-gatola-da-cartola?city=curitiba",
-   "sessoes": [
-    {
-     "data": "2026-11-22",
-     "hora": "13:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87713297&partnership=home"
-    }
-   ]
+   "sessoes": []
   },
   "f30892": {
    "id": "f30892",
@@ -4017,18 +4004,6 @@
    "sinopse": "Uma nova adaptação de\"Um Conto de Natal\", de Charles Dickens. Na véspera de Natal, o avarento Ebenezer Scrooge recebe a visita do fantasma de seu antigo sócio, Jacob Marley, e dos espíritos do Natal Passado, Presente e Futuro. As aparições o obrigam a confrontar sua própria vida e oferecem uma chance de redenção.",
    "url": "https://www.ingresso.com/filme/ebenezer-e-os-fantasmas-do-natal?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "22:10",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87742022&partnership=home"
-    },
     {
      "data": "2026-11-22",
      "hora": "19:30",
@@ -6150,7 +6125,7 @@
    "sessoes": []
   }
  },
- "atualizadoEm": "2026-11-21T22:03:33-03:00",
+ "atualizadoEm": "2026-11-22T13:58:34-03:00",
  "janelaDias": 30,
  "erro": null
 }
