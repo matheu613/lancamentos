@@ -780,6 +780,65 @@
    "idioma": "Spanish",
    "sinopse": "Welcome to the \"Dos Caras\" estate. Adela Micha is ready to welcome 12 celebrities who are prepared to do whatever it takes to come out on top. The game begins when one of them discovers they are the holder of a substantial prize. Their mission? To hide, bluff, and stay under the radar. The mission for the rest? To uncover their identity and snatch the money. Is it possible to lie your way to victo",
    "url": "https://www.tvmaze.com/shows/95852/secreto-millonario"
+  },
+  "s95874-1": {
+   "id": "s95874-1",
+   "titulo": "Legevakta",
+   "temporada": 1,
+   "data": "2026-11-26",
+   "generos": [
+    "Drama",
+    "Ação",
+    "Médico"
+   ],
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/653/1632629.jpg",
+   "plataforma": "Netflix",
+   "idioma": "Norwegian",
+   "sinopse": "Banished to a chaotic ER to save her career, brilliant but impatient surgeon Sofia fights the chaos-until warmth, camaraderie, and love make her choose between solo ambition and an unexpected family.",
+   "url": "https://www.tvmaze.com/shows/95874/legevakta"
+  },
+  "s95912-1": {
+   "id": "s95912-1",
+   "titulo": "Toos: De van der Valk ontvoering",
+   "temporada": 1,
+   "data": "2026-11-26",
+   "generos": [
+    "Série"
+   ],
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/653/1632744.jpg",
+   "plataforma": "Netflix",
+   "idioma": "Dutch",
+   "sinopse": "1982. When the matriarch of a Dutch hotel empire is kidnapped for ransom, her family does everything in their power to secure her release. Inspired by a true story.",
+   "url": "https://www.netflix.com/fr/title/81716314"
+  },
+  "s59377-5": {
+   "id": "s59377-5",
+   "titulo": "Alle mot Alle Julespesial",
+   "temporada": 5,
+   "data": "2026-11-30",
+   "generos": [
+    "Comédia"
+   ],
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/382/956670.jpg",
+   "plataforma": "HBO Max",
+   "idioma": "Norwegian",
+   "sinopse": "Eight teams compete to create the best possible Christmas atmosphere, but what tasks are hidden behind the hatches in Alle mot Alles unique Christmas calendar?",
+   "url": "https://play.hbomax.com/show/7cc37b04-6d00-418e-8806-b94cfbaf48ad"
+  },
+  "s78625-2": {
+   "id": "s78625-2",
+   "titulo": "Disney Twisted-Wonderland: The Animation",
+   "temporada": 2,
+   "data": "2026-12-23",
+   "generos": [
+    "Anime",
+    "Sobrenatural"
+   ],
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/594/1487312.jpg",
+   "plataforma": "Disney+",
+   "idioma": "Japanese",
+   "sinopse": "High school student Yuken (Yu) is suddenly transported to Twisted Wonderland, a world of magic and wonder. Now, he must face monsters, whimsical magicians-in-training, and mysterious incidents, all without any magic of his own. Will Yu ever find a way back to his own world?",
+   "url": "https://www.disneyplus.com/en-gb/browse/entity-dea589b3-2f6d-4991-a875-c67d625a4e37"
   }
  },
  "filmes": {
@@ -798,90 +857,6 @@
    "sinopse": "\"Jogos Vorazes: Amanhecer Na Colheita\" revisitará o mundo de Panem 24 anos antes dos eventos de Jogos Vorazes, começando na manhã da colheita dos 50º Jogos Vorazes, também conhecida como o Segundo Massacre Quaternário.",
    "url": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-23",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87713362&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
-     "hora": "14:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "DUB"
-     ],
-     "preco": 32.62,
-     "url": "https://checkout.ingresso.com/?sessionId=87408614&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
-     "hora": "15:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87713098&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
-     "hora": "15:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87408668&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
-     "hora": "16:00",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 38.44,
-     "url": "https://checkout.ingresso.com/?sessionId=87631713&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
-     "hora": "17:10",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87713356&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
-     "hora": "17:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "LEG"
-     ],
-     "preco": 32.62,
-     "url": "https://checkout.ingresso.com/?sessionId=87408612&partnership=home"
-    },
     {
      "data": "2026-11-23",
      "hora": "18:10",
@@ -1354,42 +1329,6 @@
    "sessoes": [
     {
      "data": "2026-11-23",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87627687&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
-     "hora": "16:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87713224&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
-     "hora": "16:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87627680&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
      "hora": "18:35",
      "cinema": "UCI Palladium",
      "sala": "Sala 2",
@@ -1639,18 +1578,6 @@
    "url": "https://www.ingresso.com/filme/i-love-boosters?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-23",
-     "hora": "13:45",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87713333&partnership=home"
-    },
-    {
      "data": "2026-11-24",
      "hora": "13:45",
      "cinema": "UCI Palladium",
@@ -1724,54 +1651,6 @@
    "sinopse": "Após testemunhar acidentalmente um crime violento, Josephine, uma menina de 8 anos, passa a buscar maneiras de recuperar sua sensação de segurança. Enquanto lida com o trauma, os adultos ao seu redor mostram-se incapazes de confortá-la adequadamente.",
    "url": "https://www.ingresso.com/filme/josephine-fragmentos-de-um-crime?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-23",
-     "hora": "17:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87713104&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
-     "hora": "21:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87713328&partnership=home"
-    },
-    {
-     "data": "2026-11-24",
-     "hora": "17:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713231&partnership=home"
-    },
-    {
-     "data": "2026-11-24",
-     "hora": "21:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713122&partnership=home"
-    },
     {
      "data": "2026-11-25",
      "hora": "17:00",
@@ -1904,7 +1783,7 @@
     "Suspense"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/as-novas-desventuras-de-cliff-booth/be9a6875-005c-4a97-abca-0ab13420ffc7.webp",
-   "classificacao": "Verifique a Classificação",
+   "classificacao": "18 anos",
    "duracao": "141",
    "sinopse": "A trama acompanha Cliff Booth após os acontecimentos de Era Uma Vez em... Hollywood, explorando uma nova fase de sua vida como um \"resolvedor de problemas\" nos bastidores da indústria cinematográfica de Hollywood.",
    "url": "https://www.ingresso.com/filme/as-novas-desventuras-de-cliff-booth?city=curitiba",
@@ -2228,7 +2107,7 @@
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/dona-onete-meu-coracao-neste-pedacinho-aqui/2e4de195-2d84-4a5e-93fd-05c5a755ecdb.webp",
    "classificacao": "10 anos",
-   "duracao": "92",
+   "duracao": "90",
    "sinopse": "Professora, militante e guardiã de saberes amazônicos, Dona Onete se tornou uma estrela da música aos 72 anos, mas sua história começou muito antes. Neste documentário filmado entre rios e matas do Pará, Onete canta os banzeiros, os botos e os sabores da floresta com humor e sabedoria em uma celebração da Amazônia viva que pulsa em sua voz.",
    "url": "https://www.ingresso.com/filme/dona-onete-meu-coracao-neste-pedacinho-aqui?city=curitiba",
    "sessoes": []
@@ -2257,7 +2136,7 @@
     "Animação"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/enfeiticadas-bem-vindos-a-hexe/32420f84-f27f-486e-88f0-2f9ce20e2b56.webp",
-   "classificacao": "Verifique a Classificação",
+   "classificacao": "10 anos",
    "duracao": "103",
    "sinopse": "Uma adolescente desajeitada e sua mãe perfeccionista descobrem que suas peculiaridades podem ser, na verdade, poderes mágicos.",
    "url": "https://www.ingresso.com/filme/enfeiticadas-bem-vindos-a-hexe?city=curitiba",
@@ -2304,7 +2183,7 @@
     "Fantasia"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/o-intruso/c3911bb5-2197-48d6-8e6c-3a058e0d759c.webp",
-   "classificacao": "Verifique a Classificação",
+   "classificacao": "14 anos",
    "duracao": "103",
    "sinopse": "Dois irmãos moram sozinhos em uma ilha remota da Escócia e sobrevivem caçando aves marinhas, recontando as histórias de seus ancestrais e defendendo a ilha dos temidos intrusos. O mundo deles vira de cabeça para baixo com a chegada de um desajeitado funcionário do governo que surge para despejá-los de sua terra natal.",
    "url": "https://www.ingresso.com/filme/o-intruso?city=curitiba",
@@ -2320,7 +2199,7 @@
     "Terror"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/leviticus-ritual-de-sangue/c7ec2dfb-fd00-4518-952c-ccefdf043ef3.webp",
-   "classificacao": "Verifique a Classificação",
+   "classificacao": "16 anos",
    "duracao": "88",
    "sinopse": "Dois garotos adolescentes precisam escapar de um monstro violento capaz de se transformar na pessoa que a vítima mais deseja no mundo. Por estarem apaixonados, a criatura assume a aparência de um para atrair o outro, transformando o afeto em uma armadilha de sobrevivência. Misturando terror psicológico e romance queer, o longa-metragem foi exibido na mostra Midnight do Festival de Sundance 2026.",
    "url": "https://www.ingresso.com/filme/leviticus-ritual-de-sangue?city=curitiba",
@@ -2380,8 +2259,8 @@
     "Documentário",
     "Drama"
    ],
-   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/retratos-da-varzea/9a95e9c2-d81d-4c50-8224-b9cb889a7bc5.webp",
-   "classificacao": "Verifique a Classificação",
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/retratos-da-varzea/7a9d292e-6de6-4071-ab15-9dd0f05abb87.webp",
+   "classificacao": "12 anos",
    "duracao": "76",
    "sinopse": "Damião, Jana, Balotelli e CP vivem o futebol de várzea na periferia de Belo Horizonte. Um território de garis-presidentes, cozinheiras-artilheiras, pontas-esquerdas-embarcados, bingos e mutirões, que se reinventa entre sonhos e formas de resistência.",
    "url": "https://www.ingresso.com/filme/retratos-da-varzea?city=curitiba",
@@ -2396,8 +2275,8 @@
     "Drama"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/o-ser-querido/9587bab0-8a44-449d-b0a2-6aa86d9c23b5.webp",
-   "classificacao": "Verifique a Classificação",
-   "duracao": "0",
+   "classificacao": "14 anos",
+   "duracao": "135",
    "sinopse": "O aclamado cineasta Esteban Martínez é uma lenda tanto por seus filmes quanto por um passado de violência e excessos. Em seu novo projeto, ele oferece um papel à filha, Emilia, sob o pretexto de tentar salvar sua carreira estagnada como atriz. A convivência no set os reaproxima após anos de afastamento, mas inevitavelmente reabre velhas feridas que nunca cicatrizaram.",
    "url": "https://www.ingresso.com/filme/o-ser-querido?city=curitiba",
    "sessoes": []
@@ -2426,7 +2305,7 @@
     "Comédia Romântica"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/loucos-amores-liquidos/84871375-9f67-441e-9e87-c641e6ecd20b.webp",
-   "classificacao": "Verifique a Classificação",
+   "classificacao": "12 anos",
    "duracao": "91",
    "sinopse": "Três gerações de mulheres da mesma família viajam do Brasil para a região da Basilicata, na Itália, em busca de suas raízes, identidades e novos amores.",
    "url": "https://www.ingresso.com/filme/loucos-amores-liquidos?city=curitiba",
@@ -2598,7 +2477,7 @@
     "Comédia",
     "Policial"
    ],
-   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/verao-da-lata/f3c2ed83-c3b9-4828-bbef-efd0d13bc769.webp",
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/verao-da-lata/f2ecde7f-893f-4c4f-91c1-6130fb49a11d.webp",
    "classificacao": "18 anos",
    "duracao": "85",
    "sinopse": "Dirigido por Santiago Dellape, Verão da Lata acompanha o caso que chocou o Rio de Janeiro em 1987. Os policiais Brasa (Babu Santana) e Sandra (Samantha Schmütz) possuem personalidades extremamente opostas, mas terão que se unir no maior caso de suas vidas: uma ameaça vinda do mar. Na história, milhares de latas cheias de maconhas surgem nas margens das praias brasileiras, prestes a transformar o p",
@@ -3552,54 +3431,6 @@
    "url": "https://www.ingresso.com/filme/os-farofeiros-3?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-23",
-     "hora": "14:45",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 31.45,
-     "url": "https://checkout.ingresso.com/?sessionId=87713106&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
-     "hora": "19:25",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 31.45,
-     "url": "https://checkout.ingresso.com/?sessionId=87713360&partnership=home"
-    },
-    {
-     "data": "2026-11-24",
-     "hora": "14:45",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 31.45,
-     "url": "https://checkout.ingresso.com/?sessionId=87713114&partnership=home"
-    },
-    {
-     "data": "2026-11-24",
-     "hora": "19:25",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 31.45,
-     "url": "https://checkout.ingresso.com/?sessionId=87713118&partnership=home"
-    },
-    {
      "data": "2026-11-25",
      "hora": "14:45",
      "cinema": "UCI Palladium",
@@ -3777,18 +3608,6 @@
    "url": "https://www.ingresso.com/filme/a-virada-ignicao-da-alma?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-23",
-     "hora": "17:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87713361&partnership=home"
-    },
-    {
      "data": "2026-11-24",
      "hora": "17:00",
      "cinema": "UCI Palladium",
@@ -3831,18 +3650,6 @@
    "sinopse": "Existe um bosque escondido logo depois da cidade, um lugar que não aparece em nenhum mapa e de onde dizem que ninguém volta. É para lá que uma revoada de corvos leva o irmão de Prue (Giulia Benite), enviados por uma feiticeira que precisa dele para seus planos sombrios. Sem pensar duas vezes, Prue parte para o Bosque Selvagem para salvá-lo, ao lado do amigo Curtis. Lá dentro, os dois encontram um ",
    "url": "https://www.ingresso.com/filme/o-bosque-selvagem?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-23",
-     "hora": "14:15",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87713405&partnership=home"
-    },
     {
      "data": "2026-11-24",
      "hora": "14:15",
@@ -5764,9 +5571,24 @@
    "sinopse": "RAYE é compositora, contadora de histórias e, às vezes, alguém que pensa demais nas coisas. Ela escreve sobre amor, perda, fé, alegria e o estranho teatro de ser humano — muitas vezes, tudo ao mesmo tempo. Uma das artistas mais aclamadas do mundo, a cantora e compositora nascida no sul de Londres fez história em 2024 ao conquistar seis prêmios BRIT em uma única noite — o maior número já alcançado ",
    "url": "https://www.ingresso.com/filme/this-symphony-may-contain-hope?city=curitiba",
    "sessoes": []
+  },
+  "f34435": {
+   "id": "f34435",
+   "titulo": "Tarkovsky: Tempo De Viagem",
+   "tituloOriginal": "Tempo di Viaggio",
+   "data": "2026-12-03",
+   "generos": [
+    "Documentário"
+   ],
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/tarkovsky-tempo-de-viagem/2663761d-d51f-4263-a5db-a2a943f81bfb.webp",
+   "classificacao": "Verifique a Classificação",
+   "duracao": "62",
+   "sinopse": "Em busca das paisagens ideais para seu próximo longa-metragem, Andrei Tarkovsky percorre a Itália ao lado do roteirista Tonino Guerra. Entre vilarejos históricos, construções antigas e cenários naturais, os dois conversam sobre cinema, arte e o papel do artista, revelando as ideias e inquietações que acompanhariam a realização de \"Nostalgia\", penúltimo filme de Tarkovsky. Um registro precioso do p",
+   "url": "https://www.ingresso.com/filme/tarkovsky-tempo-de-viagem?city=curitiba",
+   "sessoes": []
   }
  },
- "atualizadoEm": "2026-11-22T22:28:20-03:00",
+ "atualizadoEm": "2026-11-23T18:00:05-03:00",
  "janelaDias": 30,
  "erro": null
 }
