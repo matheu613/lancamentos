@@ -875,66 +875,6 @@
    "sessoes": [
     {
      "data": "2026-11-24",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713111&partnership=home"
-    },
-    {
-     "data": "2026-11-24",
-     "hora": "14:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "DUB"
-     ],
-     "preco": 40.77,
-     "url": "https://checkout.ingresso.com/?sessionId=87408628&partnership=home"
-    },
-    {
-     "data": "2026-11-24",
-     "hora": "15:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713406&partnership=home"
-    },
-    {
-     "data": "2026-11-24",
-     "hora": "15:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87408642&partnership=home"
-    },
-    {
-     "data": "2026-11-24",
-     "hora": "16:00",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 38.44,
-     "url": "https://checkout.ingresso.com/?sessionId=87631711&partnership=home"
-    },
-    {
-     "data": "2026-11-24",
      "hora": "17:10",
      "cinema": "UCI Palladium",
      "sala": "Sala 1",
@@ -1103,6 +1043,18 @@
     },
     {
      "data": "2026-11-25",
+     "hora": "16:00",
+     "cinema": "IMAX Palladium",
+     "sala": "Sala 1",
+     "tipos": [
+      "IMAX",
+      "LEG"
+     ],
+     "preco": 38.44,
+     "url": "https://checkout.ingresso.com/?sessionId=87765482&partnership=home"
+    },
+    {
+     "data": "2026-11-25",
      "hora": "17:10",
      "cinema": "UCI Palladium",
      "sala": "Sala 1",
@@ -1247,42 +1199,6 @@
    "sinopse": "EU SOU O ROCKY conta a incrível história por trás da criação de um dos maiores clássicos do cinema. Antes do sucesso, \"Rocky\" era apenas uma ideia na cabeça de Sylvester Stallone, um ator desconhecido com o rosto parcialmente paralisado e um problema de fala. Quando seu roteiro desperta o interesse de um grande estúdio, Stallone toma uma decisão ousada e recusa a proposta milionária que mudaria su",
    "url": "https://www.ingresso.com/filme/eu-sou-o-rocky?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-24",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87627686&partnership=home"
-    },
-    {
-     "data": "2026-11-24",
-     "hora": "16:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713300&partnership=home"
-    },
-    {
-     "data": "2026-11-24",
-     "hora": "16:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87627679&partnership=home"
-    },
     {
      "data": "2026-11-24",
      "hora": "18:35",
@@ -1449,18 +1365,6 @@
    "sinopse": "Corvette, uma aspirante a estilista interpretada por Keke Palmer, lidera um grupo de ladras especializadas em furtos de lojas. Quando a poderosa magnata da moda Christie Smith, vivida por Demi Moore, se apropria de uma de suas criações, o grupo organiza uma ação para roubar as roupas da empresária e revendê-las a preços acessíveis, desencadeando um movimento de rebeldia social e crítica ao sistema",
    "url": "https://www.ingresso.com/filme/i-love-boosters?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-24",
-     "hora": "13:45",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713415&partnership=home"
-    },
     {
      "data": "2026-11-25",
      "hora": "13:45",
@@ -2101,7 +2005,7 @@
     "Documentário"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/tudo-pode-ser-visto/82b70eb3-082e-4f6e-9bca-2a845a83865c.webp",
-   "classificacao": "A18",
+   "classificacao": "14 anos",
    "duracao": "174",
    "sinopse": "Trinta e quatro dias antes de ser presa, a famosa fundadora do Vale do Silício, Elizabeth Holmes, convida uma equipe de filmagem cética para documentar cada um de seus passos. O que começa como um retrato íntimo de uma criminosa enigmática transforma-se em uma jornada alucinante de três anos rumo ao abismo. Dos ousados diretores Nathan Fielder e Lance Oppenheim, chega Tudo Pode Ser Visto. ",
    "url": "https://www.ingresso.com/filme/tudo-pode-ser-visto?city=curitiba",
@@ -2131,7 +2035,7 @@
     "Documentário",
     "Drama"
    ],
-   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/retratos-da-varzea/7a9d292e-6de6-4071-ab15-9dd0f05abb87.webp",
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/retratos-da-varzea/cc6da5f3-c6bf-4d47-a82d-929ce72cba1c.webp",
    "classificacao": "12 anos",
    "duracao": "76",
    "sinopse": "Damião, Jana, Balotelli e CP vivem o futebol de várzea na periferia de Belo Horizonte. Um território de garis-presidentes, cozinheiras-artilheiras, pontas-esquerdas-embarcados, bingos e mutirões, que se reinventa entre sonhos e formas de resistência.",
@@ -2224,7 +2128,7 @@
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/noite-ainda-mais-infeliz/00e1008c-0b36-481b-90e5-1ba7ec2a52c0.webp",
    "classificacao": "Verifique a Classificação",
-   "duracao": "0",
+   "duracao": "110",
    "sinopse": "Encalhado em um shopping em ruínas em Nova Jersey e isolado do Pólo Norte, o Papai Noel está preso fazendo justiça violenta a um implacável Senhor do Crime e seus capangas que invadem o shopping da cidade.",
    "url": "https://www.ingresso.com/filme/noite-ainda-mais-infeliz?city=curitiba",
    "sessoes": []
@@ -2240,7 +2144,7 @@
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/o-nascimento-de-cristo-zero-d-c/4107e0c6-365c-4e3f-9715-baa41f5f3412.webp",
    "classificacao": "Verifique a Classificação",
-   "duracao": "90",
+   "duracao": "105",
    "sinopse": "Um rei consumido pelo medo recebe uma profecia sobre o nascimento de uma criança que ameaça seu reinado. Determinado a impedir o cumprimento dessa promessa divina, ele ordenou a morte do menino. Mas uma mãe, guiada pela fé, protege seu filho e aceita o plano de Deus. Em meio à perseguição, uma batalha espiritual se desenrola pela salvação da humanidade. Esta é a origem de uma fé que mudará o mundo",
    "url": "https://www.ingresso.com/filme/o-nascimento-de-cristo-zero-d-c?city=curitiba",
    "sessoes": []
@@ -2267,10 +2171,11 @@
    "tituloOriginal": "Victorian Psycho",
    "data": "2026-12-03",
    "generos": [
+    "Comédia",
     "Terror",
     "Thriller"
    ],
-   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/psicopata-vitoriana/809229f9-956a-42a6-8e83-07b44c69bea5.webp",
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/psicopata-vitoriana/9ca02ec4-4c26-4679-896f-9d337e407866.webp",
    "classificacao": "Verifique a Classificação",
    "duracao": "90",
    "sinopse": "No terror PSICOPATA VITORIANA, Winifred Notty (Maika Monroe) chega à sombria mansão Ensor House para trabalhar como governanta de uma família. Sua missão é disciplinar as crianças, ensinar bons modos e preservar a história da família, mas por trás do sorriso impecável, Winifred esconde uma mente perturbada e desejos violentos.\nQuando funcionários começam a desaparecer um a um, os donos da casa per",
@@ -2286,9 +2191,9 @@
     "Ação",
     "Suspense"
    ],
-   "imagem": "",
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/a-ultima-entrega/ec6cab11-c423-4d20-9dd5-8302b700e45d.webp",
    "classificacao": "Verifique a Classificação",
-   "duracao": "0",
+   "duracao": "98",
    "sinopse": "Um horticultor silencioso que vive uma vida secreta como assassino letal vê sua verdadeira identidade comprometida ao formar uma amizade improvável com uma testemunha de corrupção policial.",
    "url": "https://www.ingresso.com/filme/a-ultima-entrega?city=curitiba",
    "sessoes": []
@@ -2299,11 +2204,13 @@
    "tituloOriginal": "Behemoth!",
    "data": "2026-12-10",
    "generos": [
-    "Drama"
+    "Documentário",
+    "Drama",
+    "Musical"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/behemoth-uma-vida-composta-em-pecas/5609a660-fb7e-418a-8936-cadba52578ae.webp",
    "classificacao": "Verifique a Classificação",
-   "duracao": "0",
+   "duracao": "127",
    "sinopse": "Alex Serian é um violoncelista talentoso que retorna a Los Angeles após passar duas décadas viajando pelo mundo. Ao revisitar o passado e redescobrir sua conexão com a arte que o guiou a vida toda, Alex embarca em uma jornada de autoconhecimento que promete mudar sua forma de enxergar a si mesmo e o mundo.",
    "url": "https://www.ingresso.com/filme/behemoth-uma-vida-composta-em-pecas?city=curitiba",
    "sessoes": []
@@ -3468,18 +3375,6 @@
    "url": "https://www.ingresso.com/filme/a-virada-ignicao-da-alma?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-24",
-     "hora": "17:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713263&partnership=home"
-    },
-    {
      "data": "2026-11-25",
      "hora": "17:00",
      "cinema": "UCI Palladium",
@@ -3510,18 +3405,6 @@
    "sinopse": "Existe um bosque escondido logo depois da cidade, um lugar que não aparece em nenhum mapa e de onde dizem que ninguém volta. É para lá que uma revoada de corvos leva o irmão de Prue (Giulia Benite), enviados por uma feiticeira que precisa dele para seus planos sombrios. Sem pensar duas vezes, Prue parte para o Bosque Selvagem para salvá-lo, ao lado do amigo Curtis. Lá dentro, os dois encontram um ",
    "url": "https://www.ingresso.com/filme/o-bosque-selvagem?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-24",
-     "hora": "14:15",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713103&partnership=home"
-    },
     {
      "data": "2026-11-25",
      "hora": "14:15",
@@ -5398,9 +5281,9 @@
    "generos": [
     "Documentário"
    ],
-   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/o-sertao-das-nossas-memorias/9c87bdfb-59ad-4c22-a81b-b67d5d7782ba.webp",
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/o-sertao-das-nossas-memorias/459bbe23-021b-47e1-bbae-f11622cf0b34.webp",
    "classificacao": "Verifique a Classificação",
-   "duracao": "100",
+   "duracao": "99",
    "sinopse": "“O Sertão das Nossas Memórias” é um road movie que vai do Rio de Janeiro ao sertão da Bahia, num trajeto de dois mil quilômetros, revisitar com a ajuda de três sobreviventes um massacre ocorrido durante a ditadura militar. A repressão estava à procura do Capitão Carlos Lamarca, considerado inimigo público número um da ditadura. Junto com Lamarca e outros também foi assassinado José Campos Barreto ",
    "url": "https://www.ingresso.com/filme/o-sertao-das-nossas-memorias?city=curitiba",
    "sessoes": []
@@ -5434,9 +5317,121 @@
    "sinopse": "Em busca das paisagens ideais para seu próximo longa-metragem, Andrei Tarkovsky percorre a Itália ao lado do roteirista Tonino Guerra. Entre vilarejos históricos, construções antigas e cenários naturais, os dois conversam sobre cinema, arte e o papel do artista, revelando as ideias e inquietações que acompanhariam a realização de \"Nostalgia\", penúltimo filme de Tarkovsky. Um registro precioso do p",
    "url": "https://www.ingresso.com/filme/tarkovsky-tempo-de-viagem?city=curitiba",
    "sessoes": []
+  },
+  "f25461": {
+   "id": "f25461",
+   "titulo": "Ciclo",
+   "tituloOriginal": "Ciclo",
+   "data": "2026-12-03",
+   "generos": [
+    "Drama",
+    "Ficção Científica",
+    "Thriller"
+   ],
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/ciclo/bdd7bd35-edd9-43ad-aeca-b8fd7c47b2da.webp",
+   "classificacao": "Verifique a Classificação",
+   "duracao": "85",
+   "sinopse": "Um filme de ficção científica e suspense que nos apresenta um futuro assustadoramente possível, onde as coisas saíram ainda mais do controle e o que seria apenas uma “quarentena” virou o novo e totalmente bizarro normal.",
+   "url": "https://www.ingresso.com/filme/ciclo?city=curitiba",
+   "sessoes": []
+  },
+  "f31049": {
+   "id": "f31049",
+   "titulo": "Para Vigo Me Voy!",
+   "tituloOriginal": "Para Vigo Me Voy",
+   "data": "2026-12-03",
+   "generos": [
+    "Documentário",
+    "Musical"
+   ],
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/para-vigo-me-voy/a59aadeb-25c4-4ee6-a03a-12c09742eda9.webp",
+   "classificacao": "Verifique a Classificação",
+   "duracao": "97",
+   "sinopse": "Documentário que mergulha na obra de Carlos Diegues, cineasta que retratou a história e o espírito do Brasil desde 1961. O longa navega entre os filmes dele e sua trajetória pessoal. Trechos das obras são intercalados com entrevistas do diretor. Acompanhamos a evolução de seu cinema e de seu discurso, costurando esse diálogo com imagens inéditas da última filmagem de Diegues em Deus Ainda é Brasil",
+   "url": "https://www.ingresso.com/filme/para-vigo-me-voy?city=curitiba",
+   "sessoes": []
+  },
+  "f31051": {
+   "id": "f31051",
+   "titulo": "Uma Em Mil",
+   "tituloOriginal": "Uma em Mil",
+   "data": "2026-12-03",
+   "generos": [
+    "Documentário",
+    "Musical"
+   ],
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/uma-em-mil/356b4d0a-1536-4e3a-a5b8-8d3fb470696f.webp",
+   "classificacao": "10 anos",
+   "duracao": "70",
+   "sinopse": "É bem normal dizerem que 'uma em mil' são as chances de uma pessoa nascer com Down. Este filme é dirigido por dois irmãos, e o mais jovem tem a síndrome. Juntos, eles tentam entender por que um deles nunca trocou uma lâmpada na vida e descobrem o que a invenção do rádio tem a ver com a invenção da escada. Isso mesmo, este não é um filme normal.",
+   "url": "https://www.ingresso.com/filme/uma-em-mil?city=curitiba",
+   "sessoes": []
+  },
+  "f33447": {
+   "id": "f33447",
+   "titulo": "Amadeo E O Hipotético Mundo Novo",
+   "tituloOriginal": "Amadeo E O Hipotético Mundo Novo",
+   "data": "2026-12-03",
+   "generos": [
+    "Animação"
+   ],
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/amadeo-e-o-hipotetico-mundo-novo/bdea5971-a265-4ef4-8d34-99ef170c6645.webp",
+   "classificacao": "Verifique a Classificação",
+   "duracao": "104",
+   "sinopse": "Amadeo é um jovem africano sensível e genial que inventa a câmera fotográfica antes dos europeus. Tudo sobre sua invenção seria mais fácil e maravilhoso se não tivesse acontecido no século XIX no Brasil — o último país das Américas a abolir a escravidão. Amadeo nutre uma paixão proibida por Linda, uma jovem idealista apaixonada pela ciência e pela arte. Para aliviar as dores desse amor, o jovem ci",
+   "url": "https://www.ingresso.com/filme/amadeo-e-o-hipotetico-mundo-novo?city=curitiba",
+   "sessoes": []
+  },
+  "f34525": {
+   "id": "f34525",
+   "titulo": "Ray Gunn",
+   "tituloOriginal": "Ray Gunn",
+   "data": "2026-12-03",
+   "generos": [
+    "Animação",
+    "Crime"
+   ],
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/ray-gunn/8e1bfdd4-0083-49b2-bbe8-8390e090eca3.webp",
+   "classificacao": "Verifique a Classificação",
+   "duracao": "119",
+   "sinopse": "Em um mundo futuro de humanos e alienígenas, Raymund Gunn persegue sua paixão como o último detetive particular humano.",
+   "url": "https://www.ingresso.com/filme/ray-gunn?city=curitiba",
+   "sessoes": []
+  },
+  "f34527": {
+   "id": "f34527",
+   "titulo": "Os Demônios (Relançamento)",
+   "tituloOriginal": "The Devils",
+   "data": "2026-12-04",
+   "generos": [
+    "Aventura",
+    "Drama",
+    "Terror"
+   ],
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/os-demonios-relancamento/9528914b-618c-437b-9d55-60dca57e97d5.webp",
+   "classificacao": "Verifique a Classificação",
+   "duracao": "111",
+   "sinopse": "Na França de 1631, durante o violento regime católico em luta contra os protestantes, uma madre-superiora começa a atribuir suas fantasias sexuais com o mais proeminente padre do vilarejo a possessão demoníaca. Adversários políticos do sacerdote, Grandier, decidem aproveitar a oportunidade para tirá-lo do poder para sempre. É quando entram em cena os horrores da Santa Inquisição.",
+   "url": "https://www.ingresso.com/filme/os-demonios-relancamento?city=curitiba",
+   "sessoes": []
+  },
+  "f33798": {
+   "id": "f33798",
+   "titulo": "Talismã",
+   "tituloOriginal": "Talismã",
+   "data": "2026-12-10",
+   "generos": [
+    "Drama"
+   ],
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/talisma/93fae0cb-5c65-4424-a621-6686f9fee200.webp",
+   "classificacao": "Verifique a Classificação",
+   "duracao": "81",
+   "sinopse": "Tereza é mãe solo e se divide entre dar aulas de dança e cuidar da filha, Pina, contando apenas com ajuda do pai idoso. Ela vê a vida virar de cabeça para baixo quando a filha entra num reality de talentos mirins. Pina quer chegar à final, no Rio de Janeiro, desejando retornar para a sua cidade natal. Enquanto ensaiam, a menina reacende na mãe sonhos do passado.",
+   "url": "https://www.ingresso.com/filme/talisma?city=curitiba",
+   "sessoes": []
   }
  },
- "atualizadoEm": "2026-11-24T02:16:27-03:00",
+ "atualizadoEm": "2026-11-24T17:02:05-03:00",
  "janelaDias": 30,
  "erro": null
 }
