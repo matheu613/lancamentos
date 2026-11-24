@@ -839,6 +839,22 @@
    "idioma": "Japanese",
    "sinopse": "High school student Yuken (Yu) is suddenly transported to Twisted Wonderland, a world of magic and wonder. Now, he must face monsters, whimsical magicians-in-training, and mysterious incidents, all without any magic of his own. Will Yu ever find a way back to his own world?",
    "url": "https://www.disneyplus.com/en-gb/browse/entity-dea589b3-2f6d-4991-a875-c67d625a4e37"
+  },
+  "s41632-6": {
+   "id": "s41632-6",
+   "titulo": "Emily in Paris",
+   "temporada": 6,
+   "data": "2026-12-24",
+   "generos": [
+    "Drama",
+    "Comédia",
+    "Romance"
+   ],
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/652/1630937.jpg",
+   "plataforma": "Netflix",
+   "idioma": "English",
+   "sinopse": "After landing her dream job in Paris, Chicago marketing exec Emily Cooper embraces her adventurous new life while juggling work, friends and romance.",
+   "url": "https://www.netflix.com/title/81037371"
   }
  },
  "filmes": {
@@ -857,102 +873,6 @@
    "sinopse": "\"Jogos Vorazes: Amanhecer Na Colheita\" revisitará o mundo de Panem 24 anos antes dos eventos de Jogos Vorazes, começando na manhã da colheita dos 50º Jogos Vorazes, também conhecida como o Segundo Massacre Quaternário.",
    "url": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-23",
-     "hora": "18:10",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87713414&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
-     "hora": "18:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87408647&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
-     "hora": "19:10",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 38.44,
-     "url": "https://checkout.ingresso.com/?sessionId=87409190&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
-     "hora": "20:20",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87713252&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
-     "hora": "20:50",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "DUB"
-     ],
-     "preco": 32.62,
-     "url": "https://checkout.ingresso.com/?sessionId=87408583&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
-     "hora": "21:20",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87713085&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
-     "hora": "21:50",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87408648&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
-     "hora": "22:20",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 38.44,
-     "url": "https://checkout.ingresso.com/?sessionId=87409175&partnership=home"
-    },
     {
      "data": "2026-11-24",
      "hora": "14:00",
@@ -1327,54 +1247,6 @@
    "sinopse": "EU SOU O ROCKY conta a incrível história por trás da criação de um dos maiores clássicos do cinema. Antes do sucesso, \"Rocky\" era apenas uma ideia na cabeça de Sylvester Stallone, um ator desconhecido com o rosto parcialmente paralisado e um problema de fala. Quando seu roteiro desperta o interesse de um grande estúdio, Stallone toma uma decisão ousada e recusa a proposta milionária que mudaria su",
    "url": "https://www.ingresso.com/filme/eu-sou-o-rocky?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-23",
-     "hora": "18:35",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87713131&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
-     "hora": "19:20",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87627701&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
-     "hora": "21:10",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87713267&partnership=home"
-    },
-    {
-     "data": "2026-11-23",
-     "hora": "22:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87627696&partnership=home"
-    },
     {
      "data": "2026-11-24",
      "hora": "14:00",
@@ -3525,18 +3397,6 @@
    "url": "https://www.ingresso.com/filme/ebenezer-e-os-fantasmas-do-natal?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-23",
-     "hora": "19:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87713338&partnership=home"
-    },
-    {
      "data": "2026-11-24",
      "hora": "19:30",
      "cinema": "UCI Palladium",
@@ -3710,18 +3570,6 @@
    "sinopse": "A guerra reduziu o Japão a zero, e o Godzilla mergulhou-o no negativo. Passaram-se dois anos desde então, e o país tem enfrentado lutas agonizantes para alcançar a recuperação e, finalmente, voltar à vida normal.\nNo momento em que a humanidade conseguiu se agarrar a uma paz conquistada com dificuldade, surge uma nova ameaça, esmagando a esperança num instante. Não há uma terceira vez. Tudo acaba a",
    "url": "https://www.ingresso.com/filme/godzilla-minus-zero?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-23",
-     "hora": "21:55",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 33.78,
-     "url": "https://checkout.ingresso.com/?sessionId=87713301&partnership=home"
-    },
     {
      "data": "2026-11-24",
      "hora": "21:55",
@@ -5588,7 +5436,7 @@
    "sessoes": []
   }
  },
- "atualizadoEm": "2026-11-23T18:00:05-03:00",
+ "atualizadoEm": "2026-11-24T02:16:27-03:00",
  "janelaDias": 30,
  "erro": null
 }
