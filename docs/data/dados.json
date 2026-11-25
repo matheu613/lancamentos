@@ -278,11 +278,11 @@
     "Ficção científica",
     "Mistério"
    ],
-   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/629/1574763.jpg",
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/653/1633552.jpg",
    "plataforma": "Netflix",
    "idioma": "Japanese",
-   "sinopse": "A young man, Toshiro Kamiya, lives in poverty and works hard to pay taxes, cover living expenses, and afford medication for his mentally ill mother.However, the cruel reality around him gradually eats away at his hope.Living... there isn't a single thing fun about it.In this dark world full of despair, he chooses the path of the \"Spiriflor\" — the plants that humans transform into.Should he continu",
-   "url": "https://www.foolnight.com/"
+   "sinopse": "In a sunless future where humans become plants to make oxygen, a desperate young man begins the transformation — and unearths a deep-rooted conspiracy.",
+   "url": "https://www.netflix.com/title/81991076"
   },
   "s51042-4": {
    "id": "s51042-4",
@@ -794,8 +794,8 @@
    "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/653/1632629.jpg",
    "plataforma": "Netflix",
    "idioma": "Norwegian",
-   "sinopse": "Banished to a chaotic ER to save her career, brilliant but impatient surgeon Sofia fights the chaos-until warmth, camaraderie, and love make her choose between solo ambition and an unexpected family.",
-   "url": "https://www.tvmaze.com/shows/95874/legevakta"
+   "sinopse": "A devoted team of medical professionals navigate personal struggles, political pressure and a risky new hire at an overwhelmed emergency room in Oslo.",
+   "url": "https://www.netflix.com/title/81763933"
   },
   "s95912-1": {
    "id": "s95912-1",
@@ -803,7 +803,7 @@
    "temporada": 1,
    "data": "2026-11-26",
    "generos": [
-    "Série"
+    "Drama"
    ],
    "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/653/1632744.jpg",
    "plataforma": "Netflix",
@@ -869,6 +869,76 @@
    "idioma": "English",
    "sinopse": "An expansive portrait of the life and career of multi-hyphenate artist and icon Justin Timberlake. Raw, reflective and revealing, Timberlake sits down to discuss the triumphs that made him a global success, his personal perspective beyond the headlines and the challenges he's faced behind the scenes.",
    "url": "https://tv.apple.com/us/show/timberlake/umc.cmc.4v3f5oodan8l5jvjcj6lo8j34"
+  },
+  "s71805-4": {
+   "id": "s71805-4",
+   "titulo": "Ilhados com a Sogra",
+   "temporada": 4,
+   "data": "2026-11-25",
+   "generos": [
+    "Reality"
+   ],
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/601/1503980.jpg",
+   "plataforma": "Netflix",
+   "idioma": "Portuguese",
+   "sinopse": "To win a life-changing prize, couples embark on a journey to an earthly paradise and confront challenges... with the assistance of their mothers-in-law.",
+   "url": "https://www.netflix.com/title/81522420"
+  },
+  "s95988-1": {
+   "id": "s95988-1",
+   "titulo": "Paskong Pinoy",
+   "temporada": 1,
+   "data": "2026-11-26",
+   "generos": [
+    "Drama"
+   ],
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/653/1633551.jpg",
+   "plataforma": "Netflix",
+   "idioma": "Tagalog",
+   "sinopse": "A reunion in Boracay, an office romance, mistaken identities and feuding sisters — four stories that capture love, family and a Filipino Christmas.",
+   "url": "https://www.netflix.com/title/82044873"
+  },
+  "s95989-1": {
+   "id": "s95989-1",
+   "titulo": "Expediente Linares",
+   "temporada": 1,
+   "data": "2026-11-27",
+   "generos": [
+    "Crime"
+   ],
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/653/1633579.jpg",
+   "plataforma": "HBO Max",
+   "idioma": "Spanish",
+   "sinopse": "In 1990s Madrid, an abandoned palace becomes the center of a media firestorm amid reports of unexplainable paranormal phenomena.",
+   "url": "https://www.hbomax.com/show/1d9d47b6-4245-4c87-8992-7582014c0bf4"
+  },
+  "s95990-1": {
+   "id": "s95990-1",
+   "titulo": "Sztuka oszustwa",
+   "temporada": 1,
+   "data": "2026-11-27",
+   "generos": [
+    "Crime"
+   ],
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/653/1633580.jpg",
+   "plataforma": "HBO Max",
+   "idioma": "Polish",
+   "sinopse": "An investigation into the case of Joanna Segelström, who was accused of running a pyramid scheme under the guise of an art gallery empire.",
+   "url": "https://www.hbomax.com/show/44b0deed-3933-4722-b816-edebfb24da6d"
+  },
+  "s95991-1": {
+   "id": "s95991-1",
+   "titulo": "Den forbandede dyrepark",
+   "temporada": 1,
+   "data": "2026-11-27",
+   "generos": [
+    "Crime"
+   ],
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/653/1633583.jpg",
+   "plataforma": "HBO Max",
+   "idioma": "Danish",
+   "sinopse": "This documentary explores the dark history of Denmark's Næstved Zoo, a center of gang activity, animal trafficking, drugs – and murder.",
+   "url": "https://www.hbomax.com/show/1f1490fc-9a06-448b-bd57-23df3f36e1fc"
   }
  },
  "filmes": {
@@ -887,66 +957,6 @@
    "sinopse": "\"Jogos Vorazes: Amanhecer Na Colheita\" revisitará o mundo de Panem 24 anos antes dos eventos de Jogos Vorazes, começando na manhã da colheita dos 50º Jogos Vorazes, também conhecida como o Segundo Massacre Quaternário.",
    "url": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713397&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "14:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "DUB"
-     ],
-     "preco": 40.77,
-     "url": "https://checkout.ingresso.com/?sessionId=87408634&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "15:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713318&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "15:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87408650&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "16:00",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 38.44,
-     "url": "https://checkout.ingresso.com/?sessionId=87765482&partnership=home"
-    },
     {
      "data": "2026-11-25",
      "hora": "17:10",
@@ -1983,30 +1993,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87627704&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "16:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713417&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "16:40",
      "cinema": "UCI Palladium",
      "sala": "Sala 4",
@@ -2326,20 +2312,7 @@
    "duracao": "114",
    "sinopse": "Corvette, uma aspirante a estilista interpretada por Keke Palmer, lidera um grupo de ladras especializadas em furtos de lojas. Quando a poderosa magnata da moda Christie Smith, vivida por Demi Moore, se apropria de uma de suas criações, o grupo organiza uma ação para roubar as roupas da empresária e revendê-las a preços acessíveis, desencadeando um movimento de rebeldia social e crítica ao sistema",
    "url": "https://www.ingresso.com/filme/i-love-boosters?city=curitiba",
-   "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "13:45",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713424&partnership=home"
-    }
-   ]
+   "sessoes": []
   },
   "f33519": {
    "id": "f33519",
@@ -5304,18 +5277,6 @@
    "url": "https://www.ingresso.com/filme/os-farofeiros-3?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-25",
-     "hora": "14:45",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 31.45,
-     "url": "https://checkout.ingresso.com/?sessionId=87713317&partnership=home"
-    },
-    {
      "data": "2026-11-26",
      "hora": "14:00",
      "cinema": "UCI Palladium",
@@ -5570,20 +5531,7 @@
    "duracao": "130",
    "sinopse": "Existe um bosque escondido logo depois da cidade, um lugar que não aparece em nenhum mapa e de onde dizem que ninguém volta. É para lá que uma revoada de corvos leva o irmão de Prue (Giulia Benite), enviados por uma feiticeira que precisa dele para seus planos sombrios. Sem pensar duas vezes, Prue parte para o Bosque Selvagem para salvá-lo, ao lado do amigo Curtis. Lá dentro, os dois encontram um ",
    "url": "https://www.ingresso.com/filme/o-bosque-selvagem?city=curitiba",
-   "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:15",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713421&partnership=home"
-    }
-   ]
+   "sessoes": []
   },
   "f32937": {
    "id": "f32937",
@@ -7691,9 +7639,24 @@
    "sinopse": "Refletidas por um globo espelhado, seis ícones das noites pernambucanas revisitam seus passados e revivem suas mais íntimas memórias. Pioneiras de uma revolução ainda em curso, elas são e sempre serão Filhas da Noite.",
    "url": "https://www.ingresso.com/filme/filhas-da-noite?city=curitiba",
    "sessoes": []
+  },
+  "f34265": {
+   "id": "f34265",
+   "titulo": "Sobre Memória E Esquecimento",
+   "tituloOriginal": "Sobre Memória E Esquecimento",
+   "data": "2026-12-10",
+   "generos": [
+    "Documentário"
+   ],
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/sobre-memoria-e-esquecimento/e9783fef-346a-4a76-9fa4-396283e38c5c.webp",
+   "classificacao": "Verifique a Classificação",
+   "duracao": "85",
+   "sinopse": "Sob a terra de um cemitério em São Paulo, os mortos sem nome insistem em permanecer. Uma vala comum criada nos anos 1970, o silêncio que ainda envolve um massacre policial ocorrido nos anos 2000 e um laboratório forense ameaçado de fechamento revelam um país onde o esquecimento faz parte da paisagem. Em meio a esse projeto de apagamento, três mulheres desafiam o silêncio em busca da memória, da ve",
+   "url": "https://www.ingresso.com/filme/sobre-memoria-e-esquecimento?city=curitiba",
+   "sessoes": []
   }
  },
- "atualizadoEm": "2026-11-25T01:00:13-03:00",
+ "atualizadoEm": "2026-11-25T16:02:19-03:00",
  "janelaDias": 30,
  "erro": null
 }
