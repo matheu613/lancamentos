@@ -281,7 +281,7 @@
    "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/653/1633552.jpg",
    "plataforma": "Netflix",
    "idioma": "Japanese",
-   "sinopse": "In a sunless future where humans become plants to make oxygen, a desperate young man begins the transformation — and unearths a deep-rooted conspiracy.",
+   "sinopse": "Yomiko turns people into plants for a living. Toshiro's desperate enough to become one. But their reunion unearths secrets neither was meant to find.",
    "url": "https://www.netflix.com/title/81991076"
   },
   "s51042-4": {
@@ -971,54 +971,6 @@
    "sinopse": "\"Jogos Vorazes: Amanhecer Na Colheita\" revisitará o mundo de Panem 24 anos antes dos eventos de Jogos Vorazes, começando na manhã da colheita dos 50º Jogos Vorazes, também conhecida como o Segundo Massacre Quaternário.",
    "url": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-26",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87787009&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "14:15",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87787340&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "14:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "DUB"
-     ],
-     "preco": 50.09,
-     "url": "https://checkout.ingresso.com/?sessionId=87787010&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "15:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87788414&partnership=home"
-    },
     {
      "data": "2026-11-26",
      "hora": "17:10",
@@ -2605,18 +2557,6 @@
    "sessoes": [
     {
      "data": "2026-11-26",
-     "hora": "14:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87786988&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
      "hora": "17:00",
      "cinema": "UCI Palladium",
      "sala": "Sala 4",
@@ -2960,18 +2900,6 @@
    "sessoes": [
     {
      "data": "2026-11-26",
-     "hora": "14:35",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87786992&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
      "hora": "17:25",
      "cinema": "UCI Palladium",
      "sala": "Sala 6",
@@ -3190,18 +3118,6 @@
    "sinopse": "Uma adolescente desajeitada e sua mãe perfeccionista descobrem que suas peculiaridades podem ser, na verdade, poderes mágicos.",
    "url": "https://www.ingresso.com/filme/enfeiticadas-bem-vindos-a-hexe?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-26",
-     "hora": "14:15",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87787048&partnership=home"
-    },
     {
      "data": "2026-11-26",
      "hora": "16:35",
@@ -5146,18 +5062,6 @@
    "url": "https://www.ingresso.com/filme/os-farofeiros-3?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-26",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87787380&partnership=home"
-    },
-    {
      "data": "2026-11-27",
      "hora": "14:00",
      "cinema": "UCI Palladium",
@@ -5454,7 +5358,7 @@
     "Ação",
     "Aventura"
    ],
-   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/vingadores-doutor-destino/c2f7e2b1-ddee-47d4-b9f8-4d7dd1fe7354.webp",
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/vingadores-doutor-destino/40c501ab-ca27-4a49-a2a2-2be45e2b4f21.webp",
    "classificacao": "Verifique a Classificação",
    "duracao": "165",
    "sinopse": "Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.",
@@ -7501,10 +7405,59 @@
    "duracao": "151",
    "sinopse": "Após o fenômeno global de Homem-Aranha: Sem Volta Para Casa, Homem-Aranha: Um Novo Dia marca um capítulo totalmente novo para Peter Parker e o Homem-Aranha. Quatro anos se passaram desde os eventos de Sem Volta Para Casa, e Peter agora é um adulto vivendo completamente sozinho, tendo se apagado voluntariamente da vida e das memórias de quem ama. Combatendo o crime em uma Nova York que já não sabe ",
    "url": "https://www.ingresso.com/filme/homem-aranha-um-novo-novo-dia-versao-estendida?city=curitiba",
-   "sessoes": []
+   "sessoes": [
+    {
+     "data": "2026-12-03",
+     "hora": "18:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87807031&partnership=home"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "18:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87807026&partnership=home"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "18:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87807029&partnership=home"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "18:10",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 8",
+     "tipos": [
+      "2D",
+      "DUB"
+     ],
+     "preco": 54.75,
+     "url": "https://checkout.ingresso.com/?sessionId=87807037&partnership=home"
+    }
+   ]
   }
  },
- "atualizadoEm": "2026-11-26T00:25:53-03:00",
+ "atualizadoEm": "2026-11-26T15:53:58-03:00",
  "janelaDias": 30,
  "erro": null
 }
