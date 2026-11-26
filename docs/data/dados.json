@@ -939,6 +939,20 @@
    "idioma": "Danish",
    "sinopse": "This documentary explores the dark history of Denmark's Næstved Zoo, a center of gang activity, animal trafficking, drugs – and murder.",
    "url": "https://www.hbomax.com/show/1f1490fc-9a06-448b-bd57-23df3f36e1fc"
+  },
+  "s96033-1": {
+   "id": "s96033-1",
+   "titulo": "Quiz from God",
+   "temporada": 1,
+   "data": "2026-12-04",
+   "generos": [
+    "Série"
+   ],
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/653/1633706.jpg",
+   "plataforma": "Prime Video",
+   "idioma": "Japanese",
+   "sinopse": "Haruto Hatsushima, a genius forensic pathologist and former neurosurgeon, works at Tokyo's National Forensic Autopsy Center, solving mysterious deaths caused by rare, undetectable diseases. Hailed as \"a genius chosen by God,\" he treats each case as a \"Quiz from God,\" uncovering hidden truths behind society's darkest tragedies. Yet Haruto harbors secrets of his own: a mysterious illness slowly cons",
+   "url": "https://www.tvmaze.com/shows/96033/quiz-from-god"
   }
  },
  "filmes": {
@@ -957,102 +971,6 @@
    "sinopse": "\"Jogos Vorazes: Amanhecer Na Colheita\" revisitará o mundo de Panem 24 anos antes dos eventos de Jogos Vorazes, começando na manhã da colheita dos 50º Jogos Vorazes, também conhecida como o Segundo Massacre Quaternário.",
    "url": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "17:10",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713117&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "17:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "LEG"
-     ],
-     "preco": 40.77,
-     "url": "https://checkout.ingresso.com/?sessionId=87408661&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "18:10",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713402&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "18:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87408651&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "20:20",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713416&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "20:50",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "DUB"
-     ],
-     "preco": 40.77,
-     "url": "https://checkout.ingresso.com/?sessionId=87408664&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "21:20",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713426&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "21:50",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87408621&partnership=home"
-    },
     {
      "data": "2026-11-26",
      "hora": "14:00",
@@ -1992,66 +1910,6 @@
    "url": "https://www.ingresso.com/filme/eu-sou-o-rocky?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-25",
-     "hora": "16:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87627669&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "18:35",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713319&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "19:20",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87627702&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "21:10",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713418&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "22:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87627673&partnership=home"
-    },
-    {
      "data": "2026-11-26",
      "hora": "16:40",
      "cinema": "UCI Palladium",
@@ -2361,32 +2219,7 @@
    "duracao": "119",
    "sinopse": "Após testemunhar acidentalmente um crime violento, Josephine, uma menina de 8 anos, passa a buscar maneiras de recuperar sua sensação de segurança. Enquanto lida com o trauma, os adultos ao seu redor mostram-se incapazes de confortá-la adequadamente.",
    "url": "https://www.ingresso.com/filme/josephine-fragmentos-de-um-crime?city=curitiba",
-   "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "17:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713411&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "21:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713398&partnership=home"
-    }
-   ]
+   "sessoes": []
   },
   "f34268": {
    "id": "f34268",
@@ -2499,30 +2332,6 @@
    "sinopse": "A trama acompanha Cliff Booth após os acontecimentos de Era Uma Vez em... Hollywood, explorando uma nova fase de sua vida como um \"resolvedor de problemas\" nos bastidores da indústria cinematográfica de Hollywood.",
    "url": "https://www.ingresso.com/filme/as-novas-desventuras-de-cliff-booth?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "19:10",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 38.44,
-     "url": "https://checkout.ingresso.com/?sessionId=87741325&partnership=home"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "22:00",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 38.44,
-     "url": "https://checkout.ingresso.com/?sessionId=87741317&partnership=home"
-    },
     {
      "data": "2026-11-26",
      "hora": "16:20",
@@ -2794,18 +2603,6 @@
    "sinopse": "Henry, filho de Greg e Pam, se apaixona por Olivia Jones, uma mulher que parece não combinar nada com ele e desperta a desconfiança do futuro sogro.",
    "url": "https://www.ingresso.com/filme/entrando-numa-grande-fria?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "19:25",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713422&partnership=home"
-    },
     {
      "data": "2026-11-26",
      "hora": "14:40",
@@ -4169,7 +3966,7 @@
     "Comédia"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/noite-ainda-mais-infeliz/00e1008c-0b36-481b-90e5-1ba7ec2a52c0.webp",
-   "classificacao": "Verifique a Classificação",
+   "classificacao": "16 anos",
    "duracao": "110",
    "sinopse": "Encalhado em um shopping em ruínas em Nova Jersey e isolado do Pólo Norte, o Papai Noel está preso fazendo justiça violenta a um implacável Senhor do Crime e seus capangas que invadem o shopping da cidade.",
    "url": "https://www.ingresso.com/filme/noite-ainda-mais-infeliz?city=curitiba",
@@ -4201,7 +3998,7 @@
     "Fantasia"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/fiz-um-foguete-imaginando-que-voce-vinha/9fc4b0c3-d97a-4e35-9c85-899734bb33f9.webp",
-   "classificacao": "Verifique a Classificação",
+   "classificacao": "14 anos",
    "duracao": "92",
    "sinopse": "No zumbido silencioso de uma ressonância magnética, Rosa (50) é orientada a evocar uma lembrança feliz. Em uma viagem pelo seu subconsciente, ela revisita o passado e reconstrói um episódio que nunca viveu: uma travessia com sua mãe, Dalva, mulher livre e irreverente que chegou a ser presa por matar um homem prestes a cometer um feminicídio. Crescida na ausência da mãe, Rosa carrega culpa e medo d",
    "url": "https://www.ingresso.com/filme/fiz-um-foguete-imaginando-que-voce-vinha?city=curitiba",
@@ -4218,7 +4015,7 @@
     "Thriller"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/psicopata-vitoriana/9ca02ec4-4c26-4679-896f-9d337e407866.webp",
-   "classificacao": "Verifique a Classificação",
+   "classificacao": "18 anos",
    "duracao": "90",
    "sinopse": "No terror PSICOPATA VITORIANA, Winifred Notty (Maika Monroe) chega à sombria mansão Ensor House para trabalhar como governanta de uma família. Sua missão é disciplinar as crianças, ensinar bons modos e preservar a história da família, mas por trás do sorriso impecável, Winifred esconde uma mente perturbada e desejos violentos.\nQuando funcionários começam a desaparecer um a um, os donos da casa per",
    "url": "https://www.ingresso.com/filme/psicopata-vitoriana?city=curitiba",
@@ -4234,7 +4031,7 @@
     "Suspense"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/a-ultima-entrega/ec6cab11-c423-4d20-9dd5-8302b700e45d.webp",
-   "classificacao": "Verifique a Classificação",
+   "classificacao": "16 anos",
    "duracao": "98",
    "sinopse": "Um horticultor silencioso que vive uma vida secreta como assassino letal vê sua verdadeira identidade comprometida ao formar uma amizade improvável com uma testemunha de corrupção policial.",
    "url": "https://www.ingresso.com/filme/a-ultima-entrega?city=curitiba",
@@ -4347,6 +4144,42 @@
    "url": "https://www.ingresso.com/filme/duna-parte-2-relancamento?city=curitiba",
    "sessoes": [
     {
+     "data": "2026-12-04",
+     "hora": "20:45",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 3",
+     "tipos": [
+      "XPLUS",
+      "DUB"
+     ],
+     "preco": 50.09,
+     "url": "https://checkout.ingresso.com/?sessionId=87804318&partnership=home"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "18:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 3",
+     "tipos": [
+      "XPLUS",
+      "DUB"
+     ],
+     "preco": 50.09,
+     "url": "https://checkout.ingresso.com/?sessionId=87804264&partnership=home"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "18:00",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 3",
+     "tipos": [
+      "XPLUS",
+      "DUB"
+     ],
+     "preco": 50.09,
+     "url": "https://checkout.ingresso.com/?sessionId=87804229&partnership=home"
+    },
+    {
      "data": "2026-12-10",
      "hora": "17:05",
      "cinema": "IMAX Palladium",
@@ -4447,6 +4280,42 @@
    "sinopse": "Em um futuro distante, planetas são comandados por casas nobres que fazem parte de um império feudal intergalático. Paul Atreides é um jovem homem cuja família toma controle do planeta deserto Arrakis, também conhecido como Duna. Sendo a única fonte da especiaria melange, a substância mais importante do cosmos, Arrakis se prova ser um planeta nem um pouco fácil de governar.",
    "url": "https://www.ingresso.com/filme/duna-relancamento?city=curitiba",
    "sessoes": [
+    {
+     "data": "2026-12-03",
+     "hora": "20:45",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 3",
+     "tipos": [
+      "XPLUS",
+      "DUB"
+     ],
+     "preco": 50.09,
+     "url": "https://checkout.ingresso.com/?sessionId=87804240&partnership=home"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "14:45",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 3",
+     "tipos": [
+      "XPLUS",
+      "DUB"
+     ],
+     "preco": 50.09,
+     "url": "https://checkout.ingresso.com/?sessionId=87804268&partnership=home"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "14:45",
+     "cinema": "UCI Palladium",
+     "sala": "Sala 3",
+     "tipos": [
+      "XPLUS",
+      "DUB"
+     ],
+     "preco": 50.09,
+     "url": "https://checkout.ingresso.com/?sessionId=87804236&partnership=home"
+    },
     {
      "data": "2026-12-10",
      "hora": "13:40",
@@ -4574,7 +4443,7 @@
     "Religião"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/a-paixao-de-cristo-relancamento/7c1ee04e-a2a6-4c83-aafa-c190a58110ff.webp",
-   "classificacao": "14 anos",
+   "classificacao": "18 anos",
    "duracao": "127",
    "sinopse": "As últimas 12 horas da vida de Jesus de Nazaré (James Caviezel). No meio da noite, Jesus é traído por Judas (Luca Lionello) e é preso por soldados no Monte das Oliveiras, sob o comando de religiosos hebreus, que eram liderados por Caifás (Matti Sbraglia). Após ser severamente espancado pelos seus captores, Jesus é entregue para o governador romano na Judéia, Poncio Pilatos (Hristo Shopov), pois só",
    "url": "https://www.ingresso.com/filme/a-paixao-de-cristo-relancamento?city=curitiba",
@@ -5441,20 +5310,7 @@
    "duracao": "117",
    "sinopse": "Uma nova adaptação de\"Um Conto de Natal\", de Charles Dickens. Na véspera de Natal, o avarento Ebenezer Scrooge recebe a visita do fantasma de seu antigo sócio, Jacob Marley, e dos espíritos do Natal Passado, Presente e Futuro. As aparições o obrigam a confrontar sua própria vida e oferecem uma chance de redenção.",
    "url": "https://www.ingresso.com/filme/ebenezer-e-os-fantasmas-do-natal?city=curitiba",
-   "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "19:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713173&partnership=home"
-    }
-   ]
+   "sessoes": []
   },
   "f32109": {
    "id": "f32109",
@@ -5500,20 +5356,7 @@
    "duracao": "123",
    "sinopse": "A Virada: Ignição da Alma é um remake brasileiro do filme dos Irmãos Kendrick, ambientado no Rio de Janeiro. A história acompanha Noah Silva, um vendedor de carros usados carismático, cuja vida começa a desmoronar após sua postura “a qualquer custo” cobrar um preço alto em casa e no trabalho. Confrontado por uma série de alertas, ele embarca em uma jornada de reconciliação e transformação pessoal,",
    "url": "https://www.ingresso.com/filme/a-virada-ignicao-da-alma?city=curitiba",
-   "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "17:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713340&partnership=home"
-    }
-   ]
+   "sessoes": []
   },
   "f32814": {
    "id": "f32814",
@@ -5566,20 +5409,7 @@
    "duracao": "125",
    "sinopse": "A guerra reduziu o Japão a zero, e o Godzilla mergulhou-o no negativo. Passaram-se dois anos desde então, e o país tem enfrentado lutas agonizantes para alcançar a recuperação e, finalmente, voltar à vida normal.\nNo momento em que a humanidade conseguiu se agarrar a uma paz conquistada com dificuldade, surge uma nova ameaça, esmagando a esperança num instante. Não há uma terceira vez. Tudo acaba a",
    "url": "https://www.ingresso.com/filme/godzilla-minus-zero?city=curitiba",
-   "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "21:55",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 43.1,
-     "url": "https://checkout.ingresso.com/?sessionId=87713096&partnership=home"
-    }
-   ]
+   "sessoes": []
   },
   "f33421": {
    "id": "f33421",
@@ -7353,7 +7183,7 @@
     "Animação"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/malu-tatu/d814a771-55cc-4e29-9c1a-c0cc8251cb93.webp",
-   "classificacao": "Verifique a Classificação",
+   "classificacao": "6 anos",
    "duracao": "76",
    "sinopse": "Malu, uma jovem tatu-mulita, desafia regras para salvar sua comunidade da seca. Determinada a provar seu valor como construtora, ela enfrenta seu chefe e um perigoso caçador humano. Em sua jornada pelo mundo exterior, faz alianças improváveis e lidera um plano ousado de resgate e reconstrução da toca dos tatus.",
    "url": "https://www.ingresso.com/filme/malu-tatu?city=curitiba",
@@ -7447,7 +7277,7 @@
     "Musical"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/para-vigo-me-voy/a59aadeb-25c4-4ee6-a03a-12c09742eda9.webp",
-   "classificacao": "Verifique a Classificação",
+   "classificacao": "12 anos",
    "duracao": "97",
    "sinopse": "Documentário que mergulha na obra de Carlos Diegues, cineasta que retratou a história e o espírito do Brasil desde 1961. O longa navega entre os filmes dele e sua trajetória pessoal. Trechos das obras são intercalados com entrevistas do diretor. Acompanhamos a evolução de seu cinema e de seu discurso, costurando esse diálogo com imagens inéditas da última filmagem de Diegues em Deus Ainda é Brasil",
    "url": "https://www.ingresso.com/filme/para-vigo-me-voy?city=curitiba",
@@ -7478,7 +7308,7 @@
     "Animação"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/amadeo-e-o-hipotetico-mundo-novo/bdea5971-a265-4ef4-8d34-99ef170c6645.webp",
-   "classificacao": "Verifique a Classificação",
+   "classificacao": "12 anos",
    "duracao": "104",
    "sinopse": "Amadeo é um jovem africano sensível e genial que inventa a câmera fotográfica antes dos europeus. Tudo sobre sua invenção seria mais fácil e maravilhoso se não tivesse acontecido no século XIX no Brasil — o último país das Américas a abolir a escravidão. Amadeo nutre uma paixão proibida por Linda, uma jovem idealista apaixonada pela ciência e pela arte. Para aliviar as dores desse amor, o jovem ci",
    "url": "https://www.ingresso.com/filme/amadeo-e-o-hipotetico-mundo-novo?city=curitiba",
@@ -7619,7 +7449,7 @@
     "Documentário"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/intervencao/e637e9d4-f66c-48b3-b59c-b133fb8108d8.webp",
-   "classificacao": "Verifique a Classificação",
+   "classificacao": "12 anos",
    "duracao": "97",
    "sinopse": "Filmado ao longo de quatro anos, o documentário acompanha o cotidiano dos moradores de uma comunidade que luta para ser urbanizada, formada por duas favelas e um conjunto habitacional na zona oeste de São Paulo. Essa urbanização gera resistência dos moradores da área mais valorizada do bairro, num movimento conhecido como “Not In My Backyard”.",
    "url": "https://www.ingresso.com/filme/intervencao?city=curitiba",
@@ -7634,7 +7464,7 @@
     "Documentário"
    ],
    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/filhas-da-noite/00a31d10-f6c3-4f68-aff3-af4c27dcaa87.webp",
-   "classificacao": "Verifique a Classificação",
+   "classificacao": "14 anos",
    "duracao": "109",
    "sinopse": "Refletidas por um globo espelhado, seis ícones das noites pernambucanas revisitam seus passados e revivem suas mais íntimas memórias. Pioneiras de uma revolução ainda em curso, elas são e sempre serão Filhas da Noite.",
    "url": "https://www.ingresso.com/filme/filhas-da-noite?city=curitiba",
@@ -7654,9 +7484,27 @@
    "sinopse": "Sob a terra de um cemitério em São Paulo, os mortos sem nome insistem em permanecer. Uma vala comum criada nos anos 1970, o silêncio que ainda envolve um massacre policial ocorrido nos anos 2000 e um laboratório forense ameaçado de fechamento revelam um país onde o esquecimento faz parte da paisagem. Em meio a esse projeto de apagamento, três mulheres desafiam o silêncio em busca da memória, da ve",
    "url": "https://www.ingresso.com/filme/sobre-memoria-e-esquecimento?city=curitiba",
    "sessoes": []
+  },
+  "f34541": {
+   "id": "f34541",
+   "titulo": "Homem-Aranha: Um (Novo) Novo Dia (Versão Estendida)",
+   "tituloOriginal": "Spider-Man: A New Brand New Day",
+   "data": "2026-12-03",
+   "generos": [
+    "Ação",
+    "Aventura",
+    "Fantasia",
+    "Ficção Científica"
+   ],
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/homem-aranha-um-novo-novo-dia-versao-estendida/578a5893-54ab-427c-bab5-2e265daaf5ac.webp",
+   "classificacao": "Verifique a Classificação",
+   "duracao": "151",
+   "sinopse": "Após o fenômeno global de Homem-Aranha: Sem Volta Para Casa, Homem-Aranha: Um Novo Dia marca um capítulo totalmente novo para Peter Parker e o Homem-Aranha. Quatro anos se passaram desde os eventos de Sem Volta Para Casa, e Peter agora é um adulto vivendo completamente sozinho, tendo se apagado voluntariamente da vida e das memórias de quem ama. Combatendo o crime em uma Nova York que já não sabe ",
+   "url": "https://www.ingresso.com/filme/homem-aranha-um-novo-novo-dia-versao-estendida?city=curitiba",
+   "sessoes": []
   }
  },
- "atualizadoEm": "2026-11-25T16:02:19-03:00",
+ "atualizadoEm": "2026-11-26T00:25:53-03:00",
  "janelaDias": 30,
  "erro": null
 }
