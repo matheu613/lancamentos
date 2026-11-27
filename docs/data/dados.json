@@ -298,7 +298,7 @@
    "plataforma": "HBO Max",
    "idioma": "English",
    "sinopse": "Bam, Redbird, Bibi, Batwing, and Buff are thrust into hilarious hijinks and draw-dropping action as they learn important lessons about teamwork, friendship, and so much more while helping Batman, Robin, and Batgirl defend Gotham.",
-   "url": "https://play.max.com/show/452d85bb-bb46-4f16-bc58-26e5391d200d"
+   "url": "https://www.hbomax.com/show/452d85bb-bb46-4f16-bc58-26e5391d200d"
   },
   "s95442-1": {
    "id": "s95442-1",
@@ -904,7 +904,8 @@
    "temporada": 1,
    "data": "2026-11-27",
    "generos": [
-    "Crime"
+    "Crime",
+    "Sobrenatural"
    ],
    "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/653/1633579.jpg",
    "plataforma": "HBO Max",
@@ -987,54 +988,6 @@
    "sinopse": "\"Jogos Vorazes: Amanhecer Na Colheita\" revisitará o mundo de Panem 24 anos antes dos eventos de Jogos Vorazes, começando na manhã da colheita dos 50º Jogos Vorazes, também conhecida como o Segundo Massacre Quaternário.",
    "url": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87786994&partnership=home"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "14:15",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87787052&partnership=home"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "14:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "DUB"
-     ],
-     "preco": 50.09,
-     "url": "https://checkout.ingresso.com/?sessionId=87787016&partnership=home"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "15:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87788226&partnership=home"
-    },
     {
      "data": "2026-11-27",
      "hora": "17:10",
@@ -2417,18 +2370,6 @@
    "sessoes": [
     {
      "data": "2026-11-27",
-     "hora": "14:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87787282&partnership=home"
-    },
-    {
-     "data": "2026-11-27",
      "hora": "17:00",
      "cinema": "UCI Palladium",
      "sala": "Sala 4",
@@ -2724,18 +2665,6 @@
    "sessoes": [
     {
      "data": "2026-11-27",
-     "hora": "14:35",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87787293&partnership=home"
-    },
-    {
-     "data": "2026-11-27",
      "hora": "17:25",
      "cinema": "UCI Palladium",
      "sala": "Sala 6",
@@ -2918,18 +2847,6 @@
    "sinopse": "Uma adolescente desajeitada e sua mãe perfeccionista descobrem que suas peculiaridades podem ser, na verdade, poderes mágicos.",
    "url": "https://www.ingresso.com/filme/enfeiticadas-bem-vindos-a-hexe?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "14:15",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87787003&partnership=home"
-    },
     {
      "data": "2026-11-27",
      "hora": "16:35",
@@ -4067,7 +3984,7 @@
     "Animação",
     "Infantil / Aventura"
    ],
-   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/shrek-25-aniversario/628f6ed3-31bd-4c7b-92e0-4394735f0a62.webp",
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/shrek-25-aniversario/f84b16e0-b46b-4b37-b87a-e80647ebc1f2.webp",
    "classificacao": "Verifique a Classificação",
    "duracao": "90",
    "sinopse": "Em um pântano distante vive Shrek (Mike Myers), um ogro solitário que vê, sem mais nem menos, sua vida ser invadida por uma série de personagens de contos de fada, como três ratos cegos, um grande e malvado lobo e ainda três porcos que não têm um lugar onde morar. Todos eles foram expulsos de seus lares pelo maligno Lorde Farquaad (John Lithgow). Determinado a recuperar a tranquilidade de antes, S",
@@ -4801,18 +4718,6 @@
    "sinopse": "Desta vez o grupo de amigos viaja ao Caribe, mais precisamente até a ilha de San Sábados — que fica entre as ilhas de San Viernes e San Domingos —, para o casamento de Anita, filha de Rocha.",
    "url": "https://www.ingresso.com/filme/os-farofeiros-3?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "14:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87787372&partnership=home"
-    },
     {
      "data": "2026-11-28",
      "hora": "14:00",
@@ -7195,9 +7100,27 @@
      "url": "https://checkout.ingresso.com/?sessionId=87807037&partnership=home"
     }
    ]
+  },
+  "f34551": {
+   "id": "f34551",
+   "titulo": "Godzilla Minus Zero/ C",
+   "tituloOriginal": "Godzilla Minus Zero/ C",
+   "data": "2026-12-10",
+   "generos": [
+    "Ação",
+    "Aventura",
+    "Drama",
+    "Ficção Científica"
+   ],
+   "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/godzilla-minus-zero-c/6927ea7f-6f5d-4469-9b59-88c9f7789343.webp",
+   "classificacao": "16 anos",
+   "duracao": "135",
+   "sinopse": "A guerra reduziu o Japão a zero, e o Godzilla mergulhou-o no negativo. Passaram-se dois anos desde então, e o país tem enfrentado lutas agonizantes para alcançar a recuperação e, finalmente, voltar à vida normal.\nNo momento em que a humanidade conseguiu se agarrar a uma paz conquistada com dificuldade, surge uma nova ameaça, esmagando a esperança num instante. Não há uma terceira vez. Tudo acaba a",
+   "url": "https://www.ingresso.com/filme/godzilla-minus-zero-c?city=curitiba",
+   "sessoes": []
   }
  },
- "atualizadoEm": "2026-11-27T00:33:26-03:00",
+ "atualizadoEm": "2026-11-27T15:45:18-03:00",
  "janelaDias": 30,
  "erro": null
 }
