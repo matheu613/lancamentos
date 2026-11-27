@@ -864,7 +864,7 @@
    "generos": [
     "Documentário"
    ],
-   "imagem": null,
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/653/1634207.jpg",
    "plataforma": "Apple TV+",
    "idioma": "English",
    "sinopse": "An expansive portrait of the life and career of multi-hyphenate artist and icon Justin Timberlake. Raw, reflective and revealing, Timberlake sits down to discuss the triumphs that made him a global success, his personal perspective beyond the headlines and the challenges he's faced behind the scenes.",
@@ -953,6 +953,22 @@
    "idioma": "Japanese",
    "sinopse": "Haruto Hatsushima, a genius forensic pathologist and former neurosurgeon, works at Tokyo's National Forensic Autopsy Center, solving mysterious deaths caused by rare, undetectable diseases. Hailed as \"a genius chosen by God,\" he treats each case as a \"Quiz from God,\" uncovering hidden truths behind society's darkest tragedies. Yet Haruto harbors secrets of his own: a mysterious illness slowly cons",
    "url": "https://www.tvmaze.com/shows/96033/quiz-from-god"
+  },
+  "s65860-2": {
+   "id": "s65860-2",
+   "titulo": "Åremorden",
+   "temporada": 2,
+   "data": "2026-12-27",
+   "generos": [
+    "Drama",
+    "Crime",
+    "Suspense"
+   ],
+   "imagem": "https://static.tvmaze.com/uploads/images/medium_portrait/554/1385070.jpg",
+   "plataforma": "Netflix",
+   "idioma": "Swedish",
+   "sinopse": "Police officer Hanna Ahlander has been suspended from her job in Stockholm and dumped by her partner when she moves to her sister's vacation home in Åre. When a young woman goes missing on the icy night of Lucia, Hanna can't help but start investigating the case. With a tough family situation and an understaffed police station, local police officer Daniel Lindskog reluctantly has to accept Hanna's",
+   "url": "https://www.netflix.com/title/81748580"
   }
  },
  "filmes": {
@@ -971,90 +987,6 @@
    "sinopse": "\"Jogos Vorazes: Amanhecer Na Colheita\" revisitará o mundo de Panem 24 anos antes dos eventos de Jogos Vorazes, começando na manhã da colheita dos 50º Jogos Vorazes, também conhecida como o Segundo Massacre Quaternário.",
    "url": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-26",
-     "hora": "17:10",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87787355&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "17:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "LEG"
-     ],
-     "preco": 50.09,
-     "url": "https://checkout.ingresso.com/?sessionId=87787007&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "18:10",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87788061&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "19:50",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87787011&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "20:20",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 7",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87787002&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "20:50",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 3",
-     "tipos": [
-      "XPLUS",
-      "DUB"
-     ],
-     "preco": 50.09,
-     "url": "https://checkout.ingresso.com/?sessionId=87787276&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "21:20",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87788157&partnership=home"
-    },
     {
      "data": "2026-11-27",
      "hora": "14:00",
@@ -1862,42 +1794,6 @@
    "url": "https://www.ingresso.com/filme/eu-sou-o-rocky?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-26",
-     "hora": "16:40",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87787030&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "19:20",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87787012&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "22:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 2",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87786999&partnership=home"
-    },
-    {
      "data": "2026-11-27",
      "hora": "16:40",
      "cinema": "UCI Palladium",
@@ -2285,42 +2181,6 @@
    "url": "https://www.ingresso.com/filme/as-novas-desventuras-de-cliff-booth?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-26",
-     "hora": "16:20",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "DUB"
-     ],
-     "preco": 47.76,
-     "url": "https://checkout.ingresso.com/?sessionId=87741326&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "19:10",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 47.76,
-     "url": "https://checkout.ingresso.com/?sessionId=87741332&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "22:00",
-     "cinema": "IMAX Palladium",
-     "sala": "Sala 1",
-     "tipos": [
-      "IMAX",
-      "LEG"
-     ],
-     "preco": 47.76,
-     "url": "https://checkout.ingresso.com/?sessionId=87741324&partnership=home"
-    },
-    {
      "data": "2026-11-27",
      "hora": "16:20",
      "cinema": "IMAX Palladium",
@@ -2555,42 +2415,6 @@
    "sinopse": "Henry, filho de Greg e Pam, se apaixona por Olivia Jones, uma mulher que parece não combinar nada com ele e desperta a desconfiança do futuro sogro.",
    "url": "https://www.ingresso.com/filme/entrando-numa-grande-fria?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-26",
-     "hora": "17:00",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87787044&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "19:15",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87787356&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "21:30",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 4",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87787015&partnership=home"
-    },
     {
      "data": "2026-11-27",
      "hora": "14:40",
@@ -2899,30 +2723,6 @@
    "url": "https://www.ingresso.com/filme/pecadora?city=curitiba",
    "sessoes": [
     {
-     "data": "2026-11-26",
-     "hora": "17:25",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 6",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87786987&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "19:20",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "NAC"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87786993&partnership=home"
-    },
-    {
      "data": "2026-11-27",
      "hora": "14:35",
      "cinema": "UCI Palladium",
@@ -3118,42 +2918,6 @@
    "sinopse": "Uma adolescente desajeitada e sua mãe perfeccionista descobrem que suas peculiaridades podem ser, na verdade, poderes mágicos.",
    "url": "https://www.ingresso.com/filme/enfeiticadas-bem-vindos-a-hexe?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-26",
-     "hora": "16:35",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "3D",
-      "DUB"
-     ],
-     "preco": 59.41,
-     "url": "https://checkout.ingresso.com/?sessionId=87787000&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "18:55",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87787008&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "21:15",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 5",
-     "tipos": [
-      "2D",
-      "DUB"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87787364&partnership=home"
-    },
     {
      "data": "2026-11-27",
      "hora": "14:15",
@@ -3562,30 +3326,6 @@
    "sinopse": "Dois irmãos moram sozinhos em uma ilha remota da Escócia e sobrevivem caçando aves marinhas, recontando as histórias de seus ancestrais e defendendo a ilha dos temidos intrusos. O mundo deles vira de cabeça para baixo com a chegada de um desajeitado funcionário do governo que surge para despejá-los de sua terra natal.",
    "url": "https://www.ingresso.com/filme/o-intruso?city=curitiba",
    "sessoes": [
-    {
-     "data": "2026-11-26",
-     "hora": "17:05",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87788405&partnership=home"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "21:50",
-     "cinema": "UCI Palladium",
-     "sala": "Sala 8",
-     "tipos": [
-      "2D",
-      "LEG"
-     ],
-     "preco": 54.75,
-     "url": "https://checkout.ingresso.com/?sessionId=87788422&partnership=home"
-    },
     {
      "data": "2026-11-27",
      "hora": "17:05",
@@ -7457,7 +7197,7 @@
    ]
   }
  },
- "atualizadoEm": "2026-11-26T15:53:58-03:00",
+ "atualizadoEm": "2026-11-27T00:33:26-03:00",
  "janelaDias": 30,
  "erro": null
 }
